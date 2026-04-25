@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Road Accident Severity Prediction</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            opacity: 0.9;
+        }
+        
+        .form-container {
+            padding: 30px;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .form-group select,
+        .form-group input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: border-color 0.3s;
+        }
+        
+        .form-group select:focus,
+        .form-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        
+        .submit-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        
+        .submit-btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .result-container {
+            display: none;
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .result-container.show {
+            display: block;
+            animation: fadeIn 0.5s;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .prediction {
+            text-align: center;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .prediction h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        
+        .severity-fatal { color: #dc3545; }
+        .severity-serious { color: #fd7e14; }
+        .severity-slight { color: #28a745; }
+        
+        .probabilities {
+            margin-top: 20px;
+        }
+        
+        .prob-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .prob-label {
+            width: 100px;
+            font-weight: 600;
+        }
+        
+        .prob-bar {
+            flex: 1;
+            height: 25px;
+            background: #e0e0e0;
+            border-radius: 12px;
+            overflow: hidden;
+            margin: 0 15px;
+        }
+        
+        .prob-fill {
+            height: 100%;
+            border-radius: 12px;
+            transition: width 0.5s;
+        }
+        
+        .prob-value {
+            width: 50px;
+            text-align: right;
+            font-weight: 600;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚗 Road Accident Severity Prediction</h1>
+            <p>Predict the likely severity of a road accident based on various factors</p>
+        </div>
+        
+        <div class="form-container">
+            <form id="predictionForm">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="Day_of_Week">Day of Week</label>
+                        <select id="Day_of_Week" name="Day_of_Week" required>
+                            <option value="">Select Day</option>
+                            <option value="Monday">Monday</option>
+                            <option value="Tuesday">Tuesday</option>
+                            <option value="Wednesday">Wednesday</option>
+                            <option value="Thursday">Thursday</option>
+                            <option value="Friday">Friday</option>
+                            <option value="Saturday">Saturday</option>
+                            <option value="Sunday">Sunday</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Age_of_Driver">Age of Driver</label>
+                        <input type="number" id="Age_of_Driver" name="Age_of_Driver" 
+                               min="18" max="70" placeholder="18-70" required>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="Sex">Driver Sex</label>
+                        <select id="Sex" name="Sex" required>
+                            <option value="">Select Sex</option>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Educational_Level">Education Level</label>
+                        <select id="Educational_Level" name="Educational_Level" required>
+                            <option value="">Select Education</option>
+                            <option value="Illiterate">Illiterate</option>
+                            <option value="Primary">Primary</option>
+                            <option value="Secondary">Secondary</option>
+                            <option value="Tertiary">Tertiary</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="Vehicle_Driver">Vehicle Type</label>
+                        <select id="Vehicle_Driver" name="Vehicle_Driver" required>
+                            <option value="">Select Vehicle</option>
+                            <option value="Automobile">Automobile</option>
+                            <option value="Motorcycle">Motorcycle</option>
+                            <option value="Lorry">Lorry</option>
+                            <option value="Bus">Bus</option>
+                            <option value="Taxi">Taxi</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Driving_Experience">Driving Experience (years)</label>
+                        <input type="number" id="Driving_Experience" name="Driving_Experience" 
+                               min="0" max="30" placeholder="0-30" required>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="Speed_Limit">Speed Limit (km/h)</label>
+                        <select id="Speed_Limit" name="Speed_Limit" required>
+                            <option value="">Select Speed</option>
+                            <option value="30">30 km/h</option>
+                            <option value="40">40 km/h</option>
+                            <option value="50">50 km/h</option>
+                            <option value="60">60 km/h</option>
+                            <option value="70">70 km/h</option>
+                            <option value="80">80 km/h</option>
+                            <option value="100">100 km/h</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Weather">Weather Conditions</label>
+                        <select id="Weather" name="Weather" required>
+                            <option value="">Select Weather</option>
+                            <option value="Clear">Clear</option>
+                            <option value="Cloudy">Cloudy</option>
+                            <option value="Rain">Rain</option>
+                            <option value="Fog">Fog</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="Road_Light_Conditions">Road Light Conditions</label>
+                        <select id="Road_Light_Conditions" name="Road_Light_Conditions" required>
+                            <option value="">Select Light</option>
+                            <option value="Daylight">Daylight</option>
+                            <option value="Night">Night</option>
+                            <option value="Twilight">Twilight</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="Road_Surface_Conditions">Road Surface</label>
+                        <select id="Road_Surface_Conditions" name="Road_Surface_Conditions" required>
+                            <option value="">Select Surface</option>
+                            <option value="Dry">Dry</option>
+                            <option value="Wet">Wet</option>
+                            <option value="Snow">Snow</option>
+                            <option value="Ice">Ice</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="Cause_of_Accident">Cause of Accident</label>
+                    <select id="Cause_of_Accident" name="Cause_of_Accident" required>
+                        <option value="">Select Cause</option>
+                        <option value="Overspeed">Overspeed</option>
+                        <option value="Drunk Driving">Drunk Driving</option>
+                        <option value="Distracted">Distracted Driving</option>
+                        <option value="Fatigue">Fatigue</option>
+                        <option value="Mechanical Failure">Mechanical Failure</option>
+                        <option value="Weather">Weather Related</option>
+                    </select>
+                </div>
+                
+                <button type="submit" class="submit-btn">Predict Severity</button>
+            </form>
+            
+            <div class="result-container" id="resultContainer">
+                <div class="prediction">
+                    <h2>Predicted Severity:</h2>
+                    <h2 id="predictionResult"></h2>
+                </div>
+                
+                <div class="probabilities">
+                    <h3>Probability Distribution:</h3>
+                    <div id="probabilities"></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Road Accident Severity Prediction System</p>
+        </div>
+    </div>
+    
+    <script>
+        document.getElementById('predictionForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            const data = Object.fromEntries(formData.entries());
+            
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                });
+                
+                const result = await response.json();
+                
+                if (result.error) {
+                    alert('Error: ' + result.error);
+                    return;
+                }
+                
+                // Display prediction
+                const resultContainer = document.getElementById('resultContainer');
+                const predictionResult = document.getElementById('predictionResult');
+                const probabilitiesDiv = document.getElementById('probabilities');
+                
+                predictionResult.textContent = result.prediction;
+                predictionResult.className = 'severity-' + result.prediction.toLowerCase();
+                
+                // Display probabilities
+                let probHTML = '';
+                const colors = {
+                    'Fatal': '#dc3545',
+                    'Serious': '#fd7e14',
+                    'Slight': '#28a745'
+                };
+                
+                for (const [severity, prob] of Object.entries(result.probabilities)) {
+                    probHTML += `
+                        <div class="prob-item">
+                            <span class="prob-label">${severity}</span>
+                            <div class="prob-bar">
+                                <div class="prob-fill" style="width: ${prob * 100}%; background: ${colors[severity]}"></div>
+                            </div>
+                            <span class="prob-value">${(prob * 100).toFixed(1)}%</span>
+                        </div>
+                    `;
+                }
+                
+                probabilitiesDiv.innerHTML = probHTML;
+                resultContainer.classList.add('show');
+                
+            } catch (error) {
+                alert('Error making prediction: ' + error.message);
+            }
+        });
+    </script>
+</body>
+</html>

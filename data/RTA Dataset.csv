@@ -1,0 +1,2001 @@
+Day_of_Week,Age_of_Driver,Sex,Educational_Level,Vehicle_Driver,Driving_Experience,Speed_Limit,Weather,Road_Light_Conditions,Road_Surface_Conditions,Cause_of_Accident,Accident_Severity
+Sunday,57,Male,Illiterate,Taxi,18,50,Fog,Daylight,Ice,Mechanical Failure,Slight Injury
+Thursday,62,Male,Primary,Taxi,1,100,Rain,Night,Wet,Distracted,Fatal Injury
+Friday,49,Female,Illiterate,Motorcycle,23,70,Rain,Night,Dry,Overspeed,Serious Injury
+Sunday,46,Female,Secondary,Taxi,22,100,Rain,Daylight,Wet,Drunk Driving,Fatal Injury
+Wednesday,68,Male,Secondary,Lorry,1,60,Clear,Night,Ice,Weather,Serious Injury
+Friday,20,Male,Primary,Motorcycle,5,80,Clear,Twilight,Snow,Weather,Serious Injury
+Friday,57,Male,Tertiary,Lorry,18,60,Rain,Twilight,Snow,Mechanical Failure,Slight Injury
+Sunday,51,Male,Tertiary,Motorcycle,7,70,Rain,Night,Wet,Overspeed,Fatal Injury
+Tuesday,57,Male,Secondary,Taxi,25,50,Fog,Daylight,Dry,Overspeed,Serious Injury
+Wednesday,44,Male,Tertiary,Lorry,28,30,Fog,Daylight,Ice,Distracted,Slight Injury
+Sunday,30,Female,Secondary,Lorry,2,40,Cloudy,Daylight,Snow,Fatigue,Serious Injury
+Wednesday,62,Male,Primary,Lorry,25,30,Fog,Night,Wet,Fatigue,Slight Injury
+Wednesday,50,Male,Primary,Motorcycle,13,100,Fog,Night,Dry,Fatigue,Serious Injury
+Friday,23,Female,Secondary,Bus,24,40,Fog,Twilight,Dry,Weather,Slight Injury
+Thursday,41,Male,Primary,Taxi,15,40,Clear,Daylight,Snow,Weather,Slight Injury
+Wednesday,36,Male,Illiterate,Lorry,0,100,Fog,Night,Snow,Drunk Driving,Fatal Injury
+Saturday,33,Male,Illiterate,Bus,20,100,Fog,Night,Ice,Weather,Serious Injury
+Friday,57,Male,Primary,Taxi,2,50,Rain,Night,Dry,Weather,Serious Injury
+Tuesday,45,Male,Secondary,Taxi,21,70,Clear,Daylight,Ice,Overspeed,Serious Injury
+Thursday,50,Female,Secondary,Lorry,25,30,Cloudy,Daylight,Dry,Drunk Driving,Slight Injury
+Saturday,65,Male,Primary,Lorry,17,70,Cloudy,Twilight,Dry,Overspeed,Serious Injury
+Saturday,58,Female,Tertiary,Motorcycle,8,60,Fog,Daylight,Wet,Distracted,Slight Injury
+Tuesday,30,Female,Illiterate,Bus,5,50,Cloudy,Night,Snow,Distracted,Slight Injury
+Thursday,60,Male,Tertiary,Bus,22,50,Cloudy,Twilight,Dry,Drunk Driving,Slight Injury
+Friday,62,Female,Secondary,Lorry,20,60,Cloudy,Daylight,Ice,Drunk Driving,Serious Injury
+Monday,42,Male,Secondary,Taxi,24,30,Fog,Daylight,Snow,Weather,Slight Injury
+Thursday,59,Female,Tertiary,Lorry,0,80,Cloudy,Daylight,Ice,Distracted,Serious Injury
+Tuesday,53,Female,Primary,Taxi,20,60,Fog,Daylight,Snow,Mechanical Failure,Slight Injury
+Saturday,44,Male,Tertiary,Taxi,26,30,Rain,Night,Snow,Fatigue,Slight Injury
+Friday,55,Male,Tertiary,Lorry,9,40,Rain,Daylight,Dry,Weather,Slight Injury
+Thursday,24,Male,Illiterate,Automobile,26,100,Cloudy,Night,Wet,Fatigue,Serious Injury
+Monday,22,Male,Illiterate,Bus,5,50,Rain,Night,Dry,Distracted,Slight Injury
+Monday,60,Male,Tertiary,Taxi,22,30,Fog,Night,Snow,Fatigue,Slight Injury
+Wednesday,62,Female,Tertiary,Taxi,11,70,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Wednesday,68,Female,Secondary,Automobile,3,100,Cloudy,Night,Dry,Mechanical Failure,Slight Injury
+Sunday,48,Female,Illiterate,Motorcycle,27,70,Fog,Daylight,Snow,Overspeed,Fatal Injury
+Tuesday,40,Female,Illiterate,Automobile,12,100,Clear,Twilight,Snow,Drunk Driving,Serious Injury
+Thursday,59,Female,Secondary,Automobile,16,50,Fog,Daylight,Dry,Fatigue,Slight Injury
+Thursday,27,Female,Primary,Taxi,26,60,Rain,Night,Dry,Mechanical Failure,Slight Injury
+Sunday,49,Female,Illiterate,Bus,7,80,Clear,Daylight,Dry,Drunk Driving,Serious Injury
+Saturday,60,Male,Illiterate,Automobile,25,60,Fog,Twilight,Ice,Drunk Driving,Serious Injury
+Saturday,47,Male,Primary,Motorcycle,19,30,Clear,Twilight,Dry,Overspeed,Slight Injury
+Sunday,56,Female,Illiterate,Lorry,2,60,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Saturday,48,Female,Illiterate,Automobile,11,50,Clear,Daylight,Wet,Drunk Driving,Serious Injury
+Wednesday,35,Male,Primary,Automobile,6,30,Fog,Daylight,Ice,Weather,Slight Injury
+Thursday,53,Male,Primary,Motorcycle,11,40,Rain,Twilight,Dry,Distracted,Slight Injury
+Sunday,19,Male,Tertiary,Bus,1,60,Fog,Night,Wet,Overspeed,Fatal Injury
+Thursday,31,Male,Secondary,Automobile,23,60,Rain,Daylight,Ice,Overspeed,Serious Injury
+Monday,30,Female,Secondary,Automobile,13,80,Fog,Night,Ice,Fatigue,Serious Injury
+Wednesday,46,Male,Primary,Bus,21,30,Fog,Twilight,Snow,Drunk Driving,Serious Injury
+Friday,29,Female,Primary,Motorcycle,22,70,Fog,Daylight,Wet,Fatigue,Serious Injury
+Wednesday,56,Female,Illiterate,Automobile,29,60,Rain,Daylight,Snow,Weather,Slight Injury
+Sunday,19,Female,Tertiary,Bus,4,50,Fog,Twilight,Wet,Mechanical Failure,Serious Injury
+Friday,49,Male,Tertiary,Automobile,8,60,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Monday,30,Male,Primary,Lorry,20,80,Fog,Night,Snow,Mechanical Failure,Serious Injury
+Sunday,63,Female,Illiterate,Taxi,10,40,Clear,Twilight,Dry,Distracted,Slight Injury
+Tuesday,44,Female,Illiterate,Lorry,4,80,Cloudy,Twilight,Ice,Weather,Serious Injury
+Thursday,66,Female,Secondary,Automobile,2,60,Cloudy,Daylight,Wet,Drunk Driving,Serious Injury
+Monday,58,Male,Secondary,Motorcycle,26,70,Rain,Twilight,Wet,Fatigue,Serious Injury
+Thursday,34,Female,Illiterate,Taxi,16,100,Rain,Daylight,Snow,Fatigue,Serious Injury
+Saturday,57,Male,Secondary,Lorry,1,60,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Tuesday,48,Female,Primary,Bus,23,30,Fog,Twilight,Wet,Fatigue,Slight Injury
+Tuesday,51,Female,Illiterate,Motorcycle,0,60,Fog,Daylight,Ice,Drunk Driving,Fatal Injury
+Monday,41,Female,Secondary,Lorry,6,70,Fog,Night,Snow,Overspeed,Fatal Injury
+Tuesday,62,Male,Tertiary,Bus,29,30,Cloudy,Night,Dry,Fatigue,Slight Injury
+Friday,52,Male,Illiterate,Automobile,13,50,Clear,Daylight,Wet,Drunk Driving,Serious Injury
+Tuesday,65,Female,Illiterate,Bus,4,30,Rain,Night,Dry,Drunk Driving,Serious Injury
+Thursday,23,Male,Tertiary,Lorry,18,80,Clear,Daylight,Wet,Fatigue,Serious Injury
+Thursday,36,Female,Primary,Lorry,27,40,Cloudy,Night,Dry,Overspeed,Slight Injury
+Sunday,47,Male,Tertiary,Automobile,27,80,Clear,Twilight,Ice,Fatigue,Serious Injury
+Thursday,24,Male,Illiterate,Bus,10,100,Fog,Daylight,Wet,Drunk Driving,Fatal Injury
+Sunday,27,Male,Primary,Bus,22,30,Fog,Daylight,Ice,Overspeed,Serious Injury
+Thursday,58,Female,Secondary,Automobile,24,50,Clear,Daylight,Snow,Mechanical Failure,Slight Injury
+Friday,49,Male,Secondary,Bus,1,60,Cloudy,Daylight,Wet,Distracted,Serious Injury
+Sunday,51,Male,Secondary,Automobile,7,30,Clear,Daylight,Ice,Fatigue,Slight Injury
+Wednesday,45,Female,Illiterate,Motorcycle,8,80,Fog,Daylight,Dry,Weather,Serious Injury
+Saturday,32,Female,Tertiary,Lorry,26,30,Fog,Twilight,Ice,Drunk Driving,Serious Injury
+Monday,47,Female,Primary,Motorcycle,2,30,Cloudy,Twilight,Wet,Overspeed,Serious Injury
+Thursday,54,Female,Secondary,Taxi,1,30,Clear,Night,Ice,Overspeed,Serious Injury
+Tuesday,46,Male,Primary,Taxi,6,50,Fog,Daylight,Dry,Mechanical Failure,Slight Injury
+Thursday,39,Male,Illiterate,Taxi,4,70,Fog,Night,Dry,Fatigue,Serious Injury
+Tuesday,21,Male,Secondary,Automobile,20,70,Clear,Night,Dry,Weather,Serious Injury
+Saturday,37,Male,Illiterate,Bus,25,30,Clear,Twilight,Snow,Overspeed,Serious Injury
+Saturday,49,Male,Tertiary,Motorcycle,4,50,Rain,Night,Wet,Mechanical Failure,Slight Injury
+Saturday,53,Female,Illiterate,Motorcycle,19,50,Cloudy,Twilight,Dry,Drunk Driving,Slight Injury
+Tuesday,67,Male,Illiterate,Motorcycle,12,100,Cloudy,Night,Snow,Mechanical Failure,Serious Injury
+Thursday,21,Male,Tertiary,Motorcycle,20,30,Clear,Daylight,Dry,Fatigue,Slight Injury
+Saturday,44,Male,Primary,Taxi,28,80,Cloudy,Night,Ice,Mechanical Failure,Serious Injury
+Friday,34,Female,Tertiary,Motorcycle,19,80,Fog,Twilight,Wet,Overspeed,Fatal Injury
+Sunday,29,Female,Tertiary,Bus,28,40,Clear,Twilight,Ice,Overspeed,Serious Injury
+Tuesday,39,Male,Illiterate,Taxi,5,30,Clear,Twilight,Snow,Distracted,Slight Injury
+Tuesday,34,Female,Primary,Motorcycle,19,40,Clear,Night,Ice,Mechanical Failure,Slight Injury
+Thursday,27,Female,Secondary,Automobile,17,80,Rain,Night,Ice,Drunk Driving,Fatal Injury
+Tuesday,18,Female,Tertiary,Lorry,24,80,Cloudy,Twilight,Dry,Weather,Serious Injury
+Tuesday,39,Female,Primary,Lorry,1,30,Rain,Daylight,Ice,Weather,Serious Injury
+Saturday,43,Female,Tertiary,Lorry,24,40,Fog,Daylight,Dry,Fatigue,Slight Injury
+Thursday,35,Female,Tertiary,Taxi,25,40,Cloudy,Night,Dry,Distracted,Slight Injury
+Saturday,67,Female,Tertiary,Motorcycle,5,30,Rain,Night,Wet,Mechanical Failure,Slight Injury
+Sunday,31,Male,Tertiary,Taxi,8,100,Clear,Twilight,Snow,Drunk Driving,Serious Injury
+Sunday,64,Male,Illiterate,Bus,24,40,Rain,Night,Snow,Distracted,Slight Injury
+Saturday,46,Female,Primary,Automobile,2,100,Clear,Night,Snow,Overspeed,Fatal Injury
+Sunday,29,Male,Primary,Automobile,0,60,Rain,Twilight,Dry,Fatigue,Serious Injury
+Thursday,53,Male,Primary,Lorry,0,80,Rain,Twilight,Snow,Mechanical Failure,Fatal Injury
+Monday,52,Female,Tertiary,Lorry,18,70,Rain,Night,Dry,Weather,Serious Injury
+Saturday,69,Male,Illiterate,Lorry,4,100,Clear,Daylight,Wet,Drunk Driving,Serious Injury
+Friday,29,Female,Tertiary,Motorcycle,12,100,Rain,Night,Snow,Overspeed,Fatal Injury
+Friday,24,Female,Tertiary,Bus,18,100,Cloudy,Daylight,Dry,Distracted,Serious Injury
+Tuesday,46,Female,Primary,Bus,11,50,Cloudy,Daylight,Snow,Fatigue,Slight Injury
+Sunday,28,Male,Tertiary,Bus,15,40,Cloudy,Daylight,Snow,Distracted,Slight Injury
+Friday,50,Male,Secondary,Bus,24,40,Clear,Twilight,Wet,Weather,Slight Injury
+Tuesday,23,Male,Tertiary,Lorry,24,50,Clear,Twilight,Ice,Distracted,Slight Injury
+Monday,64,Male,Secondary,Automobile,18,40,Cloudy,Twilight,Snow,Drunk Driving,Serious Injury
+Thursday,32,Female,Tertiary,Lorry,2,50,Cloudy,Night,Wet,Overspeed,Serious Injury
+Thursday,49,Female,Illiterate,Bus,11,100,Cloudy,Twilight,Snow,Mechanical Failure,Serious Injury
+Thursday,68,Male,Illiterate,Lorry,29,30,Fog,Twilight,Snow,Drunk Driving,Serious Injury
+Friday,28,Female,Primary,Bus,4,60,Cloudy,Night,Snow,Weather,Slight Injury
+Monday,40,Female,Tertiary,Taxi,1,100,Rain,Night,Snow,Fatigue,Fatal Injury
+Friday,43,Male,Secondary,Automobile,21,60,Fog,Daylight,Ice,Weather,Slight Injury
+Sunday,51,Female,Secondary,Taxi,6,80,Fog,Night,Ice,Weather,Serious Injury
+Friday,63,Male,Tertiary,Motorcycle,12,100,Clear,Night,Snow,Distracted,Serious Injury
+Monday,51,Female,Secondary,Lorry,24,70,Rain,Twilight,Snow,Fatigue,Serious Injury
+Monday,46,Male,Illiterate,Motorcycle,14,40,Clear,Daylight,Wet,Drunk Driving,Serious Injury
+Sunday,21,Female,Secondary,Lorry,21,70,Clear,Daylight,Wet,Weather,Serious Injury
+Monday,34,Female,Primary,Taxi,2,30,Rain,Night,Dry,Drunk Driving,Serious Injury
+Monday,52,Male,Illiterate,Bus,27,60,Clear,Twilight,Ice,Mechanical Failure,Slight Injury
+Thursday,30,Male,Illiterate,Bus,20,100,Rain,Twilight,Snow,Distracted,Serious Injury
+Sunday,58,Male,Illiterate,Lorry,19,30,Rain,Twilight,Ice,Drunk Driving,Serious Injury
+Wednesday,56,Male,Tertiary,Bus,4,30,Clear,Twilight,Wet,Fatigue,Slight Injury
+Wednesday,32,Female,Tertiary,Taxi,23,40,Cloudy,Night,Ice,Weather,Slight Injury
+Monday,46,Female,Illiterate,Bus,7,30,Clear,Twilight,Ice,Mechanical Failure,Slight Injury
+Wednesday,46,Male,Tertiary,Taxi,21,100,Fog,Daylight,Snow,Fatigue,Serious Injury
+Wednesday,28,Female,Secondary,Motorcycle,0,100,Clear,Daylight,Snow,Distracted,Serious Injury
+Monday,69,Male,Tertiary,Taxi,7,60,Rain,Night,Wet,Mechanical Failure,Slight Injury
+Wednesday,49,Male,Tertiary,Automobile,23,100,Fog,Twilight,Snow,Mechanical Failure,Serious Injury
+Friday,19,Female,Illiterate,Automobile,17,70,Rain,Twilight,Wet,Mechanical Failure,Serious Injury
+Tuesday,64,Female,Primary,Automobile,19,60,Cloudy,Twilight,Wet,Weather,Slight Injury
+Sunday,31,Male,Primary,Lorry,27,40,Cloudy,Twilight,Dry,Overspeed,Slight Injury
+Tuesday,37,Male,Primary,Lorry,15,60,Fog,Night,Dry,Mechanical Failure,Slight Injury
+Monday,39,Male,Secondary,Lorry,17,50,Cloudy,Twilight,Dry,Fatigue,Slight Injury
+Thursday,28,Female,Tertiary,Taxi,19,70,Cloudy,Night,Ice,Fatigue,Serious Injury
+Sunday,44,Female,Primary,Lorry,11,50,Clear,Twilight,Dry,Distracted,Slight Injury
+Monday,20,Female,Illiterate,Motorcycle,12,50,Clear,Twilight,Snow,Drunk Driving,Serious Injury
+Thursday,34,Female,Primary,Automobile,12,80,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Tuesday,61,Male,Primary,Taxi,9,100,Cloudy,Night,Dry,Overspeed,Serious Injury
+Monday,45,Male,Tertiary,Automobile,6,40,Clear,Daylight,Ice,Weather,Slight Injury
+Sunday,46,Male,Tertiary,Lorry,24,30,Cloudy,Night,Wet,Weather,Slight Injury
+Sunday,38,Male,Tertiary,Taxi,13,50,Cloudy,Twilight,Ice,Mechanical Failure,Slight Injury
+Saturday,64,Male,Secondary,Bus,29,60,Rain,Twilight,Ice,Overspeed,Serious Injury
+Friday,33,Male,Secondary,Motorcycle,23,30,Cloudy,Night,Wet,Distracted,Slight Injury
+Wednesday,54,Female,Primary,Lorry,15,60,Fog,Daylight,Wet,Distracted,Slight Injury
+Thursday,37,Female,Tertiary,Lorry,14,60,Rain,Night,Wet,Drunk Driving,Serious Injury
+Saturday,23,Male,Primary,Motorcycle,11,30,Fog,Night,Snow,Distracted,Serious Injury
+Wednesday,36,Male,Illiterate,Motorcycle,8,30,Cloudy,Twilight,Wet,Mechanical Failure,Slight Injury
+Wednesday,22,Female,Illiterate,Bus,7,100,Clear,Daylight,Wet,Fatigue,Serious Injury
+Monday,20,Female,Tertiary,Lorry,17,60,Rain,Night,Ice,Distracted,Serious Injury
+Wednesday,18,Female,Tertiary,Lorry,22,40,Clear,Daylight,Ice,Overspeed,Serious Injury
+Friday,55,Female,Illiterate,Automobile,17,100,Rain,Daylight,Dry,Mechanical Failure,Serious Injury
+Sunday,32,Male,Tertiary,Taxi,12,70,Clear,Night,Ice,Distracted,Serious Injury
+Saturday,51,Male,Secondary,Taxi,27,80,Rain,Daylight,Wet,Weather,Serious Injury
+Wednesday,52,Male,Secondary,Automobile,26,70,Rain,Twilight,Snow,Distracted,Serious Injury
+Monday,66,Male,Tertiary,Taxi,17,40,Fog,Twilight,Ice,Weather,Slight Injury
+Friday,42,Male,Illiterate,Motorcycle,14,100,Clear,Twilight,Ice,Mechanical Failure,Serious Injury
+Tuesday,41,Female,Primary,Taxi,3,80,Fog,Twilight,Wet,Distracted,Serious Injury
+Sunday,29,Male,Tertiary,Taxi,16,100,Fog,Daylight,Ice,Weather,Serious Injury
+Sunday,35,Female,Tertiary,Automobile,4,30,Clear,Twilight,Ice,Fatigue,Slight Injury
+Saturday,32,Male,Primary,Bus,21,80,Rain,Night,Wet,Drunk Driving,Fatal Injury
+Sunday,61,Male,Tertiary,Taxi,15,60,Fog,Twilight,Ice,Mechanical Failure,Slight Injury
+Wednesday,33,Male,Primary,Taxi,8,70,Clear,Night,Snow,Weather,Serious Injury
+Monday,44,Male,Illiterate,Bus,9,80,Rain,Night,Dry,Overspeed,Serious Injury
+Sunday,25,Male,Secondary,Automobile,23,60,Fog,Twilight,Ice,Distracted,Slight Injury
+Sunday,63,Female,Illiterate,Bus,17,100,Fog,Twilight,Snow,Weather,Serious Injury
+Tuesday,42,Female,Secondary,Automobile,16,40,Fog,Daylight,Ice,Weather,Slight Injury
+Tuesday,34,Female,Primary,Motorcycle,17,80,Rain,Night,Dry,Weather,Serious Injury
+Thursday,46,Male,Secondary,Automobile,6,60,Fog,Twilight,Wet,Drunk Driving,Serious Injury
+Friday,25,Male,Illiterate,Motorcycle,3,100,Rain,Daylight,Dry,Overspeed,Serious Injury
+Wednesday,32,Female,Secondary,Motorcycle,25,100,Cloudy,Twilight,Ice,Overspeed,Serious Injury
+Sunday,44,Male,Primary,Automobile,4,100,Fog,Twilight,Dry,Fatigue,Serious Injury
+Sunday,63,Male,Secondary,Lorry,27,40,Cloudy,Twilight,Dry,Drunk Driving,Slight Injury
+Monday,67,Female,Tertiary,Automobile,22,30,Clear,Night,Wet,Weather,Slight Injury
+Thursday,69,Male,Illiterate,Taxi,15,40,Fog,Twilight,Ice,Mechanical Failure,Slight Injury
+Friday,24,Female,Tertiary,Taxi,2,40,Clear,Daylight,Dry,Drunk Driving,Serious Injury
+Thursday,20,Male,Primary,Lorry,25,70,Clear,Twilight,Dry,Drunk Driving,Serious Injury
+Saturday,46,Female,Secondary,Motorcycle,17,100,Clear,Twilight,Wet,Overspeed,Serious Injury
+Friday,61,Male,Tertiary,Lorry,28,60,Cloudy,Daylight,Snow,Fatigue,Slight Injury
+Sunday,41,Male,Tertiary,Taxi,22,80,Rain,Daylight,Ice,Fatigue,Serious Injury
+Sunday,20,Female,Secondary,Lorry,20,70,Cloudy,Night,Snow,Drunk Driving,Fatal Injury
+Friday,37,Male,Secondary,Automobile,13,100,Cloudy,Night,Snow,Drunk Driving,Serious Injury
+Sunday,63,Male,Illiterate,Lorry,14,50,Clear,Night,Wet,Distracted,Slight Injury
+Wednesday,32,Female,Tertiary,Motorcycle,16,40,Fog,Night,Wet,Weather,Slight Injury
+Friday,42,Male,Tertiary,Automobile,0,50,Rain,Daylight,Ice,Overspeed,Fatal Injury
+Thursday,47,Female,Primary,Bus,24,100,Clear,Twilight,Snow,Weather,Serious Injury
+Friday,31,Male,Illiterate,Taxi,20,70,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Sunday,24,Male,Primary,Taxi,16,60,Cloudy,Twilight,Snow,Mechanical Failure,Slight Injury
+Wednesday,34,Male,Tertiary,Lorry,22,70,Rain,Night,Wet,Fatigue,Serious Injury
+Wednesday,61,Male,Primary,Automobile,24,60,Rain,Daylight,Dry,Overspeed,Serious Injury
+Saturday,37,Female,Tertiary,Bus,10,60,Fog,Daylight,Dry,Weather,Slight Injury
+Thursday,53,Male,Tertiary,Automobile,16,100,Clear,Daylight,Wet,Fatigue,Serious Injury
+Tuesday,26,Female,Primary,Taxi,25,30,Rain,Twilight,Dry,Mechanical Failure,Slight Injury
+Tuesday,55,Male,Primary,Automobile,13,100,Rain,Night,Snow,Drunk Driving,Fatal Injury
+Friday,65,Male,Secondary,Bus,28,40,Cloudy,Daylight,Wet,Overspeed,Serious Injury
+Saturday,39,Male,Secondary,Lorry,19,70,Cloudy,Night,Ice,Overspeed,Serious Injury
+Monday,19,Male,Secondary,Motorcycle,29,60,Rain,Daylight,Wet,Weather,Serious Injury
+Friday,41,Female,Tertiary,Automobile,18,100,Clear,Night,Ice,Distracted,Serious Injury
+Saturday,25,Female,Primary,Motorcycle,20,100,Rain,Daylight,Ice,Weather,Serious Injury
+Thursday,28,Female,Illiterate,Taxi,6,70,Rain,Night,Wet,Drunk Driving,Fatal Injury
+Thursday,30,Female,Tertiary,Lorry,23,70,Fog,Daylight,Wet,Drunk Driving,Fatal Injury
+Thursday,34,Male,Illiterate,Lorry,12,60,Clear,Daylight,Ice,Fatigue,Slight Injury
+Thursday,25,Female,Primary,Automobile,17,80,Fog,Night,Ice,Overspeed,Fatal Injury
+Thursday,38,Female,Tertiary,Lorry,22,50,Clear,Night,Dry,Fatigue,Slight Injury
+Saturday,35,Male,Illiterate,Automobile,29,40,Clear,Twilight,Wet,Drunk Driving,Serious Injury
+Saturday,47,Male,Illiterate,Automobile,13,40,Clear,Night,Wet,Distracted,Slight Injury
+Wednesday,35,Male,Secondary,Motorcycle,0,80,Fog,Daylight,Dry,Overspeed,Fatal Injury
+Tuesday,63,Male,Secondary,Lorry,6,30,Fog,Daylight,Wet,Drunk Driving,Serious Injury
+Sunday,64,Female,Secondary,Automobile,7,80,Fog,Night,Dry,Distracted,Serious Injury
+Thursday,48,Female,Tertiary,Motorcycle,17,30,Cloudy,Twilight,Dry,Weather,Slight Injury
+Monday,55,Male,Primary,Bus,8,30,Fog,Night,Wet,Mechanical Failure,Slight Injury
+Sunday,49,Male,Primary,Motorcycle,0,80,Cloudy,Daylight,Snow,Drunk Driving,Fatal Injury
+Saturday,28,Male,Secondary,Motorcycle,28,40,Cloudy,Daylight,Ice,Mechanical Failure,Slight Injury
+Monday,62,Female,Secondary,Automobile,21,50,Cloudy,Twilight,Wet,Fatigue,Slight Injury
+Monday,42,Female,Secondary,Taxi,16,40,Rain,Night,Snow,Mechanical Failure,Slight Injury
+Monday,50,Male,Illiterate,Taxi,18,100,Rain,Daylight,Dry,Drunk Driving,Serious Injury
+Wednesday,55,Male,Secondary,Taxi,26,40,Rain,Daylight,Snow,Mechanical Failure,Slight Injury
+Saturday,58,Female,Illiterate,Motorcycle,5,40,Cloudy,Daylight,Wet,Overspeed,Serious Injury
+Monday,25,Male,Primary,Automobile,2,80,Cloudy,Night,Wet,Drunk Driving,Fatal Injury
+Thursday,28,Male,Tertiary,Lorry,23,80,Clear,Night,Snow,Distracted,Serious Injury
+Friday,39,Female,Tertiary,Motorcycle,4,100,Cloudy,Twilight,Wet,Mechanical Failure,Serious Injury
+Monday,68,Male,Tertiary,Motorcycle,1,100,Rain,Daylight,Ice,Overspeed,Fatal Injury
+Wednesday,41,Female,Tertiary,Automobile,19,80,Cloudy,Daylight,Snow,Fatigue,Serious Injury
+Sunday,58,Male,Illiterate,Bus,24,40,Cloudy,Twilight,Dry,Fatigue,Slight Injury
+Saturday,34,Male,Illiterate,Motorcycle,3,50,Clear,Daylight,Snow,Mechanical Failure,Slight Injury
+Wednesday,29,Female,Secondary,Bus,9,30,Cloudy,Twilight,Snow,Fatigue,Slight Injury
+Monday,63,Female,Illiterate,Bus,9,70,Fog,Twilight,Snow,Distracted,Serious Injury
+Saturday,49,Male,Secondary,Taxi,23,30,Clear,Daylight,Snow,Drunk Driving,Serious Injury
+Friday,32,Female,Secondary,Automobile,20,100,Cloudy,Night,Dry,Overspeed,Serious Injury
+Monday,33,Male,Tertiary,Bus,10,100,Cloudy,Night,Dry,Weather,Slight Injury
+Wednesday,39,Male,Illiterate,Automobile,26,30,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Tuesday,45,Female,Illiterate,Taxi,15,70,Cloudy,Night,Snow,Fatigue,Serious Injury
+Thursday,37,Male,Secondary,Automobile,25,40,Rain,Daylight,Ice,Drunk Driving,Serious Injury
+Sunday,50,Male,Secondary,Motorcycle,28,50,Fog,Twilight,Ice,Weather,Slight Injury
+Wednesday,27,Female,Primary,Bus,28,50,Fog,Twilight,Dry,Distracted,Slight Injury
+Saturday,57,Female,Primary,Automobile,29,30,Rain,Daylight,Ice,Fatigue,Slight Injury
+Monday,49,Male,Secondary,Lorry,16,70,Cloudy,Night,Ice,Fatigue,Serious Injury
+Thursday,67,Female,Primary,Automobile,15,100,Cloudy,Twilight,Ice,Overspeed,Serious Injury
+Monday,50,Female,Primary,Bus,6,60,Fog,Daylight,Ice,Distracted,Slight Injury
+Saturday,19,Female,Secondary,Taxi,15,40,Cloudy,Daylight,Ice,Distracted,Slight Injury
+Monday,50,Female,Secondary,Taxi,2,30,Fog,Night,Wet,Mechanical Failure,Serious Injury
+Tuesday,50,Male,Illiterate,Bus,25,50,Fog,Daylight,Dry,Weather,Slight Injury
+Thursday,58,Male,Secondary,Motorcycle,15,100,Rain,Twilight,Snow,Overspeed,Fatal Injury
+Thursday,30,Male,Secondary,Motorcycle,7,80,Fog,Twilight,Ice,Mechanical Failure,Serious Injury
+Saturday,47,Female,Tertiary,Taxi,29,80,Cloudy,Daylight,Wet,Overspeed,Serious Injury
+Sunday,50,Female,Illiterate,Taxi,11,70,Cloudy,Twilight,Snow,Distracted,Serious Injury
+Tuesday,30,Female,Illiterate,Bus,2,70,Clear,Daylight,Wet,Overspeed,Fatal Injury
+Wednesday,69,Female,Illiterate,Motorcycle,16,30,Cloudy,Twilight,Ice,Overspeed,Serious Injury
+Monday,43,Female,Tertiary,Taxi,20,60,Clear,Night,Ice,Overspeed,Serious Injury
+Friday,39,Female,Secondary,Motorcycle,17,50,Fog,Twilight,Ice,Drunk Driving,Serious Injury
+Monday,56,Female,Illiterate,Taxi,10,30,Cloudy,Night,Ice,Drunk Driving,Serious Injury
+Monday,19,Male,Illiterate,Automobile,3,60,Rain,Night,Snow,Weather,Serious Injury
+Wednesday,55,Male,Primary,Lorry,15,100,Rain,Daylight,Snow,Weather,Serious Injury
+Monday,56,Female,Illiterate,Automobile,16,70,Rain,Night,Wet,Distracted,Serious Injury
+Tuesday,43,Female,Secondary,Taxi,8,80,Fog,Twilight,Dry,Overspeed,Serious Injury
+Tuesday,63,Female,Secondary,Lorry,5,40,Fog,Twilight,Ice,Distracted,Slight Injury
+Thursday,67,Male,Primary,Lorry,23,100,Clear,Night,Wet,Drunk Driving,Serious Injury
+Saturday,32,Male,Illiterate,Taxi,26,80,Rain,Daylight,Wet,Overspeed,Fatal Injury
+Sunday,51,Female,Illiterate,Taxi,19,50,Clear,Night,Wet,Mechanical Failure,Slight Injury
+Friday,59,Female,Illiterate,Motorcycle,24,50,Clear,Twilight,Ice,Drunk Driving,Serious Injury
+Monday,61,Male,Tertiary,Taxi,1,80,Cloudy,Twilight,Ice,Drunk Driving,Fatal Injury
+Monday,66,Male,Illiterate,Bus,8,100,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Wednesday,57,Male,Secondary,Taxi,27,80,Rain,Night,Ice,Overspeed,Fatal Injury
+Saturday,28,Male,Secondary,Bus,20,60,Fog,Night,Wet,Weather,Slight Injury
+Tuesday,20,Female,Tertiary,Taxi,28,30,Cloudy,Twilight,Snow,Fatigue,Slight Injury
+Friday,23,Male,Tertiary,Motorcycle,5,70,Fog,Twilight,Ice,Mechanical Failure,Serious Injury
+Thursday,26,Male,Illiterate,Bus,2,60,Clear,Twilight,Snow,Mechanical Failure,Serious Injury
+Tuesday,23,Female,Primary,Automobile,19,40,Clear,Daylight,Dry,Distracted,Slight Injury
+Saturday,26,Male,Tertiary,Bus,5,80,Clear,Twilight,Ice,Overspeed,Serious Injury
+Sunday,56,Male,Tertiary,Motorcycle,6,40,Clear,Twilight,Dry,Weather,Slight Injury
+Thursday,48,Male,Illiterate,Bus,0,40,Rain,Daylight,Wet,Drunk Driving,Fatal Injury
+Sunday,49,Female,Illiterate,Taxi,22,60,Clear,Daylight,Ice,Fatigue,Slight Injury
+Wednesday,58,Male,Tertiary,Taxi,0,70,Cloudy,Daylight,Ice,Overspeed,Fatal Injury
+Wednesday,67,Female,Primary,Motorcycle,4,100,Clear,Daylight,Ice,Overspeed,Serious Injury
+Monday,29,Female,Tertiary,Lorry,5,50,Fog,Daylight,Dry,Weather,Slight Injury
+Sunday,25,Male,Illiterate,Taxi,12,30,Cloudy,Daylight,Dry,Fatigue,Slight Injury
+Saturday,25,Male,Illiterate,Automobile,1,50,Fog,Night,Wet,Drunk Driving,Fatal Injury
+Friday,67,Male,Tertiary,Motorcycle,14,70,Fog,Night,Snow,Overspeed,Fatal Injury
+Thursday,45,Male,Primary,Bus,14,50,Rain,Night,Snow,Mechanical Failure,Slight Injury
+Tuesday,37,Female,Tertiary,Bus,12,80,Rain,Night,Dry,Mechanical Failure,Serious Injury
+Saturday,64,Male,Tertiary,Automobile,25,80,Fog,Twilight,Ice,Fatigue,Serious Injury
+Saturday,24,Male,Illiterate,Taxi,24,60,Fog,Daylight,Snow,Drunk Driving,Serious Injury
+Wednesday,28,Male,Primary,Motorcycle,13,40,Clear,Twilight,Snow,Fatigue,Slight Injury
+Sunday,37,Female,Secondary,Automobile,25,70,Cloudy,Daylight,Dry,Overspeed,Serious Injury
+Monday,33,Male,Primary,Taxi,21,70,Clear,Daylight,Wet,Mechanical Failure,Serious Injury
+Monday,21,Male,Tertiary,Motorcycle,6,50,Rain,Twilight,Dry,Distracted,Slight Injury
+Thursday,23,Female,Tertiary,Bus,13,60,Rain,Night,Dry,Fatigue,Slight Injury
+Wednesday,39,Female,Tertiary,Motorcycle,25,50,Clear,Twilight,Ice,Distracted,Slight Injury
+Saturday,43,Male,Primary,Lorry,23,50,Cloudy,Twilight,Dry,Distracted,Slight Injury
+Friday,20,Male,Illiterate,Motorcycle,26,70,Fog,Daylight,Ice,Weather,Serious Injury
+Wednesday,58,Male,Tertiary,Lorry,28,50,Clear,Daylight,Wet,Mechanical Failure,Slight Injury
+Thursday,59,Male,Tertiary,Motorcycle,9,40,Rain,Daylight,Ice,Fatigue,Slight Injury
+Thursday,31,Male,Primary,Lorry,16,50,Cloudy,Night,Wet,Distracted,Slight Injury
+Wednesday,28,Female,Secondary,Bus,13,40,Rain,Twilight,Wet,Overspeed,Serious Injury
+Thursday,35,Female,Secondary,Taxi,7,70,Cloudy,Twilight,Wet,Weather,Serious Injury
+Wednesday,29,Male,Illiterate,Lorry,3,60,Cloudy,Night,Dry,Drunk Driving,Slight Injury
+Tuesday,40,Male,Illiterate,Lorry,25,80,Cloudy,Twilight,Ice,Weather,Serious Injury
+Wednesday,29,Female,Tertiary,Bus,15,40,Clear,Twilight,Snow,Drunk Driving,Serious Injury
+Sunday,30,Male,Primary,Lorry,23,60,Clear,Daylight,Dry,Mechanical Failure,Slight Injury
+Wednesday,42,Male,Tertiary,Automobile,12,60,Clear,Night,Wet,Fatigue,Slight Injury
+Thursday,62,Male,Illiterate,Bus,21,40,Cloudy,Daylight,Snow,Fatigue,Slight Injury
+Sunday,68,Male,Primary,Automobile,26,70,Cloudy,Night,Dry,Drunk Driving,Serious Injury
+Thursday,36,Male,Primary,Bus,24,30,Rain,Daylight,Snow,Overspeed,Serious Injury
+Monday,63,Female,Illiterate,Lorry,26,60,Fog,Twilight,Wet,Drunk Driving,Serious Injury
+Monday,53,Male,Secondary,Automobile,19,60,Clear,Night,Snow,Drunk Driving,Serious Injury
+Sunday,62,Male,Secondary,Lorry,17,70,Cloudy,Night,Snow,Fatigue,Serious Injury
+Tuesday,25,Male,Primary,Bus,13,70,Rain,Daylight,Wet,Distracted,Serious Injury
+Monday,46,Female,Tertiary,Lorry,17,50,Rain,Night,Snow,Overspeed,Serious Injury
+Wednesday,49,Female,Secondary,Automobile,4,70,Rain,Twilight,Dry,Fatigue,Serious Injury
+Thursday,68,Female,Tertiary,Automobile,25,60,Clear,Twilight,Snow,Weather,Slight Injury
+Monday,61,Female,Secondary,Lorry,8,40,Clear,Twilight,Ice,Drunk Driving,Serious Injury
+Monday,35,Male,Secondary,Motorcycle,27,30,Fog,Daylight,Dry,Distracted,Slight Injury
+Tuesday,23,Female,Tertiary,Bus,2,100,Rain,Night,Snow,Overspeed,Fatal Injury
+Sunday,35,Male,Illiterate,Bus,7,50,Clear,Daylight,Ice,Mechanical Failure,Slight Injury
+Sunday,36,Male,Secondary,Lorry,19,100,Rain,Twilight,Ice,Overspeed,Fatal Injury
+Saturday,39,Female,Secondary,Motorcycle,21,40,Cloudy,Night,Ice,Overspeed,Serious Injury
+Tuesday,54,Female,Tertiary,Automobile,9,30,Rain,Twilight,Snow,Drunk Driving,Serious Injury
+Wednesday,49,Female,Illiterate,Taxi,21,30,Fog,Night,Wet,Drunk Driving,Serious Injury
+Sunday,58,Female,Secondary,Taxi,18,30,Clear,Night,Ice,Mechanical Failure,Slight Injury
+Thursday,20,Female,Secondary,Lorry,29,80,Cloudy,Daylight,Wet,Mechanical Failure,Serious Injury
+Tuesday,45,Male,Illiterate,Motorcycle,20,40,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Monday,27,Female,Secondary,Motorcycle,27,50,Cloudy,Twilight,Wet,Fatigue,Slight Injury
+Thursday,68,Female,Illiterate,Bus,2,50,Rain,Night,Wet,Fatigue,Serious Injury
+Thursday,52,Female,Illiterate,Automobile,10,30,Rain,Twilight,Wet,Drunk Driving,Serious Injury
+Monday,46,Male,Tertiary,Motorcycle,10,40,Fog,Daylight,Wet,Drunk Driving,Serious Injury
+Tuesday,32,Female,Primary,Taxi,16,80,Fog,Twilight,Wet,Mechanical Failure,Serious Injury
+Monday,50,Male,Illiterate,Automobile,15,30,Cloudy,Night,Dry,Fatigue,Slight Injury
+Saturday,24,Female,Tertiary,Automobile,6,70,Fog,Twilight,Dry,Distracted,Serious Injury
+Thursday,29,Female,Primary,Lorry,3,100,Fog,Twilight,Wet,Fatigue,Serious Injury
+Friday,66,Male,Secondary,Motorcycle,29,50,Fog,Night,Wet,Drunk Driving,Serious Injury
+Friday,47,Female,Primary,Lorry,22,100,Fog,Twilight,Ice,Fatigue,Serious Injury
+Wednesday,38,Male,Illiterate,Motorcycle,18,60,Rain,Night,Dry,Drunk Driving,Serious Injury
+Sunday,48,Male,Illiterate,Bus,11,30,Fog,Daylight,Snow,Mechanical Failure,Slight Injury
+Monday,41,Male,Illiterate,Lorry,14,70,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Monday,37,Female,Illiterate,Lorry,10,50,Rain,Daylight,Snow,Mechanical Failure,Slight Injury
+Wednesday,54,Female,Illiterate,Taxi,4,100,Clear,Twilight,Ice,Distracted,Serious Injury
+Wednesday,21,Female,Tertiary,Lorry,4,80,Rain,Twilight,Wet,Distracted,Serious Injury
+Wednesday,45,Male,Illiterate,Motorcycle,14,40,Rain,Daylight,Ice,Drunk Driving,Serious Injury
+Thursday,61,Female,Tertiary,Taxi,28,50,Fog,Twilight,Wet,Overspeed,Serious Injury
+Saturday,37,Male,Secondary,Lorry,17,100,Rain,Twilight,Dry,Weather,Serious Injury
+Monday,41,Female,Illiterate,Lorry,10,40,Cloudy,Daylight,Wet,Distracted,Slight Injury
+Thursday,67,Male,Illiterate,Bus,25,100,Fog,Twilight,Snow,Drunk Driving,Fatal Injury
+Wednesday,66,Male,Primary,Lorry,11,40,Fog,Night,Snow,Fatigue,Slight Injury
+Monday,68,Male,Secondary,Automobile,1,80,Fog,Twilight,Ice,Mechanical Failure,Fatal Injury
+Thursday,49,Female,Illiterate,Taxi,19,80,Clear,Twilight,Dry,Mechanical Failure,Slight Injury
+Saturday,58,Male,Illiterate,Automobile,14,30,Fog,Twilight,Snow,Mechanical Failure,Slight Injury
+Thursday,53,Male,Secondary,Taxi,19,30,Rain,Daylight,Ice,Drunk Driving,Serious Injury
+Saturday,51,Male,Tertiary,Bus,3,50,Cloudy,Night,Dry,Mechanical Failure,Slight Injury
+Wednesday,53,Male,Illiterate,Lorry,21,80,Fog,Night,Dry,Distracted,Serious Injury
+Saturday,19,Male,Primary,Lorry,17,70,Fog,Twilight,Ice,Fatigue,Serious Injury
+Monday,32,Male,Illiterate,Lorry,5,100,Cloudy,Daylight,Snow,Mechanical Failure,Serious Injury
+Wednesday,51,Female,Primary,Taxi,22,100,Fog,Daylight,Snow,Drunk Driving,Fatal Injury
+Monday,53,Female,Primary,Lorry,26,100,Clear,Night,Ice,Fatigue,Serious Injury
+Friday,23,Male,Illiterate,Automobile,25,50,Rain,Daylight,Snow,Mechanical Failure,Serious Injury
+Tuesday,56,Female,Illiterate,Lorry,18,100,Cloudy,Twilight,Ice,Overspeed,Serious Injury
+Saturday,59,Female,Primary,Bus,10,60,Cloudy,Twilight,Snow,Mechanical Failure,Slight Injury
+Tuesday,68,Male,Secondary,Automobile,27,40,Clear,Daylight,Snow,Weather,Slight Injury
+Tuesday,68,Male,Secondary,Lorry,23,100,Rain,Twilight,Ice,Distracted,Serious Injury
+Saturday,29,Male,Illiterate,Lorry,1,40,Clear,Night,Ice,Fatigue,Serious Injury
+Wednesday,20,Female,Tertiary,Motorcycle,26,30,Rain,Twilight,Snow,Distracted,Serious Injury
+Friday,62,Male,Secondary,Taxi,7,100,Clear,Daylight,Ice,Overspeed,Serious Injury
+Monday,35,Female,Illiterate,Automobile,28,70,Fog,Night,Snow,Overspeed,Fatal Injury
+Thursday,57,Male,Secondary,Motorcycle,10,80,Clear,Twilight,Wet,Weather,Serious Injury
+Monday,38,Female,Tertiary,Bus,4,80,Cloudy,Night,Dry,Distracted,Slight Injury
+Thursday,32,Male,Illiterate,Taxi,17,30,Cloudy,Daylight,Dry,Fatigue,Slight Injury
+Monday,50,Male,Tertiary,Automobile,22,60,Cloudy,Twilight,Snow,Overspeed,Serious Injury
+Saturday,52,Female,Illiterate,Lorry,29,50,Clear,Twilight,Dry,Overspeed,Slight Injury
+Friday,43,Female,Tertiary,Automobile,17,50,Cloudy,Night,Snow,Mechanical Failure,Slight Injury
+Thursday,25,Female,Secondary,Lorry,13,70,Cloudy,Twilight,Ice,Weather,Serious Injury
+Sunday,53,Female,Secondary,Taxi,21,30,Fog,Twilight,Wet,Drunk Driving,Serious Injury
+Wednesday,65,Female,Tertiary,Lorry,9,30,Fog,Twilight,Dry,Overspeed,Serious Injury
+Monday,47,Female,Tertiary,Bus,2,60,Rain,Twilight,Dry,Fatigue,Serious Injury
+Monday,40,Male,Tertiary,Lorry,8,100,Rain,Daylight,Ice,Fatigue,Serious Injury
+Thursday,59,Female,Illiterate,Bus,2,50,Rain,Twilight,Wet,Mechanical Failure,Serious Injury
+Wednesday,61,Male,Secondary,Taxi,10,100,Clear,Night,Wet,Fatigue,Serious Injury
+Wednesday,31,Male,Illiterate,Taxi,11,30,Rain,Daylight,Wet,Mechanical Failure,Slight Injury
+Saturday,31,Female,Secondary,Automobile,11,100,Clear,Night,Ice,Overspeed,Serious Injury
+Sunday,19,Male,Primary,Bus,2,80,Clear,Night,Dry,Overspeed,Fatal Injury
+Saturday,54,Female,Illiterate,Bus,20,70,Rain,Night,Dry,Overspeed,Serious Injury
+Saturday,22,Female,Secondary,Motorcycle,6,50,Rain,Daylight,Wet,Overspeed,Serious Injury
+Saturday,55,Male,Secondary,Motorcycle,13,60,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Saturday,62,Male,Illiterate,Motorcycle,23,70,Fog,Daylight,Ice,Weather,Serious Injury
+Saturday,58,Female,Illiterate,Lorry,27,40,Cloudy,Twilight,Ice,Weather,Slight Injury
+Friday,64,Female,Secondary,Motorcycle,10,80,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Wednesday,31,Male,Illiterate,Bus,6,60,Cloudy,Daylight,Ice,Overspeed,Serious Injury
+Saturday,56,Male,Tertiary,Lorry,24,70,Fog,Night,Wet,Fatigue,Serious Injury
+Wednesday,42,Male,Illiterate,Taxi,20,30,Clear,Daylight,Wet,Mechanical Failure,Slight Injury
+Wednesday,37,Male,Illiterate,Automobile,9,40,Rain,Daylight,Wet,Weather,Slight Injury
+Tuesday,19,Female,Illiterate,Motorcycle,10,60,Clear,Daylight,Snow,Distracted,Slight Injury
+Friday,56,Female,Secondary,Taxi,14,30,Clear,Night,Wet,Mechanical Failure,Slight Injury
+Saturday,23,Female,Tertiary,Bus,18,80,Rain,Twilight,Ice,Distracted,Serious Injury
+Monday,34,Female,Primary,Automobile,15,40,Fog,Daylight,Snow,Distracted,Slight Injury
+Thursday,42,Male,Primary,Taxi,21,50,Cloudy,Daylight,Dry,Overspeed,Slight Injury
+Sunday,45,Male,Tertiary,Automobile,20,30,Cloudy,Daylight,Dry,Distracted,Slight Injury
+Monday,19,Female,Tertiary,Motorcycle,27,70,Clear,Twilight,Ice,Overspeed,Fatal Injury
+Friday,52,Female,Tertiary,Bus,19,100,Fog,Night,Ice,Drunk Driving,Fatal Injury
+Thursday,54,Female,Secondary,Automobile,11,60,Cloudy,Night,Ice,Fatigue,Slight Injury
+Friday,22,Female,Primary,Taxi,17,40,Fog,Night,Ice,Distracted,Serious Injury
+Wednesday,18,Female,Tertiary,Motorcycle,22,30,Rain,Night,Snow,Fatigue,Serious Injury
+Thursday,57,Female,Secondary,Motorcycle,12,50,Clear,Daylight,Ice,Overspeed,Serious Injury
+Wednesday,29,Female,Primary,Taxi,4,100,Clear,Twilight,Wet,Distracted,Serious Injury
+Monday,53,Female,Illiterate,Taxi,3,60,Fog,Daylight,Dry,Mechanical Failure,Slight Injury
+Monday,62,Female,Secondary,Automobile,27,60,Cloudy,Twilight,Ice,Drunk Driving,Serious Injury
+Thursday,40,Male,Primary,Lorry,13,30,Fog,Night,Wet,Weather,Slight Injury
+Thursday,64,Female,Secondary,Motorcycle,7,50,Rain,Twilight,Ice,Drunk Driving,Serious Injury
+Saturday,48,Male,Primary,Automobile,8,80,Cloudy,Daylight,Wet,Distracted,Serious Injury
+Friday,28,Male,Primary,Taxi,24,100,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Saturday,27,Female,Illiterate,Automobile,18,80,Fog,Night,Dry,Weather,Serious Injury
+Friday,20,Female,Secondary,Taxi,2,40,Rain,Daylight,Dry,Mechanical Failure,Serious Injury
+Saturday,31,Male,Tertiary,Bus,4,30,Cloudy,Daylight,Snow,Fatigue,Slight Injury
+Wednesday,33,Male,Illiterate,Taxi,20,100,Clear,Twilight,Wet,Mechanical Failure,Serious Injury
+Thursday,27,Female,Illiterate,Taxi,25,40,Rain,Daylight,Ice,Drunk Driving,Serious Injury
+Monday,46,Male,Primary,Taxi,17,80,Cloudy,Night,Wet,Weather,Serious Injury
+Friday,27,Female,Tertiary,Lorry,0,100,Fog,Night,Dry,Fatigue,Serious Injury
+Friday,29,Female,Secondary,Taxi,7,60,Cloudy,Daylight,Snow,Weather,Slight Injury
+Monday,47,Female,Tertiary,Motorcycle,18,40,Clear,Night,Snow,Mechanical Failure,Slight Injury
+Saturday,58,Male,Tertiary,Motorcycle,16,50,Rain,Twilight,Wet,Overspeed,Serious Injury
+Friday,18,Male,Tertiary,Automobile,16,70,Cloudy,Twilight,Wet,Overspeed,Fatal Injury
+Sunday,22,Female,Tertiary,Lorry,10,80,Clear,Daylight,Snow,Fatigue,Serious Injury
+Wednesday,37,Male,Tertiary,Automobile,1,80,Cloudy,Daylight,Dry,Fatigue,Serious Injury
+Thursday,25,Male,Primary,Motorcycle,5,50,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Monday,60,Male,Primary,Motorcycle,21,100,Rain,Night,Ice,Overspeed,Fatal Injury
+Thursday,29,Male,Illiterate,Bus,13,100,Fog,Daylight,Wet,Mechanical Failure,Serious Injury
+Sunday,18,Male,Primary,Taxi,2,100,Fog,Daylight,Snow,Fatigue,Fatal Injury
+Friday,37,Male,Illiterate,Motorcycle,11,40,Clear,Night,Snow,Overspeed,Serious Injury
+Friday,45,Male,Illiterate,Automobile,3,30,Clear,Daylight,Snow,Fatigue,Slight Injury
+Sunday,60,Female,Secondary,Automobile,11,60,Clear,Night,Dry,Fatigue,Slight Injury
+Monday,54,Male,Tertiary,Taxi,12,70,Rain,Night,Wet,Weather,Serious Injury
+Wednesday,64,Male,Primary,Taxi,1,30,Fog,Night,Wet,Fatigue,Serious Injury
+Tuesday,54,Male,Secondary,Bus,1,30,Clear,Night,Wet,Overspeed,Serious Injury
+Monday,29,Male,Primary,Lorry,14,50,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Tuesday,54,Male,Illiterate,Automobile,22,40,Cloudy,Twilight,Wet,Overspeed,Serious Injury
+Sunday,66,Male,Primary,Taxi,28,80,Cloudy,Night,Ice,Overspeed,Serious Injury
+Saturday,66,Male,Tertiary,Automobile,16,80,Clear,Twilight,Wet,Fatigue,Serious Injury
+Tuesday,61,Male,Illiterate,Taxi,6,50,Cloudy,Night,Wet,Weather,Slight Injury
+Wednesday,45,Female,Illiterate,Motorcycle,29,40,Cloudy,Daylight,Wet,Distracted,Slight Injury
+Saturday,64,Male,Secondary,Automobile,27,50,Cloudy,Twilight,Dry,Distracted,Slight Injury
+Tuesday,32,Male,Tertiary,Motorcycle,13,80,Rain,Daylight,Ice,Distracted,Serious Injury
+Sunday,23,Male,Illiterate,Automobile,11,30,Clear,Night,Ice,Overspeed,Serious Injury
+Saturday,61,Male,Tertiary,Lorry,29,60,Clear,Night,Snow,Fatigue,Slight Injury
+Sunday,37,Female,Primary,Bus,16,100,Cloudy,Daylight,Snow,Distracted,Serious Injury
+Tuesday,67,Female,Tertiary,Motorcycle,13,40,Rain,Night,Ice,Drunk Driving,Serious Injury
+Sunday,31,Female,Illiterate,Taxi,5,70,Cloudy,Daylight,Wet,Drunk Driving,Serious Injury
+Wednesday,19,Female,Secondary,Lorry,18,70,Rain,Night,Wet,Drunk Driving,Fatal Injury
+Tuesday,26,Female,Illiterate,Automobile,23,30,Clear,Night,Wet,Mechanical Failure,Slight Injury
+Tuesday,54,Female,Tertiary,Motorcycle,5,50,Cloudy,Twilight,Dry,Fatigue,Slight Injury
+Tuesday,37,Female,Tertiary,Automobile,26,50,Clear,Daylight,Wet,Overspeed,Serious Injury
+Monday,43,Female,Illiterate,Automobile,17,80,Rain,Night,Dry,Overspeed,Serious Injury
+Monday,46,Female,Tertiary,Automobile,23,30,Fog,Daylight,Ice,Fatigue,Slight Injury
+Monday,18,Female,Primary,Bus,4,80,Rain,Twilight,Wet,Weather,Serious Injury
+Wednesday,52,Female,Illiterate,Bus,23,80,Fog,Daylight,Wet,Weather,Serious Injury
+Saturday,23,Female,Secondary,Taxi,23,70,Clear,Twilight,Snow,Mechanical Failure,Serious Injury
+Sunday,54,Female,Illiterate,Motorcycle,5,80,Clear,Daylight,Ice,Fatigue,Serious Injury
+Friday,22,Female,Primary,Lorry,1,100,Cloudy,Daylight,Wet,Weather,Fatal Injury
+Tuesday,50,Female,Primary,Lorry,7,80,Fog,Twilight,Dry,Mechanical Failure,Serious Injury
+Sunday,66,Female,Primary,Lorry,14,70,Rain,Night,Ice,Distracted,Serious Injury
+Tuesday,68,Male,Primary,Automobile,14,100,Clear,Night,Snow,Distracted,Serious Injury
+Wednesday,31,Female,Primary,Bus,10,50,Fog,Night,Ice,Mechanical Failure,Slight Injury
+Tuesday,29,Male,Secondary,Motorcycle,21,40,Rain,Daylight,Dry,Fatigue,Slight Injury
+Monday,59,Female,Tertiary,Automobile,21,60,Fog,Daylight,Snow,Distracted,Slight Injury
+Friday,37,Female,Primary,Bus,23,80,Rain,Night,Dry,Fatigue,Serious Injury
+Thursday,67,Male,Primary,Bus,0,100,Rain,Daylight,Ice,Weather,Fatal Injury
+Tuesday,41,Female,Illiterate,Motorcycle,17,40,Rain,Daylight,Snow,Distracted,Slight Injury
+Sunday,60,Male,Secondary,Motorcycle,11,70,Rain,Night,Dry,Weather,Serious Injury
+Monday,51,Male,Secondary,Motorcycle,11,40,Fog,Twilight,Ice,Fatigue,Slight Injury
+Thursday,42,Male,Tertiary,Automobile,24,60,Fog,Daylight,Dry,Fatigue,Slight Injury
+Friday,67,Female,Secondary,Taxi,10,40,Cloudy,Daylight,Wet,Drunk Driving,Serious Injury
+Thursday,46,Female,Illiterate,Motorcycle,27,100,Fog,Daylight,Ice,Mechanical Failure,Serious Injury
+Monday,56,Female,Illiterate,Taxi,7,40,Fog,Daylight,Snow,Overspeed,Serious Injury
+Saturday,48,Male,Tertiary,Automobile,27,40,Cloudy,Twilight,Snow,Mechanical Failure,Slight Injury
+Saturday,64,Male,Illiterate,Taxi,6,40,Fog,Night,Wet,Fatigue,Slight Injury
+Thursday,60,Female,Primary,Lorry,22,30,Rain,Daylight,Dry,Fatigue,Slight Injury
+Wednesday,67,Female,Primary,Taxi,20,80,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Sunday,40,Female,Illiterate,Motorcycle,1,70,Clear,Daylight,Snow,Fatigue,Serious Injury
+Sunday,61,Female,Tertiary,Automobile,10,60,Cloudy,Twilight,Dry,Weather,Slight Injury
+Thursday,55,Female,Secondary,Motorcycle,21,70,Fog,Night,Ice,Distracted,Serious Injury
+Tuesday,37,Male,Tertiary,Lorry,9,30,Fog,Twilight,Ice,Fatigue,Slight Injury
+Tuesday,40,Male,Secondary,Motorcycle,2,30,Cloudy,Daylight,Snow,Mechanical Failure,Serious Injury
+Sunday,62,Male,Illiterate,Motorcycle,19,100,Clear,Twilight,Ice,Mechanical Failure,Serious Injury
+Sunday,69,Female,Illiterate,Motorcycle,28,30,Rain,Twilight,Snow,Mechanical Failure,Slight Injury
+Saturday,33,Male,Primary,Bus,9,80,Fog,Daylight,Dry,Drunk Driving,Serious Injury
+Wednesday,67,Male,Secondary,Lorry,27,30,Cloudy,Daylight,Dry,Weather,Slight Injury
+Monday,59,Male,Tertiary,Motorcycle,26,40,Rain,Night,Dry,Weather,Slight Injury
+Tuesday,25,Male,Illiterate,Motorcycle,17,70,Cloudy,Daylight,Wet,Drunk Driving,Serious Injury
+Sunday,67,Male,Tertiary,Motorcycle,13,50,Cloudy,Night,Snow,Weather,Slight Injury
+Saturday,38,Female,Primary,Automobile,17,60,Cloudy,Twilight,Ice,Drunk Driving,Serious Injury
+Friday,18,Male,Secondary,Bus,27,30,Clear,Twilight,Dry,Weather,Slight Injury
+Saturday,25,Female,Secondary,Automobile,23,70,Clear,Night,Wet,Drunk Driving,Serious Injury
+Tuesday,46,Female,Illiterate,Bus,7,100,Cloudy,Daylight,Ice,Drunk Driving,Serious Injury
+Tuesday,49,Female,Secondary,Motorcycle,9,30,Fog,Daylight,Ice,Weather,Slight Injury
+Saturday,55,Female,Illiterate,Lorry,21,80,Rain,Twilight,Ice,Drunk Driving,Fatal Injury
+Monday,22,Female,Primary,Taxi,12,30,Fog,Night,Dry,Weather,Slight Injury
+Thursday,64,Male,Secondary,Taxi,20,30,Clear,Twilight,Ice,Drunk Driving,Serious Injury
+Tuesday,39,Male,Illiterate,Motorcycle,7,30,Rain,Twilight,Snow,Mechanical Failure,Slight Injury
+Saturday,64,Female,Tertiary,Automobile,3,100,Cloudy,Daylight,Wet,Overspeed,Serious Injury
+Sunday,51,Female,Illiterate,Lorry,26,30,Fog,Night,Ice,Weather,Slight Injury
+Saturday,18,Female,Secondary,Bus,3,60,Fog,Twilight,Ice,Drunk Driving,Serious Injury
+Wednesday,43,Male,Primary,Motorcycle,4,70,Cloudy,Daylight,Snow,Mechanical Failure,Serious Injury
+Thursday,60,Female,Secondary,Lorry,0,80,Fog,Twilight,Ice,Overspeed,Fatal Injury
+Friday,27,Male,Secondary,Lorry,16,30,Clear,Twilight,Dry,Drunk Driving,Slight Injury
+Monday,47,Female,Illiterate,Bus,1,30,Cloudy,Daylight,Dry,Overspeed,Serious Injury
+Friday,67,Male,Tertiary,Lorry,29,30,Fog,Daylight,Dry,Weather,Slight Injury
+Thursday,35,Female,Secondary,Automobile,7,30,Cloudy,Night,Ice,Overspeed,Serious Injury
+Thursday,34,Male,Tertiary,Automobile,6,40,Rain,Twilight,Wet,Distracted,Slight Injury
+Thursday,43,Female,Illiterate,Automobile,14,40,Cloudy,Night,Wet,Fatigue,Slight Injury
+Friday,25,Male,Tertiary,Lorry,25,50,Fog,Daylight,Ice,Distracted,Slight Injury
+Sunday,64,Male,Illiterate,Automobile,24,30,Clear,Daylight,Wet,Weather,Slight Injury
+Thursday,57,Male,Primary,Bus,4,50,Cloudy,Twilight,Wet,Weather,Slight Injury
+Saturday,66,Male,Tertiary,Lorry,1,60,Cloudy,Night,Ice,Overspeed,Serious Injury
+Friday,29,Male,Tertiary,Taxi,6,50,Fog,Night,Dry,Mechanical Failure,Slight Injury
+Thursday,44,Male,Primary,Lorry,7,70,Clear,Twilight,Ice,Drunk Driving,Serious Injury
+Saturday,25,Male,Tertiary,Bus,27,40,Clear,Twilight,Dry,Fatigue,Slight Injury
+Sunday,42,Female,Primary,Taxi,6,40,Rain,Night,Dry,Drunk Driving,Serious Injury
+Wednesday,63,Female,Secondary,Lorry,29,30,Rain,Daylight,Wet,Mechanical Failure,Slight Injury
+Sunday,21,Female,Illiterate,Automobile,6,30,Fog,Daylight,Wet,Weather,Serious Injury
+Thursday,50,Female,Primary,Motorcycle,27,60,Clear,Twilight,Dry,Fatigue,Slight Injury
+Friday,18,Female,Tertiary,Motorcycle,13,80,Clear,Night,Dry,Distracted,Serious Injury
+Tuesday,36,Male,Primary,Automobile,20,60,Rain,Night,Wet,Weather,Slight Injury
+Thursday,48,Male,Tertiary,Motorcycle,17,70,Rain,Night,Snow,Weather,Serious Injury
+Tuesday,33,Male,Secondary,Motorcycle,5,30,Fog,Daylight,Dry,Overspeed,Serious Injury
+Saturday,31,Male,Primary,Automobile,3,30,Clear,Daylight,Dry,Mechanical Failure,Slight Injury
+Wednesday,65,Male,Secondary,Automobile,9,60,Cloudy,Night,Dry,Overspeed,Slight Injury
+Monday,22,Female,Illiterate,Lorry,17,60,Rain,Night,Wet,Overspeed,Serious Injury
+Sunday,58,Female,Tertiary,Lorry,11,60,Fog,Twilight,Ice,Drunk Driving,Serious Injury
+Wednesday,43,Female,Tertiary,Automobile,15,40,Clear,Twilight,Dry,Weather,Slight Injury
+Thursday,45,Female,Secondary,Bus,24,50,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Tuesday,19,Male,Illiterate,Motorcycle,6,50,Rain,Night,Dry,Overspeed,Serious Injury
+Sunday,67,Male,Primary,Lorry,5,30,Fog,Daylight,Ice,Distracted,Slight Injury
+Tuesday,23,Male,Primary,Motorcycle,27,40,Cloudy,Night,Ice,Fatigue,Slight Injury
+Friday,26,Female,Tertiary,Taxi,4,60,Rain,Twilight,Dry,Mechanical Failure,Slight Injury
+Tuesday,50,Male,Secondary,Automobile,2,30,Fog,Daylight,Dry,Drunk Driving,Serious Injury
+Friday,58,Female,Secondary,Bus,11,40,Clear,Twilight,Snow,Mechanical Failure,Slight Injury
+Saturday,42,Male,Primary,Taxi,14,70,Cloudy,Twilight,Ice,Weather,Serious Injury
+Sunday,65,Male,Illiterate,Taxi,9,80,Fog,Daylight,Snow,Drunk Driving,Fatal Injury
+Sunday,30,Female,Illiterate,Taxi,25,40,Cloudy,Twilight,Dry,Fatigue,Slight Injury
+Monday,26,Male,Primary,Automobile,19,100,Fog,Night,Dry,Distracted,Serious Injury
+Thursday,30,Male,Primary,Lorry,18,30,Fog,Twilight,Dry,Overspeed,Serious Injury
+Friday,48,Female,Secondary,Automobile,15,50,Fog,Daylight,Dry,Mechanical Failure,Slight Injury
+Monday,58,Male,Illiterate,Lorry,27,100,Fog,Daylight,Wet,Drunk Driving,Fatal Injury
+Tuesday,28,Female,Primary,Taxi,10,60,Cloudy,Daylight,Wet,Fatigue,Slight Injury
+Tuesday,21,Male,Primary,Taxi,7,80,Rain,Twilight,Wet,Overspeed,Fatal Injury
+Monday,51,Male,Tertiary,Bus,2,70,Cloudy,Night,Snow,Fatigue,Serious Injury
+Sunday,55,Male,Primary,Lorry,22,80,Fog,Daylight,Ice,Distracted,Serious Injury
+Tuesday,63,Male,Primary,Taxi,6,80,Cloudy,Night,Dry,Overspeed,Serious Injury
+Saturday,21,Male,Illiterate,Motorcycle,22,40,Cloudy,Daylight,Ice,Overspeed,Serious Injury
+Saturday,55,Male,Secondary,Bus,28,30,Cloudy,Night,Wet,Overspeed,Serious Injury
+Monday,36,Male,Illiterate,Automobile,6,30,Fog,Night,Dry,Drunk Driving,Serious Injury
+Friday,23,Male,Secondary,Bus,13,80,Cloudy,Night,Dry,Overspeed,Serious Injury
+Friday,51,Female,Tertiary,Motorcycle,1,60,Clear,Daylight,Snow,Fatigue,Serious Injury
+Monday,35,Female,Primary,Lorry,9,30,Fog,Twilight,Ice,Drunk Driving,Serious Injury
+Friday,30,Male,Tertiary,Automobile,18,80,Cloudy,Twilight,Snow,Overspeed,Serious Injury
+Sunday,58,Male,Secondary,Automobile,25,30,Clear,Twilight,Wet,Fatigue,Slight Injury
+Sunday,40,Female,Illiterate,Lorry,8,60,Cloudy,Night,Ice,Fatigue,Slight Injury
+Friday,36,Male,Illiterate,Bus,15,70,Rain,Daylight,Wet,Mechanical Failure,Serious Injury
+Saturday,62,Male,Tertiary,Taxi,18,100,Cloudy,Night,Snow,Fatigue,Serious Injury
+Friday,28,Female,Secondary,Bus,17,80,Cloudy,Daylight,Snow,Weather,Serious Injury
+Sunday,18,Male,Tertiary,Motorcycle,8,50,Rain,Night,Dry,Distracted,Slight Injury
+Wednesday,41,Male,Tertiary,Taxi,15,50,Fog,Daylight,Ice,Overspeed,Serious Injury
+Thursday,24,Female,Primary,Bus,12,80,Rain,Daylight,Ice,Overspeed,Fatal Injury
+Tuesday,42,Male,Tertiary,Lorry,9,40,Fog,Daylight,Dry,Overspeed,Serious Injury
+Wednesday,38,Male,Primary,Motorcycle,24,70,Rain,Night,Ice,Fatigue,Serious Injury
+Friday,32,Female,Primary,Motorcycle,19,40,Cloudy,Twilight,Wet,Fatigue,Slight Injury
+Saturday,18,Male,Illiterate,Motorcycle,13,100,Cloudy,Night,Wet,Overspeed,Fatal Injury
+Monday,29,Female,Primary,Taxi,11,50,Fog,Night,Snow,Weather,Slight Injury
+Friday,24,Male,Primary,Automobile,24,60,Fog,Daylight,Wet,Drunk Driving,Serious Injury
+Saturday,32,Male,Illiterate,Taxi,18,80,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Thursday,38,Female,Tertiary,Bus,6,100,Clear,Twilight,Dry,Distracted,Slight Injury
+Friday,36,Female,Secondary,Automobile,22,30,Cloudy,Twilight,Snow,Mechanical Failure,Slight Injury
+Sunday,46,Male,Secondary,Bus,14,50,Cloudy,Daylight,Dry,Distracted,Slight Injury
+Monday,42,Female,Secondary,Automobile,15,70,Clear,Twilight,Snow,Overspeed,Serious Injury
+Saturday,50,Female,Tertiary,Taxi,26,50,Clear,Twilight,Snow,Overspeed,Serious Injury
+Saturday,66,Male,Primary,Motorcycle,7,70,Fog,Daylight,Dry,Overspeed,Serious Injury
+Saturday,49,Male,Secondary,Lorry,9,70,Rain,Night,Wet,Mechanical Failure,Serious Injury
+Thursday,66,Male,Tertiary,Motorcycle,3,80,Fog,Twilight,Wet,Fatigue,Serious Injury
+Friday,52,Female,Primary,Taxi,18,70,Clear,Daylight,Wet,Mechanical Failure,Serious Injury
+Thursday,61,Female,Illiterate,Automobile,18,40,Cloudy,Twilight,Wet,Distracted,Slight Injury
+Tuesday,55,Female,Secondary,Motorcycle,27,100,Clear,Twilight,Dry,Fatigue,Slight Injury
+Tuesday,43,Female,Primary,Taxi,20,60,Cloudy,Daylight,Ice,Fatigue,Slight Injury
+Friday,28,Male,Secondary,Bus,26,50,Cloudy,Twilight,Snow,Distracted,Slight Injury
+Sunday,52,Female,Secondary,Lorry,14,60,Cloudy,Twilight,Dry,Fatigue,Slight Injury
+Thursday,25,Male,Secondary,Motorcycle,13,100,Cloudy,Twilight,Wet,Drunk Driving,Serious Injury
+Monday,63,Female,Primary,Automobile,0,30,Rain,Night,Wet,Distracted,Serious Injury
+Saturday,31,Male,Tertiary,Bus,15,100,Clear,Night,Dry,Distracted,Slight Injury
+Saturday,27,Male,Primary,Taxi,9,50,Fog,Twilight,Snow,Drunk Driving,Serious Injury
+Friday,19,Male,Secondary,Lorry,18,60,Cloudy,Daylight,Dry,Mechanical Failure,Slight Injury
+Sunday,63,Female,Primary,Automobile,29,60,Cloudy,Twilight,Dry,Mechanical Failure,Slight Injury
+Tuesday,26,Male,Illiterate,Taxi,21,80,Fog,Twilight,Ice,Mechanical Failure,Serious Injury
+Tuesday,20,Male,Tertiary,Taxi,2,80,Fog,Night,Dry,Fatigue,Fatal Injury
+Saturday,38,Female,Primary,Motorcycle,4,100,Cloudy,Night,Ice,Drunk Driving,Serious Injury
+Friday,43,Male,Illiterate,Motorcycle,8,100,Fog,Night,Snow,Distracted,Serious Injury
+Thursday,25,Female,Tertiary,Automobile,17,30,Fog,Twilight,Dry,Distracted,Slight Injury
+Tuesday,65,Female,Illiterate,Taxi,10,70,Rain,Twilight,Dry,Distracted,Serious Injury
+Thursday,19,Male,Tertiary,Motorcycle,15,50,Fog,Daylight,Wet,Fatigue,Serious Injury
+Sunday,23,Male,Primary,Lorry,1,80,Clear,Twilight,Dry,Fatigue,Serious Injury
+Tuesday,45,Female,Illiterate,Lorry,11,50,Clear,Twilight,Wet,Weather,Slight Injury
+Tuesday,46,Male,Secondary,Taxi,21,30,Clear,Night,Wet,Mechanical Failure,Slight Injury
+Wednesday,43,Female,Illiterate,Motorcycle,5,80,Cloudy,Night,Wet,Weather,Serious Injury
+Tuesday,42,Female,Tertiary,Automobile,10,80,Clear,Night,Snow,Weather,Serious Injury
+Monday,29,Female,Primary,Automobile,26,70,Rain,Night,Ice,Fatigue,Serious Injury
+Friday,22,Male,Tertiary,Automobile,7,50,Clear,Night,Wet,Mechanical Failure,Slight Injury
+Friday,51,Female,Illiterate,Lorry,11,50,Cloudy,Daylight,Dry,Mechanical Failure,Slight Injury
+Thursday,65,Male,Illiterate,Motorcycle,28,50,Rain,Daylight,Dry,Distracted,Slight Injury
+Sunday,54,Male,Secondary,Motorcycle,26,70,Clear,Daylight,Wet,Fatigue,Serious Injury
+Tuesday,32,Male,Primary,Lorry,29,80,Rain,Night,Wet,Mechanical Failure,Serious Injury
+Monday,61,Male,Primary,Automobile,1,30,Rain,Night,Dry,Weather,Serious Injury
+Thursday,53,Female,Illiterate,Automobile,8,50,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Wednesday,32,Male,Primary,Taxi,14,60,Cloudy,Daylight,Ice,Drunk Driving,Serious Injury
+Thursday,60,Female,Secondary,Bus,1,70,Rain,Night,Ice,Fatigue,Fatal Injury
+Thursday,65,Female,Tertiary,Motorcycle,28,40,Clear,Daylight,Snow,Distracted,Slight Injury
+Tuesday,40,Male,Primary,Motorcycle,0,30,Cloudy,Night,Wet,Distracted,Serious Injury
+Wednesday,23,Female,Illiterate,Motorcycle,9,60,Rain,Twilight,Snow,Mechanical Failure,Serious Injury
+Thursday,63,Female,Tertiary,Bus,1,50,Fog,Daylight,Snow,Fatigue,Serious Injury
+Monday,67,Male,Tertiary,Taxi,11,40,Fog,Twilight,Snow,Drunk Driving,Serious Injury
+Monday,61,Female,Secondary,Bus,22,30,Cloudy,Daylight,Wet,Weather,Slight Injury
+Friday,60,Female,Illiterate,Automobile,7,70,Clear,Night,Snow,Mechanical Failure,Serious Injury
+Wednesday,62,Female,Primary,Automobile,4,40,Fog,Night,Ice,Weather,Slight Injury
+Wednesday,38,Female,Illiterate,Motorcycle,21,80,Fog,Twilight,Snow,Mechanical Failure,Serious Injury
+Friday,40,Male,Tertiary,Lorry,27,100,Fog,Night,Ice,Overspeed,Fatal Injury
+Thursday,60,Female,Illiterate,Motorcycle,0,40,Clear,Daylight,Ice,Weather,Serious Injury
+Wednesday,33,Female,Primary,Lorry,14,100,Clear,Night,Wet,Fatigue,Serious Injury
+Monday,64,Female,Primary,Bus,5,60,Cloudy,Night,Snow,Weather,Slight Injury
+Monday,32,Female,Secondary,Automobile,11,30,Cloudy,Daylight,Wet,Weather,Slight Injury
+Tuesday,42,Male,Primary,Lorry,7,60,Fog,Twilight,Ice,Mechanical Failure,Slight Injury
+Wednesday,53,Female,Primary,Bus,12,60,Clear,Twilight,Dry,Drunk Driving,Slight Injury
+Thursday,28,Male,Illiterate,Automobile,18,50,Rain,Night,Snow,Overspeed,Serious Injury
+Friday,68,Female,Illiterate,Lorry,26,70,Fog,Daylight,Wet,Weather,Serious Injury
+Friday,32,Male,Tertiary,Motorcycle,0,40,Cloudy,Twilight,Dry,Drunk Driving,Serious Injury
+Thursday,21,Male,Secondary,Motorcycle,10,30,Clear,Twilight,Snow,Distracted,Slight Injury
+Sunday,38,Male,Illiterate,Motorcycle,19,80,Cloudy,Night,Snow,Overspeed,Serious Injury
+Saturday,30,Male,Primary,Bus,0,70,Cloudy,Daylight,Wet,Overspeed,Fatal Injury
+Tuesday,39,Male,Tertiary,Motorcycle,29,70,Clear,Twilight,Dry,Mechanical Failure,Slight Injury
+Friday,36,Female,Illiterate,Taxi,7,30,Fog,Night,Wet,Weather,Slight Injury
+Wednesday,51,Female,Secondary,Automobile,4,70,Clear,Night,Snow,Distracted,Serious Injury
+Tuesday,31,Female,Secondary,Bus,16,50,Fog,Night,Snow,Mechanical Failure,Slight Injury
+Wednesday,21,Male,Tertiary,Motorcycle,29,70,Cloudy,Night,Ice,Fatigue,Serious Injury
+Sunday,65,Female,Tertiary,Automobile,7,50,Clear,Twilight,Snow,Drunk Driving,Serious Injury
+Monday,69,Male,Tertiary,Lorry,24,40,Rain,Daylight,Snow,Drunk Driving,Serious Injury
+Tuesday,63,Male,Tertiary,Motorcycle,9,40,Fog,Night,Dry,Mechanical Failure,Slight Injury
+Friday,44,Female,Tertiary,Automobile,1,60,Rain,Night,Dry,Drunk Driving,Serious Injury
+Tuesday,46,Female,Primary,Taxi,8,50,Fog,Twilight,Ice,Weather,Slight Injury
+Tuesday,64,Male,Primary,Lorry,23,80,Clear,Night,Ice,Drunk Driving,Serious Injury
+Tuesday,45,Male,Illiterate,Taxi,22,40,Rain,Night,Ice,Weather,Slight Injury
+Saturday,52,Female,Secondary,Automobile,2,70,Clear,Daylight,Wet,Fatigue,Serious Injury
+Tuesday,25,Female,Primary,Taxi,17,30,Fog,Night,Wet,Distracted,Slight Injury
+Wednesday,33,Female,Primary,Automobile,6,30,Fog,Twilight,Ice,Overspeed,Serious Injury
+Monday,59,Female,Primary,Automobile,14,100,Fog,Daylight,Wet,Mechanical Failure,Serious Injury
+Sunday,53,Male,Illiterate,Taxi,20,50,Fog,Twilight,Snow,Mechanical Failure,Slight Injury
+Thursday,47,Female,Tertiary,Automobile,21,80,Cloudy,Daylight,Ice,Weather,Serious Injury
+Tuesday,35,Female,Illiterate,Motorcycle,19,60,Fog,Daylight,Ice,Fatigue,Slight Injury
+Friday,19,Female,Secondary,Automobile,17,70,Rain,Night,Wet,Fatigue,Serious Injury
+Tuesday,66,Male,Secondary,Bus,24,50,Fog,Night,Dry,Overspeed,Serious Injury
+Friday,30,Male,Secondary,Automobile,2,100,Clear,Night,Ice,Distracted,Serious Injury
+Wednesday,21,Male,Secondary,Bus,27,30,Cloudy,Twilight,Wet,Mechanical Failure,Slight Injury
+Friday,43,Male,Primary,Automobile,29,50,Rain,Night,Wet,Weather,Slight Injury
+Thursday,42,Female,Primary,Automobile,22,70,Cloudy,Night,Dry,Fatigue,Slight Injury
+Monday,47,Male,Illiterate,Taxi,13,80,Cloudy,Daylight,Ice,Mechanical Failure,Serious Injury
+Friday,28,Female,Tertiary,Motorcycle,23,80,Cloudy,Night,Dry,Weather,Slight Injury
+Friday,24,Female,Secondary,Motorcycle,1,40,Clear,Night,Snow,Drunk Driving,Fatal Injury
+Monday,48,Female,Illiterate,Lorry,13,70,Cloudy,Night,Dry,Mechanical Failure,Slight Injury
+Thursday,61,Female,Primary,Taxi,21,100,Cloudy,Night,Dry,Distracted,Slight Injury
+Tuesday,27,Male,Primary,Taxi,10,40,Fog,Daylight,Wet,Weather,Slight Injury
+Friday,56,Male,Tertiary,Motorcycle,15,40,Clear,Night,Dry,Distracted,Slight Injury
+Monday,30,Male,Tertiary,Taxi,7,40,Rain,Daylight,Snow,Mechanical Failure,Slight Injury
+Wednesday,48,Female,Tertiary,Motorcycle,6,50,Rain,Twilight,Wet,Drunk Driving,Serious Injury
+Monday,24,Female,Illiterate,Taxi,10,100,Rain,Night,Snow,Distracted,Serious Injury
+Wednesday,66,Female,Primary,Automobile,2,30,Clear,Night,Dry,Fatigue,Slight Injury
+Thursday,59,Female,Primary,Motorcycle,16,80,Rain,Night,Snow,Weather,Serious Injury
+Tuesday,59,Female,Tertiary,Motorcycle,13,50,Clear,Daylight,Snow,Mechanical Failure,Slight Injury
+Monday,53,Male,Secondary,Bus,5,30,Fog,Night,Dry,Drunk Driving,Serious Injury
+Sunday,37,Female,Tertiary,Taxi,7,80,Fog,Night,Dry,Fatigue,Serious Injury
+Sunday,21,Male,Illiterate,Taxi,21,100,Clear,Twilight,Wet,Mechanical Failure,Serious Injury
+Saturday,24,Female,Tertiary,Motorcycle,4,100,Rain,Daylight,Wet,Drunk Driving,Fatal Injury
+Friday,18,Female,Tertiary,Automobile,26,70,Clear,Daylight,Ice,Fatigue,Serious Injury
+Thursday,61,Male,Illiterate,Automobile,27,80,Clear,Twilight,Wet,Distracted,Serious Injury
+Monday,62,Male,Tertiary,Automobile,7,80,Cloudy,Daylight,Dry,Mechanical Failure,Slight Injury
+Sunday,59,Female,Primary,Taxi,1,100,Clear,Night,Snow,Mechanical Failure,Serious Injury
+Friday,64,Female,Secondary,Bus,14,80,Cloudy,Night,Snow,Distracted,Serious Injury
+Sunday,30,Female,Tertiary,Motorcycle,11,60,Fog,Twilight,Wet,Overspeed,Serious Injury
+Monday,39,Female,Illiterate,Lorry,16,70,Cloudy,Daylight,Wet,Fatigue,Serious Injury
+Wednesday,38,Male,Secondary,Bus,0,50,Clear,Daylight,Dry,Distracted,Slight Injury
+Monday,39,Female,Illiterate,Lorry,14,50,Fog,Daylight,Snow,Mechanical Failure,Slight Injury
+Saturday,45,Male,Secondary,Bus,13,30,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Monday,26,Female,Secondary,Automobile,19,50,Clear,Night,Ice,Fatigue,Slight Injury
+Monday,43,Male,Tertiary,Taxi,21,40,Fog,Twilight,Wet,Overspeed,Serious Injury
+Saturday,26,Male,Primary,Lorry,15,80,Cloudy,Night,Ice,Mechanical Failure,Serious Injury
+Thursday,32,Female,Tertiary,Bus,28,50,Clear,Twilight,Dry,Drunk Driving,Slight Injury
+Monday,27,Male,Illiterate,Taxi,8,30,Clear,Night,Ice,Overspeed,Serious Injury
+Saturday,41,Female,Illiterate,Lorry,0,30,Rain,Daylight,Wet,Overspeed,Fatal Injury
+Friday,59,Male,Secondary,Motorcycle,27,40,Rain,Daylight,Dry,Drunk Driving,Serious Injury
+Wednesday,25,Female,Secondary,Bus,16,30,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Wednesday,41,Male,Primary,Motorcycle,28,100,Cloudy,Twilight,Dry,Overspeed,Serious Injury
+Monday,33,Female,Tertiary,Automobile,12,60,Cloudy,Twilight,Wet,Fatigue,Slight Injury
+Thursday,66,Female,Illiterate,Motorcycle,20,100,Clear,Twilight,Wet,Distracted,Serious Injury
+Thursday,43,Male,Secondary,Motorcycle,25,80,Cloudy,Daylight,Ice,Distracted,Serious Injury
+Friday,44,Male,Primary,Bus,20,80,Clear,Night,Ice,Overspeed,Serious Injury
+Monday,54,Male,Illiterate,Automobile,4,80,Cloudy,Daylight,Snow,Fatigue,Serious Injury
+Wednesday,21,Male,Secondary,Motorcycle,9,70,Clear,Daylight,Snow,Drunk Driving,Fatal Injury
+Thursday,67,Female,Illiterate,Taxi,5,50,Clear,Night,Wet,Weather,Slight Injury
+Monday,41,Male,Primary,Lorry,23,60,Rain,Night,Wet,Overspeed,Serious Injury
+Sunday,36,Female,Primary,Motorcycle,18,50,Fog,Night,Wet,Mechanical Failure,Slight Injury
+Thursday,53,Male,Illiterate,Automobile,24,60,Clear,Night,Snow,Fatigue,Slight Injury
+Saturday,56,Female,Tertiary,Motorcycle,12,50,Cloudy,Daylight,Wet,Mechanical Failure,Slight Injury
+Sunday,27,Female,Illiterate,Lorry,0,40,Rain,Twilight,Snow,Mechanical Failure,Serious Injury
+Thursday,42,Female,Secondary,Automobile,19,100,Cloudy,Daylight,Wet,Overspeed,Serious Injury
+Wednesday,35,Female,Tertiary,Bus,24,30,Cloudy,Night,Dry,Fatigue,Slight Injury
+Tuesday,36,Male,Secondary,Automobile,14,30,Clear,Twilight,Dry,Mechanical Failure,Slight Injury
+Sunday,53,Male,Illiterate,Bus,13,100,Clear,Twilight,Wet,Fatigue,Serious Injury
+Friday,27,Female,Tertiary,Automobile,7,40,Fog,Daylight,Dry,Distracted,Slight Injury
+Friday,50,Male,Secondary,Lorry,9,60,Clear,Daylight,Snow,Weather,Slight Injury
+Wednesday,67,Male,Illiterate,Lorry,8,100,Clear,Daylight,Ice,Mechanical Failure,Serious Injury
+Thursday,22,Female,Illiterate,Automobile,16,70,Fog,Twilight,Dry,Mechanical Failure,Serious Injury
+Monday,64,Male,Tertiary,Motorcycle,8,60,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Thursday,66,Male,Illiterate,Lorry,2,30,Fog,Twilight,Dry,Weather,Serious Injury
+Wednesday,52,Male,Primary,Bus,10,70,Fog,Night,Snow,Distracted,Serious Injury
+Friday,61,Female,Secondary,Bus,11,50,Fog,Night,Dry,Mechanical Failure,Slight Injury
+Thursday,51,Male,Secondary,Taxi,9,70,Rain,Daylight,Dry,Overspeed,Serious Injury
+Friday,50,Female,Illiterate,Bus,24,60,Cloudy,Twilight,Wet,Fatigue,Slight Injury
+Sunday,38,Male,Illiterate,Taxi,16,40,Rain,Daylight,Ice,Fatigue,Slight Injury
+Monday,34,Male,Primary,Automobile,16,50,Rain,Twilight,Ice,Mechanical Failure,Slight Injury
+Sunday,39,Male,Tertiary,Automobile,24,60,Clear,Daylight,Snow,Distracted,Slight Injury
+Friday,65,Female,Illiterate,Automobile,10,50,Fog,Night,Snow,Mechanical Failure,Slight Injury
+Friday,54,Female,Illiterate,Motorcycle,29,70,Fog,Twilight,Ice,Drunk Driving,Fatal Injury
+Tuesday,32,Male,Illiterate,Motorcycle,21,30,Rain,Night,Wet,Mechanical Failure,Slight Injury
+Tuesday,52,Female,Illiterate,Taxi,3,60,Clear,Twilight,Wet,Weather,Slight Injury
+Sunday,45,Male,Secondary,Bus,6,40,Clear,Daylight,Ice,Weather,Slight Injury
+Saturday,24,Female,Illiterate,Bus,20,100,Clear,Twilight,Dry,Drunk Driving,Serious Injury
+Sunday,49,Female,Secondary,Automobile,25,70,Cloudy,Night,Ice,Weather,Serious Injury
+Tuesday,28,Male,Illiterate,Lorry,13,60,Rain,Twilight,Dry,Weather,Slight Injury
+Friday,27,Male,Tertiary,Motorcycle,6,40,Cloudy,Daylight,Ice,Overspeed,Serious Injury
+Wednesday,26,Male,Primary,Motorcycle,23,60,Clear,Twilight,Dry,Fatigue,Slight Injury
+Sunday,31,Male,Tertiary,Automobile,7,70,Clear,Night,Wet,Weather,Serious Injury
+Friday,30,Female,Illiterate,Motorcycle,0,60,Clear,Daylight,Ice,Fatigue,Serious Injury
+Wednesday,42,Female,Illiterate,Automobile,23,50,Fog,Night,Snow,Distracted,Slight Injury
+Wednesday,19,Female,Illiterate,Taxi,21,70,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Tuesday,52,Male,Tertiary,Bus,3,60,Fog,Night,Wet,Overspeed,Serious Injury
+Sunday,24,Male,Illiterate,Lorry,28,100,Cloudy,Twilight,Snow,Drunk Driving,Fatal Injury
+Thursday,38,Female,Tertiary,Bus,29,30,Fog,Daylight,Wet,Distracted,Slight Injury
+Monday,35,Male,Secondary,Bus,11,60,Rain,Night,Dry,Overspeed,Serious Injury
+Tuesday,20,Female,Primary,Taxi,23,50,Fog,Night,Ice,Overspeed,Serious Injury
+Tuesday,59,Female,Primary,Motorcycle,2,40,Clear,Twilight,Wet,Drunk Driving,Serious Injury
+Thursday,56,Female,Tertiary,Lorry,12,100,Cloudy,Night,Ice,Drunk Driving,Serious Injury
+Monday,58,Female,Secondary,Motorcycle,19,40,Cloudy,Night,Ice,Fatigue,Slight Injury
+Friday,66,Female,Tertiary,Bus,5,100,Clear,Daylight,Wet,Mechanical Failure,Serious Injury
+Saturday,28,Male,Secondary,Automobile,10,40,Clear,Twilight,Wet,Distracted,Slight Injury
+Sunday,56,Male,Illiterate,Bus,22,30,Clear,Twilight,Wet,Mechanical Failure,Slight Injury
+Saturday,41,Male,Secondary,Motorcycle,3,50,Rain,Daylight,Ice,Distracted,Slight Injury
+Friday,63,Female,Secondary,Bus,19,70,Fog,Daylight,Snow,Overspeed,Fatal Injury
+Tuesday,36,Female,Secondary,Automobile,15,40,Cloudy,Twilight,Dry,Weather,Slight Injury
+Monday,21,Female,Primary,Taxi,6,100,Fog,Daylight,Snow,Weather,Serious Injury
+Tuesday,43,Female,Secondary,Motorcycle,21,50,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Wednesday,55,Male,Illiterate,Bus,28,60,Clear,Daylight,Wet,Drunk Driving,Serious Injury
+Tuesday,59,Male,Illiterate,Motorcycle,10,30,Fog,Twilight,Wet,Overspeed,Serious Injury
+Tuesday,49,Female,Illiterate,Taxi,23,50,Cloudy,Daylight,Dry,Overspeed,Slight Injury
+Friday,56,Female,Secondary,Bus,0,50,Rain,Night,Dry,Distracted,Serious Injury
+Friday,62,Female,Tertiary,Bus,25,70,Fog,Night,Snow,Overspeed,Fatal Injury
+Friday,63,Male,Tertiary,Motorcycle,28,50,Clear,Twilight,Snow,Distracted,Slight Injury
+Saturday,53,Male,Illiterate,Motorcycle,26,70,Clear,Daylight,Dry,Mechanical Failure,Slight Injury
+Wednesday,57,Male,Primary,Automobile,6,30,Rain,Night,Ice,Drunk Driving,Serious Injury
+Friday,54,Female,Tertiary,Taxi,11,30,Fog,Twilight,Snow,Drunk Driving,Serious Injury
+Monday,50,Female,Secondary,Automobile,6,60,Rain,Night,Wet,Weather,Slight Injury
+Saturday,53,Male,Tertiary,Bus,26,70,Rain,Daylight,Wet,Weather,Serious Injury
+Thursday,20,Female,Illiterate,Motorcycle,22,70,Cloudy,Twilight,Ice,Drunk Driving,Fatal Injury
+Monday,26,Male,Primary,Bus,6,40,Cloudy,Night,Dry,Mechanical Failure,Slight Injury
+Sunday,25,Female,Tertiary,Bus,9,40,Clear,Twilight,Snow,Mechanical Failure,Slight Injury
+Sunday,50,Male,Tertiary,Lorry,29,60,Fog,Night,Wet,Fatigue,Slight Injury
+Monday,23,Female,Illiterate,Lorry,15,30,Cloudy,Night,Dry,Distracted,Slight Injury
+Friday,58,Male,Primary,Bus,25,80,Clear,Daylight,Snow,Weather,Serious Injury
+Thursday,56,Male,Primary,Motorcycle,7,40,Fog,Daylight,Ice,Distracted,Slight Injury
+Thursday,21,Male,Illiterate,Bus,8,50,Clear,Night,Wet,Weather,Slight Injury
+Saturday,30,Male,Secondary,Lorry,8,30,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Thursday,66,Male,Tertiary,Motorcycle,1,80,Clear,Twilight,Ice,Drunk Driving,Fatal Injury
+Sunday,19,Male,Secondary,Bus,12,50,Fog,Daylight,Ice,Distracted,Serious Injury
+Wednesday,22,Female,Tertiary,Taxi,12,100,Fog,Night,Snow,Weather,Serious Injury
+Friday,61,Female,Tertiary,Taxi,22,70,Clear,Daylight,Ice,Distracted,Serious Injury
+Thursday,44,Female,Secondary,Bus,22,30,Fog,Night,Snow,Drunk Driving,Serious Injury
+Saturday,49,Male,Illiterate,Motorcycle,3,100,Clear,Night,Snow,Overspeed,Serious Injury
+Sunday,38,Male,Illiterate,Bus,24,60,Fog,Daylight,Ice,Weather,Slight Injury
+Wednesday,25,Female,Tertiary,Bus,23,70,Clear,Twilight,Ice,Overspeed,Serious Injury
+Tuesday,55,Male,Illiterate,Lorry,11,70,Clear,Daylight,Dry,Fatigue,Slight Injury
+Tuesday,25,Male,Tertiary,Taxi,16,50,Clear,Night,Wet,Mechanical Failure,Slight Injury
+Wednesday,67,Male,Illiterate,Lorry,1,100,Rain,Daylight,Dry,Distracted,Serious Injury
+Sunday,20,Male,Tertiary,Lorry,12,70,Fog,Twilight,Wet,Weather,Serious Injury
+Saturday,61,Male,Illiterate,Bus,28,40,Cloudy,Twilight,Wet,Distracted,Slight Injury
+Wednesday,20,Female,Primary,Lorry,17,30,Clear,Night,Dry,Fatigue,Slight Injury
+Friday,39,Female,Secondary,Taxi,27,40,Rain,Daylight,Dry,Fatigue,Slight Injury
+Friday,23,Female,Primary,Lorry,27,50,Cloudy,Twilight,Wet,Distracted,Slight Injury
+Tuesday,19,Female,Secondary,Taxi,26,80,Clear,Daylight,Wet,Weather,Serious Injury
+Thursday,40,Female,Secondary,Lorry,14,50,Cloudy,Twilight,Wet,Drunk Driving,Serious Injury
+Saturday,61,Male,Tertiary,Taxi,7,30,Rain,Night,Snow,Drunk Driving,Serious Injury
+Tuesday,19,Male,Secondary,Lorry,14,70,Cloudy,Night,Wet,Mechanical Failure,Serious Injury
+Thursday,55,Male,Primary,Lorry,0,100,Clear,Daylight,Ice,Distracted,Serious Injury
+Thursday,34,Male,Primary,Motorcycle,19,100,Cloudy,Night,Ice,Distracted,Serious Injury
+Friday,52,Female,Illiterate,Taxi,9,60,Cloudy,Twilight,Ice,Weather,Slight Injury
+Sunday,51,Female,Primary,Taxi,11,50,Clear,Night,Dry,Distracted,Slight Injury
+Monday,40,Female,Illiterate,Taxi,4,30,Rain,Twilight,Dry,Weather,Slight Injury
+Sunday,47,Male,Secondary,Automobile,8,60,Rain,Twilight,Dry,Distracted,Slight Injury
+Monday,69,Female,Primary,Lorry,22,70,Cloudy,Night,Wet,Fatigue,Serious Injury
+Wednesday,25,Male,Secondary,Taxi,7,80,Fog,Twilight,Ice,Overspeed,Fatal Injury
+Friday,39,Female,Primary,Automobile,15,50,Cloudy,Twilight,Wet,Distracted,Slight Injury
+Thursday,61,Female,Primary,Motorcycle,13,80,Fog,Daylight,Snow,Overspeed,Fatal Injury
+Saturday,53,Male,Illiterate,Taxi,26,30,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Monday,22,Male,Secondary,Taxi,24,80,Rain,Daylight,Dry,Mechanical Failure,Serious Injury
+Sunday,30,Female,Primary,Automobile,12,80,Cloudy,Night,Snow,Drunk Driving,Serious Injury
+Thursday,46,Female,Tertiary,Lorry,22,30,Cloudy,Daylight,Ice,Distracted,Slight Injury
+Monday,48,Male,Secondary,Motorcycle,20,30,Fog,Twilight,Snow,Weather,Slight Injury
+Monday,64,Female,Secondary,Taxi,12,50,Rain,Night,Dry,Drunk Driving,Serious Injury
+Monday,33,Female,Secondary,Lorry,4,80,Fog,Night,Wet,Fatigue,Serious Injury
+Saturday,59,Male,Illiterate,Motorcycle,15,60,Cloudy,Night,Snow,Overspeed,Serious Injury
+Friday,47,Female,Tertiary,Bus,25,30,Clear,Night,Ice,Weather,Slight Injury
+Saturday,33,Male,Secondary,Bus,10,70,Cloudy,Twilight,Ice,Weather,Serious Injury
+Tuesday,29,Female,Primary,Motorcycle,21,80,Cloudy,Twilight,Ice,Distracted,Serious Injury
+Thursday,34,Male,Primary,Automobile,4,30,Fog,Daylight,Wet,Fatigue,Slight Injury
+Friday,33,Female,Illiterate,Motorcycle,12,60,Clear,Night,Ice,Overspeed,Serious Injury
+Friday,29,Male,Primary,Motorcycle,27,100,Clear,Daylight,Dry,Fatigue,Slight Injury
+Friday,25,Female,Secondary,Automobile,10,50,Fog,Twilight,Dry,Drunk Driving,Serious Injury
+Sunday,37,Male,Primary,Automobile,24,80,Rain,Night,Ice,Distracted,Serious Injury
+Friday,20,Female,Secondary,Lorry,18,100,Clear,Twilight,Snow,Weather,Serious Injury
+Saturday,33,Female,Primary,Lorry,2,30,Clear,Daylight,Ice,Weather,Serious Injury
+Friday,47,Female,Tertiary,Automobile,14,30,Fog,Twilight,Dry,Drunk Driving,Serious Injury
+Wednesday,62,Female,Illiterate,Bus,6,70,Rain,Night,Dry,Weather,Serious Injury
+Thursday,40,Female,Illiterate,Bus,6,70,Rain,Night,Dry,Mechanical Failure,Serious Injury
+Friday,45,Female,Tertiary,Motorcycle,5,80,Cloudy,Daylight,Snow,Distracted,Serious Injury
+Thursday,68,Female,Tertiary,Taxi,2,100,Cloudy,Night,Snow,Drunk Driving,Fatal Injury
+Wednesday,57,Female,Illiterate,Motorcycle,29,100,Fog,Twilight,Snow,Distracted,Serious Injury
+Wednesday,22,Female,Tertiary,Motorcycle,12,30,Rain,Twilight,Dry,Overspeed,Serious Injury
+Thursday,37,Male,Secondary,Taxi,6,80,Fog,Twilight,Wet,Distracted,Serious Injury
+Monday,57,Male,Primary,Automobile,4,30,Cloudy,Twilight,Ice,Distracted,Slight Injury
+Tuesday,61,Female,Illiterate,Bus,22,70,Fog,Daylight,Ice,Overspeed,Fatal Injury
+Sunday,18,Male,Tertiary,Motorcycle,17,60,Fog,Twilight,Dry,Drunk Driving,Serious Injury
+Monday,47,Female,Secondary,Taxi,21,40,Clear,Daylight,Snow,Distracted,Slight Injury
+Monday,38,Female,Illiterate,Lorry,29,40,Clear,Twilight,Wet,Fatigue,Slight Injury
+Saturday,37,Male,Tertiary,Motorcycle,7,30,Clear,Daylight,Wet,Distracted,Slight Injury
+Sunday,23,Female,Illiterate,Bus,16,100,Cloudy,Twilight,Snow,Drunk Driving,Fatal Injury
+Sunday,39,Female,Tertiary,Automobile,19,70,Fog,Twilight,Ice,Weather,Serious Injury
+Monday,35,Male,Illiterate,Motorcycle,26,50,Clear,Daylight,Ice,Overspeed,Serious Injury
+Friday,25,Male,Secondary,Motorcycle,0,50,Clear,Night,Wet,Weather,Serious Injury
+Saturday,56,Female,Secondary,Taxi,13,40,Clear,Night,Wet,Drunk Driving,Serious Injury
+Saturday,49,Male,Primary,Lorry,16,60,Cloudy,Night,Snow,Mechanical Failure,Slight Injury
+Wednesday,50,Male,Illiterate,Lorry,9,40,Cloudy,Daylight,Ice,Weather,Slight Injury
+Sunday,33,Female,Primary,Automobile,11,30,Fog,Night,Wet,Distracted,Slight Injury
+Monday,29,Male,Illiterate,Bus,15,60,Fog,Night,Ice,Distracted,Slight Injury
+Wednesday,55,Male,Tertiary,Automobile,13,50,Fog,Daylight,Wet,Overspeed,Serious Injury
+Thursday,69,Female,Tertiary,Motorcycle,29,100,Clear,Night,Snow,Distracted,Serious Injury
+Tuesday,51,Male,Primary,Motorcycle,26,70,Rain,Night,Ice,Fatigue,Serious Injury
+Saturday,31,Male,Illiterate,Lorry,15,70,Cloudy,Night,Wet,Fatigue,Serious Injury
+Thursday,53,Female,Primary,Bus,7,30,Clear,Daylight,Wet,Weather,Slight Injury
+Thursday,50,Female,Secondary,Taxi,22,40,Clear,Daylight,Wet,Drunk Driving,Serious Injury
+Friday,40,Female,Primary,Bus,27,30,Fog,Night,Wet,Overspeed,Serious Injury
+Tuesday,67,Male,Primary,Motorcycle,9,70,Fog,Night,Snow,Mechanical Failure,Serious Injury
+Thursday,62,Female,Tertiary,Taxi,28,50,Clear,Daylight,Ice,Weather,Slight Injury
+Thursday,19,Female,Primary,Bus,16,70,Cloudy,Night,Ice,Drunk Driving,Fatal Injury
+Tuesday,58,Male,Illiterate,Bus,26,60,Cloudy,Daylight,Dry,Overspeed,Slight Injury
+Tuesday,38,Female,Tertiary,Taxi,29,100,Clear,Night,Ice,Overspeed,Serious Injury
+Thursday,19,Female,Primary,Motorcycle,28,100,Rain,Daylight,Dry,Weather,Serious Injury
+Tuesday,44,Female,Secondary,Bus,17,80,Rain,Twilight,Wet,Drunk Driving,Fatal Injury
+Thursday,26,Female,Primary,Taxi,19,70,Cloudy,Twilight,Snow,Drunk Driving,Serious Injury
+Thursday,18,Male,Primary,Motorcycle,15,70,Fog,Daylight,Snow,Distracted,Serious Injury
+Friday,28,Female,Primary,Taxi,16,100,Rain,Twilight,Wet,Mechanical Failure,Serious Injury
+Monday,20,Female,Tertiary,Taxi,15,80,Rain,Night,Dry,Fatigue,Serious Injury
+Thursday,69,Male,Illiterate,Bus,18,60,Fog,Daylight,Wet,Distracted,Slight Injury
+Wednesday,40,Female,Secondary,Motorcycle,23,40,Rain,Daylight,Snow,Overspeed,Serious Injury
+Saturday,43,Male,Primary,Bus,23,70,Clear,Night,Snow,Mechanical Failure,Serious Injury
+Sunday,21,Male,Illiterate,Automobile,7,100,Rain,Night,Ice,Mechanical Failure,Serious Injury
+Monday,35,Male,Illiterate,Automobile,5,30,Fog,Daylight,Dry,Drunk Driving,Serious Injury
+Monday,23,Female,Tertiary,Motorcycle,5,70,Clear,Night,Ice,Mechanical Failure,Serious Injury
+Monday,52,Male,Secondary,Taxi,20,30,Rain,Daylight,Snow,Weather,Slight Injury
+Friday,39,Male,Tertiary,Bus,28,60,Cloudy,Night,Snow,Mechanical Failure,Slight Injury
+Thursday,60,Male,Illiterate,Bus,8,70,Clear,Daylight,Ice,Overspeed,Serious Injury
+Friday,32,Female,Illiterate,Motorcycle,3,100,Clear,Night,Ice,Weather,Serious Injury
+Thursday,39,Female,Illiterate,Motorcycle,25,60,Cloudy,Night,Snow,Weather,Slight Injury
+Friday,54,Female,Tertiary,Automobile,11,60,Cloudy,Twilight,Ice,Distracted,Slight Injury
+Friday,69,Female,Secondary,Lorry,27,40,Rain,Twilight,Ice,Mechanical Failure,Slight Injury
+Saturday,59,Female,Primary,Motorcycle,11,70,Rain,Twilight,Dry,Drunk Driving,Serious Injury
+Wednesday,29,Female,Tertiary,Lorry,22,30,Fog,Night,Snow,Distracted,Slight Injury
+Friday,64,Female,Illiterate,Motorcycle,16,30,Fog,Daylight,Wet,Drunk Driving,Serious Injury
+Saturday,66,Male,Tertiary,Taxi,14,70,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Tuesday,59,Male,Illiterate,Taxi,8,80,Cloudy,Twilight,Wet,Distracted,Serious Injury
+Wednesday,55,Male,Primary,Automobile,6,40,Cloudy,Night,Ice,Mechanical Failure,Slight Injury
+Friday,35,Male,Primary,Automobile,9,40,Fog,Twilight,Ice,Overspeed,Serious Injury
+Sunday,62,Female,Secondary,Lorry,15,40,Clear,Twilight,Wet,Distracted,Slight Injury
+Monday,52,Male,Illiterate,Motorcycle,11,30,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Tuesday,47,Male,Secondary,Bus,24,60,Fog,Daylight,Ice,Overspeed,Serious Injury
+Tuesday,41,Male,Secondary,Automobile,6,100,Fog,Twilight,Dry,Fatigue,Serious Injury
+Saturday,59,Male,Primary,Bus,17,80,Fog,Twilight,Wet,Drunk Driving,Fatal Injury
+Tuesday,47,Female,Tertiary,Bus,14,40,Rain,Night,Dry,Mechanical Failure,Slight Injury
+Wednesday,31,Female,Tertiary,Motorcycle,5,30,Clear,Twilight,Wet,Drunk Driving,Serious Injury
+Friday,23,Female,Secondary,Lorry,25,30,Clear,Night,Dry,Fatigue,Slight Injury
+Friday,20,Male,Primary,Motorcycle,11,60,Clear,Twilight,Snow,Drunk Driving,Serious Injury
+Sunday,33,Female,Illiterate,Automobile,10,70,Fog,Daylight,Snow,Overspeed,Fatal Injury
+Monday,24,Male,Tertiary,Bus,19,70,Fog,Daylight,Wet,Weather,Serious Injury
+Saturday,69,Female,Secondary,Motorcycle,2,100,Fog,Twilight,Snow,Drunk Driving,Fatal Injury
+Monday,31,Female,Tertiary,Motorcycle,1,100,Fog,Night,Dry,Distracted,Serious Injury
+Tuesday,26,Female,Tertiary,Motorcycle,5,40,Cloudy,Night,Wet,Fatigue,Slight Injury
+Sunday,32,Female,Illiterate,Automobile,23,100,Fog,Night,Snow,Drunk Driving,Fatal Injury
+Monday,38,Female,Primary,Lorry,21,40,Rain,Twilight,Snow,Fatigue,Slight Injury
+Wednesday,52,Male,Illiterate,Motorcycle,24,80,Cloudy,Twilight,Wet,Weather,Serious Injury
+Friday,19,Female,Primary,Automobile,29,100,Cloudy,Daylight,Snow,Overspeed,Fatal Injury
+Tuesday,44,Male,Tertiary,Bus,4,60,Fog,Daylight,Snow,Distracted,Slight Injury
+Sunday,19,Male,Secondary,Taxi,17,40,Clear,Twilight,Wet,Mechanical Failure,Slight Injury
+Monday,52,Male,Illiterate,Automobile,15,60,Fog,Daylight,Snow,Drunk Driving,Serious Injury
+Saturday,35,Male,Primary,Taxi,7,30,Clear,Night,Snow,Overspeed,Serious Injury
+Wednesday,31,Male,Tertiary,Motorcycle,24,40,Fog,Night,Snow,Fatigue,Slight Injury
+Wednesday,37,Female,Primary,Motorcycle,29,30,Fog,Twilight,Snow,Weather,Slight Injury
+Monday,35,Female,Primary,Automobile,25,50,Clear,Night,Ice,Fatigue,Slight Injury
+Friday,27,Female,Primary,Taxi,19,60,Clear,Twilight,Wet,Weather,Slight Injury
+Monday,42,Female,Tertiary,Motorcycle,21,50,Clear,Night,Ice,Weather,Slight Injury
+Tuesday,19,Male,Secondary,Bus,10,40,Clear,Twilight,Ice,Overspeed,Serious Injury
+Monday,42,Female,Secondary,Lorry,9,30,Rain,Night,Dry,Drunk Driving,Serious Injury
+Wednesday,50,Female,Secondary,Lorry,23,40,Clear,Night,Ice,Mechanical Failure,Slight Injury
+Sunday,53,Male,Primary,Motorcycle,24,50,Fog,Daylight,Ice,Drunk Driving,Serious Injury
+Monday,48,Male,Tertiary,Taxi,11,40,Fog,Daylight,Dry,Distracted,Slight Injury
+Friday,31,Female,Primary,Motorcycle,20,80,Rain,Daylight,Snow,Drunk Driving,Fatal Injury
+Sunday,18,Female,Secondary,Taxi,27,70,Clear,Daylight,Snow,Weather,Serious Injury
+Saturday,63,Male,Secondary,Bus,5,50,Fog,Daylight,Ice,Weather,Slight Injury
+Thursday,33,Female,Tertiary,Taxi,26,40,Rain,Daylight,Dry,Distracted,Slight Injury
+Monday,63,Female,Primary,Motorcycle,19,30,Fog,Twilight,Snow,Fatigue,Slight Injury
+Friday,69,Female,Illiterate,Bus,4,40,Rain,Twilight,Dry,Weather,Slight Injury
+Sunday,20,Female,Illiterate,Automobile,22,30,Rain,Daylight,Wet,Distracted,Serious Injury
+Friday,52,Male,Secondary,Lorry,8,70,Cloudy,Twilight,Wet,Weather,Serious Injury
+Saturday,58,Male,Tertiary,Motorcycle,25,40,Cloudy,Daylight,Wet,Mechanical Failure,Slight Injury
+Wednesday,23,Male,Primary,Motorcycle,26,100,Clear,Twilight,Wet,Weather,Serious Injury
+Friday,42,Female,Primary,Motorcycle,28,100,Cloudy,Night,Ice,Overspeed,Serious Injury
+Sunday,30,Female,Secondary,Bus,15,70,Rain,Twilight,Wet,Distracted,Serious Injury
+Friday,51,Female,Secondary,Automobile,21,50,Fog,Twilight,Wet,Drunk Driving,Serious Injury
+Friday,25,Female,Primary,Taxi,13,30,Fog,Twilight,Dry,Distracted,Slight Injury
+Friday,38,Female,Primary,Automobile,21,100,Clear,Night,Snow,Fatigue,Serious Injury
+Tuesday,51,Male,Secondary,Bus,7,80,Cloudy,Daylight,Dry,Weather,Slight Injury
+Tuesday,21,Female,Primary,Motorcycle,26,50,Clear,Twilight,Ice,Distracted,Slight Injury
+Wednesday,42,Female,Illiterate,Lorry,19,30,Rain,Twilight,Wet,Mechanical Failure,Slight Injury
+Monday,32,Male,Secondary,Motorcycle,18,70,Cloudy,Night,Snow,Distracted,Serious Injury
+Friday,21,Female,Primary,Taxi,13,100,Clear,Daylight,Snow,Mechanical Failure,Serious Injury
+Saturday,62,Male,Secondary,Lorry,6,60,Fog,Twilight,Wet,Weather,Slight Injury
+Monday,29,Male,Tertiary,Motorcycle,4,40,Fog,Night,Wet,Drunk Driving,Serious Injury
+Saturday,49,Male,Secondary,Lorry,17,70,Clear,Daylight,Ice,Weather,Serious Injury
+Monday,49,Male,Secondary,Automobile,1,30,Clear,Daylight,Ice,Fatigue,Serious Injury
+Wednesday,45,Male,Tertiary,Bus,10,30,Clear,Twilight,Wet,Overspeed,Serious Injury
+Friday,30,Female,Illiterate,Motorcycle,21,30,Rain,Twilight,Wet,Drunk Driving,Serious Injury
+Friday,48,Male,Primary,Taxi,7,30,Rain,Twilight,Wet,Drunk Driving,Serious Injury
+Thursday,31,Male,Tertiary,Automobile,0,40,Fog,Twilight,Wet,Overspeed,Fatal Injury
+Saturday,37,Female,Secondary,Motorcycle,26,50,Rain,Night,Snow,Distracted,Slight Injury
+Monday,35,Female,Primary,Automobile,21,80,Rain,Night,Ice,Weather,Serious Injury
+Monday,46,Male,Tertiary,Taxi,11,60,Cloudy,Twilight,Wet,Distracted,Slight Injury
+Tuesday,23,Female,Primary,Motorcycle,1,40,Rain,Daylight,Wet,Distracted,Serious Injury
+Thursday,49,Female,Primary,Taxi,17,30,Cloudy,Twilight,Snow,Weather,Slight Injury
+Sunday,46,Male,Tertiary,Lorry,6,40,Rain,Daylight,Dry,Fatigue,Slight Injury
+Sunday,60,Male,Primary,Taxi,25,70,Fog,Daylight,Wet,Drunk Driving,Fatal Injury
+Tuesday,19,Female,Illiterate,Lorry,16,80,Clear,Daylight,Snow,Mechanical Failure,Serious Injury
+Tuesday,40,Male,Tertiary,Motorcycle,21,30,Fog,Night,Snow,Overspeed,Serious Injury
+Tuesday,36,Male,Illiterate,Lorry,29,60,Rain,Daylight,Dry,Drunk Driving,Serious Injury
+Saturday,48,Female,Secondary,Motorcycle,22,30,Clear,Daylight,Ice,Distracted,Slight Injury
+Saturday,68,Male,Primary,Motorcycle,13,80,Clear,Night,Ice,Overspeed,Serious Injury
+Wednesday,22,Male,Secondary,Bus,23,60,Clear,Daylight,Ice,Mechanical Failure,Slight Injury
+Wednesday,36,Male,Secondary,Motorcycle,6,80,Cloudy,Daylight,Wet,Drunk Driving,Serious Injury
+Tuesday,51,Male,Primary,Lorry,21,60,Fog,Twilight,Ice,Drunk Driving,Serious Injury
+Thursday,27,Male,Tertiary,Bus,24,50,Cloudy,Daylight,Wet,Fatigue,Slight Injury
+Monday,42,Female,Primary,Bus,28,100,Clear,Daylight,Wet,Drunk Driving,Serious Injury
+Saturday,19,Female,Secondary,Motorcycle,2,50,Fog,Daylight,Snow,Drunk Driving,Fatal Injury
+Thursday,28,Male,Secondary,Taxi,26,40,Fog,Daylight,Ice,Mechanical Failure,Slight Injury
+Friday,67,Female,Tertiary,Taxi,5,40,Rain,Daylight,Ice,Mechanical Failure,Slight Injury
+Saturday,48,Male,Primary,Bus,19,60,Cloudy,Night,Ice,Overspeed,Serious Injury
+Saturday,32,Male,Secondary,Motorcycle,1,30,Cloudy,Daylight,Wet,Distracted,Serious Injury
+Wednesday,26,Male,Illiterate,Taxi,16,100,Rain,Daylight,Wet,Mechanical Failure,Serious Injury
+Monday,40,Male,Secondary,Motorcycle,11,70,Cloudy,Night,Ice,Overspeed,Serious Injury
+Monday,36,Male,Secondary,Motorcycle,11,70,Clear,Night,Wet,Drunk Driving,Serious Injury
+Sunday,26,Female,Tertiary,Bus,29,30,Clear,Daylight,Wet,Overspeed,Serious Injury
+Sunday,52,Female,Illiterate,Bus,16,30,Cloudy,Daylight,Dry,Overspeed,Slight Injury
+Sunday,38,Male,Secondary,Automobile,26,50,Rain,Daylight,Dry,Overspeed,Serious Injury
+Sunday,26,Female,Secondary,Taxi,9,70,Fog,Twilight,Ice,Weather,Serious Injury
+Friday,45,Male,Illiterate,Taxi,2,60,Cloudy,Twilight,Ice,Overspeed,Serious Injury
+Friday,63,Female,Primary,Taxi,19,80,Fog,Daylight,Dry,Mechanical Failure,Serious Injury
+Saturday,68,Male,Primary,Lorry,17,40,Rain,Night,Wet,Weather,Slight Injury
+Tuesday,24,Female,Secondary,Motorcycle,12,80,Fog,Daylight,Wet,Distracted,Serious Injury
+Wednesday,33,Male,Secondary,Bus,11,50,Rain,Night,Snow,Overspeed,Serious Injury
+Wednesday,33,Male,Primary,Taxi,26,70,Rain,Night,Ice,Fatigue,Serious Injury
+Sunday,50,Female,Tertiary,Automobile,26,100,Clear,Night,Ice,Drunk Driving,Serious Injury
+Saturday,21,Female,Illiterate,Taxi,29,30,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Thursday,21,Male,Illiterate,Motorcycle,26,100,Rain,Daylight,Snow,Weather,Serious Injury
+Tuesday,56,Female,Tertiary,Motorcycle,16,100,Cloudy,Night,Snow,Drunk Driving,Serious Injury
+Saturday,57,Male,Tertiary,Bus,3,70,Clear,Twilight,Wet,Drunk Driving,Serious Injury
+Tuesday,34,Female,Tertiary,Lorry,22,60,Rain,Twilight,Dry,Weather,Slight Injury
+Tuesday,54,Female,Tertiary,Bus,9,50,Fog,Twilight,Dry,Drunk Driving,Serious Injury
+Tuesday,56,Male,Tertiary,Taxi,10,30,Fog,Night,Dry,Overspeed,Serious Injury
+Saturday,69,Female,Tertiary,Automobile,5,80,Cloudy,Daylight,Wet,Distracted,Serious Injury
+Sunday,46,Female,Illiterate,Bus,5,60,Fog,Night,Dry,Weather,Slight Injury
+Wednesday,69,Male,Tertiary,Lorry,26,80,Fog,Twilight,Snow,Fatigue,Serious Injury
+Wednesday,53,Female,Primary,Bus,8,40,Rain,Daylight,Snow,Weather,Slight Injury
+Sunday,55,Male,Tertiary,Motorcycle,29,50,Fog,Night,Ice,Mechanical Failure,Slight Injury
+Tuesday,56,Male,Tertiary,Taxi,14,60,Fog,Night,Dry,Fatigue,Slight Injury
+Thursday,67,Male,Illiterate,Taxi,1,60,Fog,Twilight,Snow,Mechanical Failure,Serious Injury
+Monday,54,Male,Illiterate,Taxi,3,80,Fog,Night,Ice,Weather,Serious Injury
+Saturday,69,Male,Tertiary,Taxi,4,30,Rain,Daylight,Dry,Mechanical Failure,Slight Injury
+Monday,52,Female,Illiterate,Taxi,16,40,Fog,Twilight,Dry,Fatigue,Slight Injury
+Sunday,24,Male,Secondary,Taxi,7,80,Cloudy,Twilight,Snow,Overspeed,Fatal Injury
+Thursday,44,Male,Illiterate,Automobile,7,60,Clear,Daylight,Ice,Weather,Slight Injury
+Saturday,45,Female,Illiterate,Lorry,21,50,Cloudy,Twilight,Ice,Weather,Slight Injury
+Sunday,39,Female,Illiterate,Taxi,11,60,Clear,Night,Snow,Drunk Driving,Serious Injury
+Tuesday,31,Female,Illiterate,Lorry,20,70,Cloudy,Night,Snow,Weather,Serious Injury
+Wednesday,24,Male,Primary,Taxi,7,50,Clear,Twilight,Snow,Weather,Slight Injury
+Monday,54,Male,Primary,Bus,18,50,Clear,Daylight,Dry,Overspeed,Slight Injury
+Friday,39,Male,Primary,Taxi,2,60,Clear,Night,Snow,Drunk Driving,Serious Injury
+Friday,22,Female,Tertiary,Motorcycle,17,30,Clear,Daylight,Snow,Distracted,Slight Injury
+Thursday,19,Male,Tertiary,Automobile,20,50,Rain,Night,Wet,Mechanical Failure,Serious Injury
+Tuesday,44,Female,Secondary,Bus,18,70,Cloudy,Night,Snow,Fatigue,Serious Injury
+Monday,38,Male,Primary,Bus,18,80,Clear,Twilight,Snow,Distracted,Serious Injury
+Tuesday,55,Female,Tertiary,Motorcycle,14,30,Cloudy,Twilight,Dry,Drunk Driving,Slight Injury
+Monday,32,Male,Illiterate,Taxi,5,30,Fog,Daylight,Ice,Overspeed,Serious Injury
+Thursday,38,Male,Illiterate,Automobile,15,30,Clear,Twilight,Dry,Fatigue,Slight Injury
+Thursday,27,Male,Primary,Bus,7,50,Cloudy,Night,Wet,Mechanical Failure,Slight Injury
+Friday,40,Female,Secondary,Automobile,15,30,Rain,Night,Snow,Weather,Slight Injury
+Tuesday,56,Female,Secondary,Bus,17,60,Cloudy,Daylight,Snow,Weather,Slight Injury
+Saturday,22,Male,Illiterate,Taxi,19,30,Clear,Daylight,Snow,Distracted,Slight Injury
+Friday,18,Male,Secondary,Bus,15,70,Fog,Night,Snow,Mechanical Failure,Serious Injury
+Tuesday,30,Male,Primary,Bus,10,40,Cloudy,Twilight,Snow,Drunk Driving,Serious Injury
+Friday,38,Female,Illiterate,Lorry,6,70,Fog,Twilight,Snow,Mechanical Failure,Serious Injury
+Saturday,43,Male,Tertiary,Taxi,16,50,Rain,Daylight,Wet,Overspeed,Serious Injury
+Wednesday,67,Male,Tertiary,Motorcycle,16,30,Cloudy,Daylight,Snow,Distracted,Slight Injury
+Wednesday,62,Male,Secondary,Motorcycle,11,30,Cloudy,Night,Snow,Distracted,Slight Injury
+Wednesday,38,Male,Illiterate,Taxi,12,60,Rain,Night,Snow,Overspeed,Serious Injury
+Wednesday,35,Female,Illiterate,Motorcycle,9,80,Rain,Daylight,Wet,Mechanical Failure,Serious Injury
+Sunday,54,Female,Tertiary,Taxi,6,30,Rain,Night,Snow,Overspeed,Serious Injury
+Monday,62,Male,Illiterate,Motorcycle,13,100,Clear,Daylight,Wet,Fatigue,Serious Injury
+Sunday,49,Male,Illiterate,Lorry,22,70,Clear,Daylight,Dry,Overspeed,Serious Injury
+Sunday,53,Female,Illiterate,Motorcycle,0,50,Cloudy,Twilight,Snow,Mechanical Failure,Serious Injury
+Sunday,34,Female,Secondary,Bus,16,40,Cloudy,Daylight,Ice,Overspeed,Serious Injury
+Wednesday,52,Male,Illiterate,Taxi,3,30,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Saturday,66,Female,Primary,Automobile,20,40,Fog,Twilight,Dry,Weather,Slight Injury
+Thursday,28,Female,Secondary,Automobile,4,30,Rain,Twilight,Wet,Overspeed,Serious Injury
+Thursday,38,Male,Illiterate,Taxi,19,50,Cloudy,Night,Wet,Weather,Slight Injury
+Monday,69,Female,Illiterate,Lorry,23,80,Rain,Night,Dry,Overspeed,Serious Injury
+Wednesday,43,Female,Primary,Motorcycle,22,70,Clear,Night,Snow,Mechanical Failure,Serious Injury
+Wednesday,21,Male,Secondary,Lorry,24,50,Rain,Daylight,Snow,Fatigue,Serious Injury
+Wednesday,51,Male,Tertiary,Automobile,6,40,Fog,Twilight,Wet,Fatigue,Slight Injury
+Friday,69,Female,Tertiary,Taxi,9,30,Fog,Daylight,Dry,Weather,Slight Injury
+Tuesday,65,Male,Secondary,Taxi,16,40,Rain,Daylight,Snow,Mechanical Failure,Slight Injury
+Friday,35,Female,Illiterate,Lorry,28,70,Fog,Daylight,Wet,Mechanical Failure,Serious Injury
+Tuesday,57,Male,Illiterate,Lorry,29,100,Fog,Daylight,Ice,Mechanical Failure,Serious Injury
+Wednesday,52,Female,Tertiary,Motorcycle,6,50,Clear,Twilight,Dry,Drunk Driving,Slight Injury
+Wednesday,58,Male,Tertiary,Bus,0,40,Cloudy,Twilight,Ice,Distracted,Serious Injury
+Friday,46,Female,Tertiary,Bus,6,40,Fog,Daylight,Ice,Overspeed,Serious Injury
+Friday,69,Female,Primary,Motorcycle,25,70,Cloudy,Night,Wet,Mechanical Failure,Serious Injury
+Tuesday,46,Female,Tertiary,Bus,23,100,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Thursday,55,Male,Primary,Automobile,10,30,Rain,Daylight,Snow,Mechanical Failure,Slight Injury
+Tuesday,59,Male,Secondary,Bus,8,100,Fog,Night,Snow,Fatigue,Serious Injury
+Friday,38,Female,Illiterate,Motorcycle,11,40,Rain,Night,Wet,Mechanical Failure,Slight Injury
+Saturday,59,Female,Tertiary,Bus,2,70,Clear,Daylight,Snow,Overspeed,Fatal Injury
+Friday,30,Male,Illiterate,Taxi,3,30,Fog,Twilight,Snow,Mechanical Failure,Slight Injury
+Saturday,66,Male,Illiterate,Lorry,3,100,Fog,Night,Ice,Overspeed,Fatal Injury
+Monday,58,Male,Tertiary,Automobile,27,100,Fog,Twilight,Ice,Drunk Driving,Fatal Injury
+Friday,34,Male,Tertiary,Taxi,24,100,Rain,Twilight,Dry,Distracted,Serious Injury
+Monday,26,Male,Secondary,Taxi,12,80,Rain,Night,Ice,Fatigue,Serious Injury
+Thursday,58,Male,Primary,Motorcycle,22,30,Fog,Daylight,Snow,Overspeed,Serious Injury
+Tuesday,18,Female,Primary,Lorry,18,100,Cloudy,Night,Dry,Weather,Serious Injury
+Saturday,19,Male,Illiterate,Lorry,9,80,Rain,Night,Dry,Drunk Driving,Fatal Injury
+Tuesday,65,Female,Tertiary,Automobile,4,50,Rain,Twilight,Wet,Distracted,Slight Injury
+Monday,46,Male,Secondary,Motorcycle,6,70,Fog,Daylight,Ice,Distracted,Serious Injury
+Saturday,50,Male,Secondary,Automobile,23,100,Cloudy,Twilight,Dry,Distracted,Slight Injury
+Tuesday,27,Female,Secondary,Bus,15,30,Fog,Night,Snow,Overspeed,Serious Injury
+Friday,67,Female,Secondary,Taxi,0,80,Rain,Daylight,Dry,Drunk Driving,Fatal Injury
+Wednesday,57,Male,Secondary,Automobile,11,80,Fog,Daylight,Dry,Mechanical Failure,Serious Injury
+Monday,38,Female,Primary,Taxi,1,50,Fog,Daylight,Wet,Weather,Serious Injury
+Tuesday,45,Female,Primary,Motorcycle,6,60,Fog,Daylight,Snow,Drunk Driving,Serious Injury
+Monday,28,Female,Primary,Bus,10,70,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Sunday,51,Female,Tertiary,Motorcycle,28,60,Fog,Night,Ice,Drunk Driving,Serious Injury
+Monday,25,Male,Illiterate,Bus,29,30,Rain,Night,Snow,Overspeed,Serious Injury
+Saturday,39,Female,Secondary,Bus,12,70,Fog,Night,Dry,Weather,Serious Injury
+Sunday,25,Male,Tertiary,Taxi,1,50,Cloudy,Twilight,Snow,Overspeed,Serious Injury
+Saturday,66,Male,Secondary,Motorcycle,6,30,Clear,Daylight,Snow,Weather,Slight Injury
+Wednesday,32,Male,Primary,Motorcycle,14,70,Cloudy,Daylight,Dry,Weather,Slight Injury
+Sunday,34,Male,Tertiary,Automobile,24,70,Fog,Night,Wet,Overspeed,Fatal Injury
+Friday,40,Female,Primary,Motorcycle,10,60,Clear,Daylight,Ice,Weather,Slight Injury
+Monday,41,Female,Secondary,Automobile,1,30,Fog,Twilight,Ice,Drunk Driving,Fatal Injury
+Tuesday,62,Male,Secondary,Lorry,6,50,Cloudy,Daylight,Wet,Overspeed,Serious Injury
+Thursday,36,Male,Illiterate,Lorry,3,50,Clear,Daylight,Dry,Weather,Slight Injury
+Monday,22,Male,Secondary,Lorry,10,30,Clear,Twilight,Ice,Distracted,Slight Injury
+Monday,49,Male,Primary,Motorcycle,28,30,Fog,Night,Wet,Overspeed,Serious Injury
+Wednesday,61,Female,Secondary,Motorcycle,1,80,Fog,Night,Wet,Fatigue,Fatal Injury
+Friday,18,Male,Illiterate,Automobile,28,40,Cloudy,Daylight,Wet,Overspeed,Serious Injury
+Thursday,40,Female,Illiterate,Bus,15,60,Fog,Twilight,Ice,Overspeed,Serious Injury
+Sunday,54,Male,Primary,Automobile,6,30,Clear,Night,Ice,Overspeed,Serious Injury
+Sunday,25,Male,Tertiary,Lorry,12,30,Rain,Night,Ice,Weather,Slight Injury
+Sunday,30,Male,Secondary,Automobile,4,40,Rain,Night,Ice,Overspeed,Serious Injury
+Saturday,25,Male,Illiterate,Bus,16,40,Cloudy,Daylight,Snow,Fatigue,Slight Injury
+Saturday,40,Female,Secondary,Motorcycle,20,70,Fog,Twilight,Wet,Mechanical Failure,Serious Injury
+Tuesday,60,Female,Secondary,Automobile,11,100,Cloudy,Daylight,Snow,Overspeed,Serious Injury
+Thursday,18,Female,Tertiary,Lorry,27,50,Rain,Night,Wet,Distracted,Serious Injury
+Sunday,62,Male,Illiterate,Lorry,18,60,Rain,Twilight,Ice,Fatigue,Slight Injury
+Saturday,68,Male,Secondary,Motorcycle,6,70,Fog,Daylight,Ice,Mechanical Failure,Serious Injury
+Tuesday,41,Female,Illiterate,Automobile,5,30,Clear,Night,Snow,Weather,Slight Injury
+Friday,52,Female,Primary,Bus,7,40,Fog,Night,Dry,Overspeed,Serious Injury
+Tuesday,41,Male,Primary,Motorcycle,12,80,Rain,Daylight,Ice,Mechanical Failure,Serious Injury
+Saturday,34,Male,Secondary,Automobile,4,50,Clear,Night,Dry,Distracted,Slight Injury
+Wednesday,22,Female,Illiterate,Taxi,1,70,Cloudy,Night,Wet,Fatigue,Fatal Injury
+Wednesday,37,Male,Secondary,Lorry,8,80,Rain,Twilight,Snow,Fatigue,Serious Injury
+Sunday,38,Male,Illiterate,Bus,29,50,Cloudy,Night,Dry,Weather,Slight Injury
+Wednesday,57,Female,Illiterate,Bus,10,100,Clear,Daylight,Dry,Weather,Slight Injury
+Sunday,48,Male,Tertiary,Bus,23,100,Cloudy,Twilight,Ice,Weather,Serious Injury
+Sunday,63,Female,Tertiary,Lorry,5,80,Rain,Daylight,Dry,Mechanical Failure,Serious Injury
+Saturday,53,Male,Tertiary,Automobile,28,40,Fog,Night,Dry,Overspeed,Serious Injury
+Wednesday,28,Female,Secondary,Motorcycle,25,70,Cloudy,Twilight,Wet,Drunk Driving,Serious Injury
+Sunday,69,Male,Tertiary,Automobile,6,70,Rain,Twilight,Snow,Fatigue,Serious Injury
+Thursday,32,Female,Tertiary,Motorcycle,24,100,Rain,Twilight,Ice,Drunk Driving,Fatal Injury
+Friday,36,Female,Primary,Bus,6,50,Clear,Twilight,Ice,Fatigue,Slight Injury
+Tuesday,24,Female,Illiterate,Automobile,18,80,Rain,Daylight,Dry,Weather,Serious Injury
+Tuesday,68,Female,Illiterate,Bus,5,40,Fog,Night,Wet,Overspeed,Serious Injury
+Saturday,45,Male,Tertiary,Taxi,10,30,Fog,Night,Dry,Overspeed,Serious Injury
+Wednesday,68,Male,Illiterate,Bus,28,70,Cloudy,Twilight,Dry,Fatigue,Slight Injury
+Wednesday,60,Female,Primary,Bus,10,30,Cloudy,Night,Ice,Mechanical Failure,Slight Injury
+Sunday,22,Male,Primary,Motorcycle,6,40,Cloudy,Daylight,Dry,Weather,Slight Injury
+Monday,22,Male,Tertiary,Taxi,1,100,Cloudy,Night,Dry,Overspeed,Fatal Injury
+Sunday,47,Male,Primary,Bus,18,70,Fog,Daylight,Wet,Overspeed,Fatal Injury
+Friday,49,Male,Illiterate,Bus,3,70,Clear,Daylight,Ice,Distracted,Serious Injury
+Thursday,25,Male,Secondary,Taxi,25,80,Cloudy,Night,Snow,Overspeed,Serious Injury
+Tuesday,27,Female,Illiterate,Taxi,5,30,Clear,Daylight,Wet,Distracted,Slight Injury
+Sunday,55,Female,Secondary,Automobile,16,100,Rain,Daylight,Wet,Overspeed,Fatal Injury
+Monday,64,Female,Tertiary,Motorcycle,24,80,Rain,Daylight,Wet,Overspeed,Fatal Injury
+Monday,49,Female,Secondary,Taxi,4,60,Cloudy,Daylight,Ice,Mechanical Failure,Slight Injury
+Sunday,65,Male,Primary,Taxi,28,30,Rain,Twilight,Dry,Mechanical Failure,Slight Injury
+Saturday,45,Male,Illiterate,Lorry,27,30,Clear,Night,Snow,Weather,Slight Injury
+Tuesday,34,Female,Secondary,Taxi,29,60,Clear,Twilight,Ice,Overspeed,Serious Injury
+Saturday,48,Male,Illiterate,Motorcycle,6,40,Rain,Daylight,Dry,Weather,Slight Injury
+Thursday,25,Male,Tertiary,Bus,8,40,Cloudy,Night,Wet,Weather,Slight Injury
+Monday,57,Female,Tertiary,Bus,24,70,Clear,Daylight,Ice,Weather,Serious Injury
+Monday,42,Male,Primary,Bus,0,50,Clear,Night,Dry,Weather,Slight Injury
+Friday,26,Female,Tertiary,Bus,0,80,Fog,Twilight,Snow,Fatigue,Fatal Injury
+Thursday,19,Female,Secondary,Lorry,18,50,Cloudy,Night,Snow,Fatigue,Slight Injury
+Monday,32,Male,Tertiary,Taxi,5,70,Fog,Daylight,Dry,Overspeed,Serious Injury
+Thursday,67,Male,Primary,Bus,17,50,Rain,Night,Ice,Fatigue,Slight Injury
+Tuesday,20,Female,Illiterate,Automobile,9,30,Rain,Night,Wet,Overspeed,Serious Injury
+Wednesday,66,Female,Illiterate,Bus,27,30,Fog,Twilight,Dry,Mechanical Failure,Slight Injury
+Monday,53,Male,Tertiary,Taxi,10,60,Cloudy,Daylight,Wet,Drunk Driving,Serious Injury
+Friday,21,Female,Secondary,Bus,0,60,Clear,Night,Snow,Distracted,Serious Injury
+Tuesday,31,Female,Primary,Lorry,0,70,Rain,Twilight,Dry,Fatigue,Serious Injury
+Sunday,58,Female,Secondary,Motorcycle,12,70,Cloudy,Night,Snow,Fatigue,Serious Injury
+Thursday,58,Male,Primary,Motorcycle,4,100,Cloudy,Daylight,Wet,Mechanical Failure,Serious Injury
+Sunday,42,Female,Tertiary,Taxi,19,70,Rain,Night,Wet,Fatigue,Serious Injury
+Saturday,67,Male,Primary,Motorcycle,0,30,Rain,Night,Dry,Overspeed,Serious Injury
+Tuesday,27,Female,Primary,Motorcycle,19,50,Cloudy,Night,Dry,Overspeed,Slight Injury
+Sunday,38,Male,Tertiary,Automobile,2,80,Clear,Night,Dry,Drunk Driving,Fatal Injury
+Monday,53,Female,Secondary,Taxi,17,100,Fog,Daylight,Snow,Drunk Driving,Fatal Injury
+Thursday,29,Male,Tertiary,Taxi,8,100,Rain,Twilight,Wet,Drunk Driving,Fatal Injury
+Wednesday,44,Male,Primary,Motorcycle,13,100,Fog,Twilight,Wet,Overspeed,Fatal Injury
+Tuesday,57,Male,Tertiary,Motorcycle,26,70,Cloudy,Night,Snow,Weather,Serious Injury
+Monday,19,Female,Primary,Motorcycle,16,70,Fog,Daylight,Dry,Weather,Serious Injury
+Friday,30,Female,Tertiary,Lorry,22,30,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Saturday,49,Female,Illiterate,Bus,13,80,Cloudy,Daylight,Dry,Drunk Driving,Serious Injury
+Thursday,48,Male,Illiterate,Lorry,28,30,Clear,Daylight,Ice,Overspeed,Serious Injury
+Tuesday,33,Female,Tertiary,Taxi,3,80,Cloudy,Daylight,Ice,Mechanical Failure,Serious Injury
+Tuesday,49,Male,Secondary,Automobile,4,30,Clear,Daylight,Snow,Fatigue,Slight Injury
+Wednesday,49,Female,Primary,Bus,25,50,Cloudy,Night,Wet,Distracted,Slight Injury
+Wednesday,51,Male,Illiterate,Automobile,20,70,Clear,Twilight,Wet,Weather,Serious Injury
+Friday,28,Male,Secondary,Taxi,16,40,Cloudy,Twilight,Wet,Weather,Slight Injury
+Saturday,27,Male,Primary,Taxi,21,40,Clear,Night,Wet,Overspeed,Serious Injury
+Friday,32,Female,Illiterate,Automobile,28,70,Cloudy,Twilight,Snow,Overspeed,Serious Injury
+Monday,34,Female,Illiterate,Automobile,24,100,Clear,Daylight,Ice,Distracted,Serious Injury
+Monday,57,Female,Tertiary,Automobile,1,70,Rain,Daylight,Wet,Distracted,Fatal Injury
+Friday,35,Male,Primary,Taxi,22,70,Fog,Twilight,Ice,Drunk Driving,Fatal Injury
+Saturday,26,Male,Secondary,Motorcycle,21,70,Cloudy,Daylight,Snow,Distracted,Serious Injury
+Friday,42,Female,Secondary,Automobile,4,100,Clear,Daylight,Dry,Fatigue,Slight Injury
+Saturday,57,Female,Secondary,Bus,3,80,Rain,Twilight,Snow,Fatigue,Serious Injury
+Saturday,31,Female,Primary,Taxi,3,50,Cloudy,Night,Wet,Weather,Slight Injury
+Sunday,42,Male,Secondary,Lorry,5,40,Cloudy,Twilight,Dry,Fatigue,Slight Injury
+Thursday,67,Male,Secondary,Lorry,19,60,Cloudy,Twilight,Snow,Fatigue,Slight Injury
+Saturday,39,Male,Secondary,Bus,20,40,Fog,Twilight,Snow,Fatigue,Slight Injury
+Wednesday,69,Male,Tertiary,Motorcycle,12,40,Clear,Twilight,Ice,Drunk Driving,Serious Injury
+Saturday,47,Male,Tertiary,Automobile,21,100,Clear,Night,Snow,Weather,Serious Injury
+Saturday,37,Female,Primary,Taxi,4,30,Cloudy,Night,Dry,Overspeed,Slight Injury
+Saturday,38,Male,Primary,Automobile,22,70,Cloudy,Daylight,Snow,Weather,Serious Injury
+Sunday,61,Male,Secondary,Taxi,24,70,Cloudy,Daylight,Wet,Weather,Serious Injury
+Sunday,49,Male,Tertiary,Lorry,25,70,Rain,Twilight,Ice,Weather,Serious Injury
+Monday,68,Male,Illiterate,Automobile,22,30,Cloudy,Daylight,Dry,Distracted,Slight Injury
+Sunday,63,Male,Illiterate,Bus,6,100,Fog,Night,Dry,Overspeed,Serious Injury
+Wednesday,66,Female,Secondary,Motorcycle,19,50,Clear,Daylight,Snow,Distracted,Slight Injury
+Wednesday,38,Male,Secondary,Bus,0,50,Fog,Daylight,Wet,Drunk Driving,Fatal Injury
+Sunday,52,Male,Tertiary,Motorcycle,13,100,Cloudy,Daylight,Ice,Drunk Driving,Serious Injury
+Friday,49,Male,Tertiary,Automobile,23,60,Rain,Twilight,Dry,Mechanical Failure,Slight Injury
+Thursday,47,Female,Tertiary,Automobile,3,50,Cloudy,Daylight,Ice,Mechanical Failure,Slight Injury
+Sunday,56,Female,Primary,Motorcycle,16,100,Cloudy,Night,Snow,Drunk Driving,Serious Injury
+Saturday,66,Female,Primary,Lorry,20,50,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Tuesday,29,Male,Secondary,Taxi,13,70,Cloudy,Night,Snow,Distracted,Serious Injury
+Thursday,58,Female,Primary,Bus,15,80,Cloudy,Night,Ice,Drunk Driving,Serious Injury
+Thursday,64,Male,Tertiary,Bus,13,100,Clear,Daylight,Snow,Overspeed,Serious Injury
+Wednesday,35,Male,Tertiary,Bus,15,40,Fog,Twilight,Ice,Distracted,Slight Injury
+Thursday,38,Female,Primary,Automobile,23,50,Rain,Night,Dry,Drunk Driving,Serious Injury
+Sunday,30,Male,Illiterate,Bus,19,50,Cloudy,Night,Dry,Distracted,Slight Injury
+Saturday,38,Male,Secondary,Taxi,28,30,Rain,Twilight,Snow,Distracted,Slight Injury
+Saturday,25,Male,Illiterate,Taxi,27,60,Clear,Twilight,Dry,Fatigue,Slight Injury
+Monday,63,Female,Secondary,Motorcycle,7,80,Fog,Night,Ice,Mechanical Failure,Serious Injury
+Saturday,57,Male,Illiterate,Automobile,23,30,Cloudy,Night,Dry,Distracted,Slight Injury
+Saturday,63,Male,Primary,Taxi,2,70,Clear,Twilight,Wet,Weather,Serious Injury
+Wednesday,24,Female,Secondary,Lorry,24,40,Clear,Night,Wet,Distracted,Slight Injury
+Saturday,40,Male,Secondary,Automobile,18,60,Fog,Night,Snow,Weather,Slight Injury
+Monday,61,Male,Secondary,Automobile,0,30,Cloudy,Daylight,Snow,Fatigue,Serious Injury
+Tuesday,49,Female,Tertiary,Taxi,1,100,Fog,Twilight,Snow,Drunk Driving,Fatal Injury
+Sunday,28,Male,Tertiary,Lorry,14,50,Fog,Daylight,Snow,Distracted,Slight Injury
+Wednesday,39,Male,Illiterate,Motorcycle,21,50,Rain,Daylight,Ice,Fatigue,Slight Injury
+Tuesday,39,Male,Primary,Taxi,27,60,Rain,Twilight,Ice,Overspeed,Serious Injury
+Wednesday,60,Male,Tertiary,Lorry,9,50,Fog,Daylight,Wet,Fatigue,Slight Injury
+Friday,42,Male,Secondary,Automobile,17,100,Rain,Night,Ice,Mechanical Failure,Serious Injury
+Thursday,39,Female,Tertiary,Lorry,21,30,Clear,Daylight,Dry,Mechanical Failure,Slight Injury
+Friday,45,Female,Primary,Automobile,13,30,Fog,Twilight,Wet,Drunk Driving,Serious Injury
+Saturday,46,Female,Tertiary,Taxi,16,50,Cloudy,Night,Snow,Weather,Slight Injury
+Tuesday,30,Female,Secondary,Taxi,26,50,Cloudy,Night,Snow,Drunk Driving,Serious Injury
+Saturday,35,Male,Illiterate,Bus,12,70,Clear,Night,Ice,Weather,Serious Injury
+Thursday,19,Male,Secondary,Bus,0,40,Cloudy,Night,Wet,Weather,Serious Injury
+Wednesday,46,Male,Primary,Bus,4,60,Cloudy,Daylight,Ice,Weather,Slight Injury
+Thursday,38,Male,Illiterate,Taxi,25,30,Fog,Daylight,Ice,Weather,Slight Injury
+Monday,32,Male,Tertiary,Motorcycle,12,60,Clear,Night,Ice,Mechanical Failure,Slight Injury
+Thursday,69,Female,Tertiary,Taxi,26,70,Fog,Twilight,Wet,Mechanical Failure,Serious Injury
+Monday,44,Female,Tertiary,Lorry,24,30,Clear,Night,Snow,Distracted,Slight Injury
+Thursday,67,Male,Illiterate,Taxi,13,70,Fog,Daylight,Dry,Mechanical Failure,Serious Injury
+Sunday,48,Male,Secondary,Taxi,23,70,Fog,Night,Snow,Drunk Driving,Fatal Injury
+Monday,32,Male,Illiterate,Automobile,2,80,Rain,Daylight,Wet,Mechanical Failure,Fatal Injury
+Tuesday,68,Female,Illiterate,Automobile,14,50,Cloudy,Night,Snow,Drunk Driving,Serious Injury
+Saturday,40,Male,Primary,Automobile,18,100,Clear,Twilight,Snow,Overspeed,Serious Injury
+Saturday,41,Male,Illiterate,Taxi,16,80,Cloudy,Night,Dry,Mechanical Failure,Slight Injury
+Friday,61,Male,Tertiary,Motorcycle,29,60,Rain,Twilight,Snow,Drunk Driving,Serious Injury
+Saturday,30,Female,Secondary,Lorry,2,100,Clear,Twilight,Snow,Weather,Serious Injury
+Wednesday,39,Male,Secondary,Lorry,15,60,Rain,Night,Snow,Fatigue,Slight Injury
+Sunday,60,Female,Secondary,Motorcycle,13,50,Cloudy,Twilight,Ice,Weather,Slight Injury
+Thursday,54,Female,Tertiary,Motorcycle,11,100,Fog,Twilight,Wet,Distracted,Serious Injury
+Friday,50,Female,Tertiary,Lorry,27,80,Rain,Daylight,Wet,Drunk Driving,Fatal Injury
+Wednesday,20,Female,Tertiary,Bus,11,60,Rain,Daylight,Dry,Weather,Slight Injury
+Wednesday,36,Female,Tertiary,Automobile,28,80,Fog,Twilight,Ice,Mechanical Failure,Serious Injury
+Monday,40,Female,Tertiary,Automobile,10,50,Cloudy,Night,Ice,Mechanical Failure,Slight Injury
+Saturday,46,Male,Illiterate,Lorry,16,100,Rain,Twilight,Snow,Overspeed,Fatal Injury
+Tuesday,47,Male,Tertiary,Motorcycle,7,100,Cloudy,Night,Wet,Fatigue,Serious Injury
+Tuesday,56,Male,Tertiary,Bus,16,30,Fog,Daylight,Dry,Drunk Driving,Serious Injury
+Friday,61,Female,Tertiary,Lorry,20,70,Clear,Night,Ice,Weather,Serious Injury
+Sunday,64,Male,Tertiary,Automobile,24,70,Rain,Twilight,Snow,Fatigue,Serious Injury
+Tuesday,42,Female,Secondary,Taxi,22,80,Cloudy,Twilight,Dry,Overspeed,Serious Injury
+Thursday,54,Female,Tertiary,Motorcycle,19,100,Fog,Twilight,Ice,Distracted,Serious Injury
+Tuesday,64,Female,Illiterate,Taxi,10,60,Fog,Twilight,Dry,Fatigue,Slight Injury
+Friday,25,Male,Illiterate,Lorry,24,80,Rain,Twilight,Ice,Overspeed,Fatal Injury
+Tuesday,59,Female,Illiterate,Automobile,24,80,Clear,Night,Dry,Drunk Driving,Serious Injury
+Thursday,33,Female,Primary,Bus,1,40,Rain,Twilight,Ice,Distracted,Serious Injury
+Monday,25,Male,Secondary,Taxi,9,100,Cloudy,Daylight,Ice,Mechanical Failure,Serious Injury
+Sunday,18,Male,Tertiary,Bus,9,70,Fog,Twilight,Dry,Overspeed,Fatal Injury
+Friday,61,Female,Primary,Automobile,10,100,Clear,Night,Ice,Mechanical Failure,Serious Injury
+Monday,22,Female,Tertiary,Taxi,27,50,Cloudy,Twilight,Ice,Distracted,Slight Injury
+Monday,20,Male,Primary,Bus,5,80,Rain,Twilight,Ice,Overspeed,Fatal Injury
+Monday,18,Male,Primary,Bus,3,40,Fog,Night,Dry,Overspeed,Serious Injury
+Wednesday,21,Male,Illiterate,Taxi,23,40,Rain,Twilight,Dry,Distracted,Slight Injury
+Sunday,57,Female,Illiterate,Automobile,11,70,Clear,Night,Ice,Drunk Driving,Serious Injury
+Saturday,52,Male,Primary,Bus,10,70,Clear,Twilight,Ice,Overspeed,Serious Injury
+Sunday,49,Male,Illiterate,Lorry,22,70,Clear,Daylight,Dry,Distracted,Slight Injury
+Wednesday,59,Male,Primary,Taxi,22,50,Clear,Twilight,Snow,Fatigue,Slight Injury
+Saturday,51,Female,Secondary,Motorcycle,26,40,Clear,Night,Ice,Mechanical Failure,Slight Injury
+Sunday,60,Male,Illiterate,Motorcycle,25,60,Rain,Daylight,Snow,Overspeed,Serious Injury
+Monday,42,Male,Illiterate,Automobile,24,50,Clear,Night,Dry,Fatigue,Slight Injury
+Friday,27,Male,Illiterate,Lorry,12,30,Clear,Twilight,Ice,Overspeed,Serious Injury
+Saturday,38,Male,Secondary,Bus,4,80,Fog,Daylight,Snow,Drunk Driving,Fatal Injury
+Thursday,63,Male,Primary,Motorcycle,5,70,Clear,Night,Dry,Distracted,Slight Injury
+Thursday,56,Female,Tertiary,Automobile,0,40,Fog,Daylight,Snow,Overspeed,Fatal Injury
+Tuesday,44,Female,Illiterate,Lorry,5,80,Fog,Daylight,Wet,Distracted,Serious Injury
+Saturday,44,Female,Primary,Lorry,17,100,Fog,Night,Dry,Weather,Serious Injury
+Friday,19,Male,Secondary,Automobile,21,50,Rain,Daylight,Wet,Overspeed,Serious Injury
+Wednesday,58,Female,Tertiary,Automobile,8,30,Rain,Night,Dry,Drunk Driving,Serious Injury
+Monday,65,Female,Illiterate,Bus,23,100,Cloudy,Daylight,Dry,Drunk Driving,Serious Injury
+Tuesday,30,Female,Secondary,Automobile,24,50,Cloudy,Daylight,Ice,Fatigue,Slight Injury
+Thursday,26,Male,Secondary,Bus,28,50,Fog,Daylight,Wet,Drunk Driving,Serious Injury
+Wednesday,69,Male,Tertiary,Bus,14,60,Rain,Twilight,Wet,Distracted,Slight Injury
+Wednesday,53,Female,Primary,Taxi,25,80,Clear,Twilight,Wet,Weather,Serious Injury
+Monday,39,Female,Illiterate,Lorry,7,60,Cloudy,Night,Dry,Drunk Driving,Slight Injury
+Saturday,59,Male,Illiterate,Lorry,18,50,Rain,Daylight,Wet,Overspeed,Serious Injury
+Thursday,43,Male,Primary,Lorry,23,30,Clear,Night,Wet,Drunk Driving,Serious Injury
+Friday,29,Female,Primary,Taxi,15,40,Clear,Twilight,Ice,Weather,Slight Injury
+Wednesday,34,Male,Primary,Bus,5,40,Rain,Twilight,Snow,Distracted,Slight Injury
+Monday,31,Female,Tertiary,Bus,28,100,Cloudy,Twilight,Snow,Overspeed,Serious Injury
+Friday,31,Male,Tertiary,Automobile,5,80,Rain,Twilight,Wet,Fatigue,Serious Injury
+Saturday,51,Female,Illiterate,Taxi,21,70,Cloudy,Night,Wet,Fatigue,Serious Injury
+Thursday,37,Female,Tertiary,Automobile,2,70,Fog,Daylight,Wet,Fatigue,Fatal Injury
+Saturday,28,Male,Secondary,Taxi,9,40,Rain,Night,Wet,Overspeed,Serious Injury
+Wednesday,33,Female,Illiterate,Automobile,0,50,Rain,Daylight,Snow,Fatigue,Serious Injury
+Friday,68,Female,Tertiary,Motorcycle,27,50,Cloudy,Twilight,Ice,Drunk Driving,Serious Injury
+Friday,48,Female,Primary,Lorry,13,60,Cloudy,Daylight,Dry,Overspeed,Slight Injury
+Friday,23,Male,Secondary,Lorry,3,80,Rain,Twilight,Wet,Overspeed,Fatal Injury
+Wednesday,36,Male,Primary,Bus,25,60,Clear,Night,Wet,Overspeed,Serious Injury
+Wednesday,54,Male,Illiterate,Motorcycle,11,70,Clear,Daylight,Snow,Mechanical Failure,Serious Injury
+Saturday,21,Female,Primary,Lorry,5,40,Clear,Night,Wet,Distracted,Slight Injury
+Tuesday,64,Male,Tertiary,Bus,10,100,Fog,Twilight,Ice,Mechanical Failure,Serious Injury
+Saturday,21,Female,Tertiary,Motorcycle,11,50,Fog,Night,Ice,Mechanical Failure,Serious Injury
+Thursday,37,Female,Illiterate,Lorry,9,40,Cloudy,Twilight,Wet,Mechanical Failure,Slight Injury
+Monday,27,Male,Primary,Automobile,17,30,Fog,Twilight,Snow,Distracted,Slight Injury
+Friday,41,Male,Illiterate,Taxi,6,40,Clear,Twilight,Wet,Mechanical Failure,Slight Injury
+Tuesday,52,Female,Primary,Motorcycle,6,30,Rain,Night,Wet,Fatigue,Slight Injury
+Monday,43,Female,Secondary,Bus,10,60,Fog,Night,Snow,Overspeed,Serious Injury
+Tuesday,54,Male,Tertiary,Motorcycle,3,60,Fog,Daylight,Ice,Overspeed,Serious Injury
+Sunday,55,Male,Illiterate,Bus,19,70,Clear,Daylight,Dry,Drunk Driving,Serious Injury
+Saturday,38,Male,Secondary,Motorcycle,0,40,Fog,Night,Wet,Weather,Serious Injury
+Wednesday,57,Female,Secondary,Bus,12,40,Cloudy,Night,Ice,Fatigue,Slight Injury
+Friday,56,Female,Illiterate,Lorry,17,30,Rain,Night,Wet,Distracted,Slight Injury
+Saturday,38,Female,Illiterate,Automobile,8,60,Clear,Night,Dry,Weather,Slight Injury
+Monday,27,Female,Secondary,Lorry,25,30,Cloudy,Twilight,Snow,Overspeed,Serious Injury
+Sunday,55,Female,Primary,Automobile,23,60,Clear,Twilight,Ice,Mechanical Failure,Slight Injury
+Sunday,63,Male,Secondary,Lorry,23,30,Cloudy,Twilight,Dry,Drunk Driving,Slight Injury
+Sunday,21,Male,Illiterate,Lorry,8,60,Rain,Night,Wet,Drunk Driving,Serious Injury
+Monday,62,Female,Secondary,Motorcycle,22,30,Rain,Twilight,Dry,Overspeed,Serious Injury
+Monday,37,Female,Primary,Taxi,28,100,Cloudy,Twilight,Ice,Fatigue,Serious Injury
+Monday,34,Male,Tertiary,Bus,8,60,Cloudy,Daylight,Snow,Weather,Slight Injury
+Monday,24,Male,Tertiary,Bus,9,80,Cloudy,Daylight,Wet,Drunk Driving,Fatal Injury
+Sunday,21,Male,Secondary,Bus,27,30,Cloudy,Twilight,Snow,Overspeed,Serious Injury
+Sunday,46,Male,Primary,Automobile,1,40,Cloudy,Twilight,Snow,Fatigue,Serious Injury
+Tuesday,31,Female,Tertiary,Bus,5,70,Cloudy,Twilight,Dry,Overspeed,Serious Injury
+Saturday,20,Male,Secondary,Bus,14,80,Rain,Night,Dry,Overspeed,Fatal Injury
+Friday,41,Female,Secondary,Motorcycle,2,80,Cloudy,Daylight,Ice,Fatigue,Serious Injury
+Wednesday,54,Male,Primary,Lorry,10,30,Fog,Daylight,Ice,Fatigue,Slight Injury
+Sunday,33,Male,Illiterate,Bus,5,70,Rain,Daylight,Snow,Fatigue,Serious Injury
+Wednesday,69,Male,Secondary,Taxi,2,40,Clear,Twilight,Ice,Overspeed,Serious Injury
+Saturday,21,Female,Illiterate,Bus,23,80,Rain,Night,Snow,Drunk Driving,Fatal Injury
+Saturday,41,Female,Illiterate,Automobile,10,40,Clear,Daylight,Wet,Distracted,Slight Injury
+Wednesday,51,Male,Tertiary,Automobile,14,60,Clear,Daylight,Snow,Distracted,Slight Injury
+Sunday,47,Female,Illiterate,Automobile,12,100,Fog,Night,Ice,Overspeed,Fatal Injury
+Wednesday,35,Female,Primary,Bus,19,70,Cloudy,Twilight,Ice,Overspeed,Serious Injury
+Tuesday,36,Male,Tertiary,Motorcycle,27,100,Cloudy,Twilight,Snow,Drunk Driving,Serious Injury
+Thursday,48,Male,Tertiary,Taxi,9,50,Rain,Daylight,Dry,Fatigue,Slight Injury
+Sunday,36,Female,Tertiary,Bus,5,60,Cloudy,Daylight,Snow,Overspeed,Serious Injury
+Sunday,66,Female,Secondary,Motorcycle,14,70,Fog,Night,Snow,Mechanical Failure,Serious Injury
+Friday,63,Female,Secondary,Motorcycle,24,30,Rain,Daylight,Dry,Fatigue,Slight Injury
+Monday,36,Male,Illiterate,Bus,17,100,Rain,Night,Wet,Overspeed,Fatal Injury
+Thursday,39,Male,Tertiary,Bus,17,30,Rain,Daylight,Dry,Mechanical Failure,Slight Injury
+Saturday,41,Female,Tertiary,Motorcycle,6,40,Cloudy,Daylight,Ice,Weather,Slight Injury
+Sunday,62,Male,Primary,Motorcycle,14,80,Cloudy,Daylight,Dry,Drunk Driving,Serious Injury
+Wednesday,29,Male,Illiterate,Motorcycle,17,100,Cloudy,Twilight,Ice,Mechanical Failure,Serious Injury
+Thursday,47,Female,Primary,Bus,17,50,Rain,Night,Ice,Overspeed,Serious Injury
+Friday,55,Female,Illiterate,Motorcycle,19,30,Rain,Night,Snow,Distracted,Slight Injury
+Saturday,48,Male,Illiterate,Automobile,8,70,Clear,Twilight,Snow,Overspeed,Serious Injury
+Monday,53,Male,Secondary,Bus,23,100,Clear,Twilight,Wet,Distracted,Serious Injury
+Monday,36,Female,Secondary,Automobile,1,100,Cloudy,Twilight,Ice,Drunk Driving,Fatal Injury
+Friday,65,Male,Primary,Lorry,7,80,Rain,Night,Snow,Drunk Driving,Fatal Injury
+Friday,62,Male,Illiterate,Bus,19,80,Cloudy,Daylight,Ice,Fatigue,Serious Injury
+Wednesday,53,Female,Tertiary,Lorry,1,70,Cloudy,Twilight,Wet,Fatigue,Serious Injury
+Sunday,47,Female,Secondary,Motorcycle,10,80,Clear,Twilight,Ice,Distracted,Serious Injury
+Monday,66,Male,Tertiary,Motorcycle,25,30,Fog,Twilight,Wet,Distracted,Slight Injury
+Saturday,50,Male,Primary,Taxi,6,70,Cloudy,Daylight,Wet,Drunk Driving,Serious Injury
+Thursday,35,Male,Secondary,Motorcycle,5,70,Fog,Daylight,Wet,Mechanical Failure,Serious Injury
+Saturday,69,Female,Secondary,Lorry,29,40,Fog,Twilight,Snow,Distracted,Slight Injury
+Tuesday,66,Male,Illiterate,Motorcycle,9,50,Rain,Daylight,Dry,Distracted,Slight Injury
+Tuesday,45,Male,Primary,Bus,4,100,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Friday,64,Female,Illiterate,Motorcycle,10,40,Cloudy,Daylight,Snow,Fatigue,Slight Injury
+Wednesday,28,Female,Secondary,Taxi,0,50,Clear,Night,Ice,Fatigue,Serious Injury
+Tuesday,62,Male,Primary,Motorcycle,1,70,Clear,Night,Snow,Distracted,Serious Injury
+Monday,50,Female,Secondary,Lorry,23,100,Cloudy,Daylight,Ice,Fatigue,Serious Injury
+Saturday,34,Female,Primary,Lorry,0,80,Cloudy,Night,Wet,Fatigue,Serious Injury
+Saturday,23,Male,Secondary,Motorcycle,18,50,Clear,Night,Snow,Weather,Slight Injury
+Friday,21,Female,Tertiary,Lorry,1,70,Fog,Night,Dry,Fatigue,Fatal Injury
+Sunday,37,Female,Tertiary,Lorry,20,70,Cloudy,Twilight,Ice,Drunk Driving,Serious Injury
+Sunday,65,Male,Illiterate,Taxi,19,40,Fog,Daylight,Snow,Overspeed,Serious Injury
+Thursday,64,Female,Tertiary,Bus,28,40,Cloudy,Daylight,Snow,Distracted,Slight Injury
+Friday,44,Male,Secondary,Taxi,22,80,Cloudy,Daylight,Ice,Distracted,Serious Injury
+Thursday,32,Male,Secondary,Automobile,20,60,Fog,Night,Wet,Drunk Driving,Serious Injury
+Sunday,23,Female,Tertiary,Taxi,23,30,Fog,Twilight,Wet,Overspeed,Serious Injury
+Friday,64,Female,Illiterate,Motorcycle,3,60,Clear,Daylight,Wet,Overspeed,Serious Injury
+Friday,31,Female,Tertiary,Bus,11,60,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Friday,28,Male,Primary,Motorcycle,21,100,Rain,Twilight,Ice,Mechanical Failure,Serious Injury
+Sunday,56,Female,Primary,Automobile,19,100,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Thursday,26,Male,Primary,Bus,17,80,Cloudy,Daylight,Snow,Overspeed,Serious Injury
+Thursday,43,Female,Tertiary,Lorry,0,100,Cloudy,Daylight,Snow,Mechanical Failure,Serious Injury
+Friday,33,Female,Tertiary,Taxi,29,50,Cloudy,Night,Wet,Mechanical Failure,Slight Injury
+Tuesday,22,Female,Tertiary,Motorcycle,29,80,Fog,Daylight,Ice,Mechanical Failure,Serious Injury
+Wednesday,69,Male,Primary,Automobile,0,80,Rain,Night,Dry,Overspeed,Fatal Injury
+Sunday,27,Female,Illiterate,Lorry,23,70,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Wednesday,67,Female,Secondary,Taxi,13,70,Rain,Twilight,Snow,Distracted,Serious Injury
+Wednesday,20,Male,Tertiary,Lorry,3,70,Cloudy,Twilight,Wet,Weather,Serious Injury
+Thursday,30,Male,Illiterate,Taxi,4,30,Fog,Twilight,Snow,Overspeed,Serious Injury
+Thursday,60,Female,Secondary,Bus,10,50,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Tuesday,66,Female,Secondary,Lorry,23,50,Clear,Daylight,Dry,Mechanical Failure,Slight Injury
+Wednesday,47,Female,Secondary,Lorry,27,70,Clear,Night,Ice,Fatigue,Serious Injury
+Wednesday,62,Male,Illiterate,Lorry,22,60,Rain,Night,Dry,Overspeed,Serious Injury
+Friday,23,Male,Illiterate,Bus,12,30,Cloudy,Night,Snow,Drunk Driving,Serious Injury
+Thursday,34,Male,Primary,Automobile,15,60,Clear,Night,Wet,Weather,Slight Injury
+Wednesday,62,Male,Illiterate,Taxi,23,40,Clear,Night,Wet,Distracted,Slight Injury
+Saturday,68,Female,Illiterate,Lorry,12,50,Cloudy,Twilight,Ice,Drunk Driving,Serious Injury
+Tuesday,36,Male,Illiterate,Bus,23,50,Fog,Twilight,Ice,Mechanical Failure,Slight Injury
+Saturday,59,Male,Secondary,Automobile,21,60,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Saturday,52,Male,Tertiary,Taxi,25,30,Cloudy,Night,Snow,Mechanical Failure,Slight Injury
+Sunday,63,Female,Primary,Bus,1,50,Fog,Twilight,Snow,Drunk Driving,Fatal Injury
+Sunday,43,Female,Tertiary,Taxi,15,60,Rain,Twilight,Ice,Overspeed,Serious Injury
+Tuesday,68,Male,Tertiary,Lorry,5,80,Rain,Twilight,Wet,Fatigue,Serious Injury
+Saturday,22,Male,Illiterate,Automobile,13,80,Rain,Twilight,Wet,Fatigue,Serious Injury
+Wednesday,46,Female,Primary,Bus,0,100,Fog,Daylight,Wet,Drunk Driving,Fatal Injury
+Thursday,54,Female,Tertiary,Automobile,16,30,Clear,Night,Snow,Weather,Slight Injury
+Tuesday,37,Female,Tertiary,Lorry,10,60,Fog,Night,Dry,Weather,Slight Injury
+Friday,66,Female,Primary,Automobile,18,100,Cloudy,Daylight,Wet,Mechanical Failure,Serious Injury
+Saturday,38,Female,Illiterate,Automobile,2,80,Fog,Twilight,Wet,Drunk Driving,Fatal Injury
+Tuesday,27,Female,Tertiary,Motorcycle,10,30,Clear,Twilight,Wet,Fatigue,Slight Injury
+Monday,22,Female,Secondary,Automobile,28,100,Clear,Twilight,Ice,Drunk Driving,Fatal Injury
+Monday,53,Female,Tertiary,Taxi,4,70,Cloudy,Night,Snow,Fatigue,Serious Injury
+Sunday,23,Male,Secondary,Bus,16,30,Rain,Night,Ice,Mechanical Failure,Serious Injury
+Thursday,43,Male,Illiterate,Motorcycle,25,40,Clear,Night,Ice,Overspeed,Serious Injury
+Wednesday,21,Male,Tertiary,Bus,21,70,Clear,Night,Dry,Overspeed,Serious Injury
+Thursday,56,Male,Primary,Bus,6,100,Clear,Night,Ice,Drunk Driving,Serious Injury
+Thursday,56,Male,Primary,Lorry,9,60,Cloudy,Daylight,Dry,Fatigue,Slight Injury
+Thursday,67,Male,Tertiary,Lorry,27,70,Clear,Night,Ice,Overspeed,Serious Injury
+Thursday,52,Female,Illiterate,Motorcycle,28,70,Rain,Twilight,Wet,Fatigue,Serious Injury
+Friday,18,Female,Illiterate,Lorry,10,100,Cloudy,Night,Snow,Mechanical Failure,Serious Injury
+Friday,41,Male,Primary,Lorry,2,60,Rain,Daylight,Ice,Drunk Driving,Fatal Injury
+Sunday,53,Male,Tertiary,Lorry,19,60,Clear,Twilight,Dry,Fatigue,Slight Injury
+Tuesday,23,Female,Illiterate,Bus,9,80,Clear,Daylight,Snow,Drunk Driving,Fatal Injury
+Monday,58,Female,Primary,Motorcycle,26,40,Rain,Twilight,Dry,Fatigue,Slight Injury
+Thursday,63,Female,Secondary,Bus,9,60,Cloudy,Night,Wet,Weather,Slight Injury
+Sunday,61,Male,Tertiary,Taxi,13,50,Cloudy,Daylight,Ice,Weather,Slight Injury
+Tuesday,48,Female,Secondary,Bus,11,50,Rain,Twilight,Snow,Fatigue,Slight Injury
+Monday,37,Male,Secondary,Taxi,14,40,Clear,Night,Wet,Mechanical Failure,Slight Injury
+Saturday,41,Male,Illiterate,Automobile,9,30,Fog,Twilight,Ice,Drunk Driving,Serious Injury
+Wednesday,42,Female,Illiterate,Automobile,29,100,Rain,Daylight,Ice,Distracted,Serious Injury
+Friday,53,Female,Illiterate,Taxi,9,30,Rain,Daylight,Dry,Fatigue,Slight Injury
+Saturday,38,Male,Tertiary,Taxi,25,50,Rain,Daylight,Dry,Fatigue,Slight Injury
+Monday,47,Female,Secondary,Bus,18,60,Clear,Daylight,Wet,Weather,Slight Injury
+Saturday,41,Female,Tertiary,Taxi,0,40,Cloudy,Night,Dry,Overspeed,Serious Injury
+Wednesday,61,Male,Illiterate,Motorcycle,23,30,Clear,Twilight,Wet,Weather,Slight Injury
+Sunday,59,Female,Secondary,Automobile,28,30,Rain,Night,Wet,Drunk Driving,Serious Injury
+Monday,47,Male,Tertiary,Automobile,25,100,Clear,Daylight,Wet,Weather,Serious Injury
+Saturday,39,Male,Tertiary,Taxi,9,70,Clear,Twilight,Dry,Distracted,Slight Injury
+Friday,45,Female,Primary,Lorry,1,50,Rain,Daylight,Snow,Mechanical Failure,Serious Injury
+Friday,24,Male,Tertiary,Lorry,16,60,Clear,Night,Wet,Distracted,Slight Injury
+Tuesday,52,Male,Illiterate,Taxi,29,40,Fog,Night,Snow,Mechanical Failure,Slight Injury
+Saturday,45,Female,Tertiary,Motorcycle,23,30,Clear,Night,Ice,Distracted,Slight Injury
+Thursday,31,Female,Secondary,Lorry,6,100,Clear,Twilight,Dry,Weather,Slight Injury
+Saturday,27,Female,Tertiary,Taxi,6,70,Cloudy,Twilight,Dry,Distracted,Slight Injury
+Sunday,33,Male,Primary,Motorcycle,19,50,Cloudy,Daylight,Snow,Weather,Slight Injury
+Monday,33,Male,Secondary,Motorcycle,26,50,Rain,Twilight,Ice,Weather,Slight Injury
+Monday,48,Female,Secondary,Bus,8,100,Rain,Twilight,Ice,Drunk Driving,Fatal Injury
+Sunday,59,Male,Primary,Motorcycle,21,40,Cloudy,Night,Wet,Weather,Slight Injury
+Saturday,42,Female,Illiterate,Lorry,1,30,Fog,Daylight,Dry,Overspeed,Serious Injury
+Sunday,30,Female,Secondary,Lorry,13,40,Clear,Night,Ice,Distracted,Slight Injury
+Wednesday,23,Male,Illiterate,Taxi,16,100,Fog,Daylight,Ice,Fatigue,Serious Injury
+Sunday,61,Female,Secondary,Taxi,0,100,Fog,Daylight,Wet,Fatigue,Fatal Injury
+Friday,26,Male,Secondary,Motorcycle,8,40,Cloudy,Twilight,Wet,Fatigue,Slight Injury
+Sunday,62,Male,Illiterate,Automobile,19,80,Rain,Night,Snow,Overspeed,Fatal Injury
+Monday,53,Female,Secondary,Bus,20,70,Clear,Twilight,Dry,Weather,Slight Injury
+Friday,60,Male,Illiterate,Automobile,18,50,Rain,Twilight,Ice,Distracted,Slight Injury
+Monday,37,Female,Primary,Motorcycle,3,80,Fog,Twilight,Snow,Mechanical Failure,Serious Injury
+Tuesday,35,Male,Illiterate,Motorcycle,27,60,Fog,Daylight,Dry,Mechanical Failure,Slight Injury
+Thursday,60,Male,Primary,Automobile,7,50,Rain,Night,Snow,Drunk Driving,Serious Injury
+Monday,38,Male,Secondary,Bus,12,50,Rain,Night,Dry,Overspeed,Serious Injury
+Friday,21,Female,Illiterate,Automobile,3,70,Cloudy,Twilight,Dry,Distracted,Serious Injury
+Tuesday,67,Male,Secondary,Taxi,8,60,Rain,Daylight,Ice,Weather,Slight Injury
+Monday,50,Female,Illiterate,Lorry,8,30,Rain,Night,Dry,Fatigue,Slight Injury
+Wednesday,44,Male,Primary,Taxi,21,60,Cloudy,Night,Wet,Overspeed,Serious Injury
+Sunday,24,Male,Primary,Lorry,17,30,Rain,Twilight,Ice,Overspeed,Serious Injury
+Thursday,23,Female,Illiterate,Motorcycle,11,60,Fog,Daylight,Wet,Distracted,Serious Injury
+Monday,32,Female,Primary,Bus,9,40,Rain,Twilight,Snow,Weather,Slight Injury
+Tuesday,35,Female,Secondary,Automobile,10,100,Clear,Night,Snow,Drunk Driving,Serious Injury
+Wednesday,49,Female,Secondary,Bus,6,60,Fog,Daylight,Dry,Weather,Slight Injury
+Saturday,28,Female,Tertiary,Automobile,8,80,Cloudy,Twilight,Dry,Drunk Driving,Serious Injury
+Tuesday,37,Male,Primary,Taxi,5,80,Fog,Night,Wet,Drunk Driving,Fatal Injury
+Sunday,41,Male,Secondary,Taxi,18,70,Cloudy,Twilight,Wet,Fatigue,Serious Injury
+Tuesday,32,Female,Illiterate,Automobile,15,100,Clear,Twilight,Wet,Fatigue,Serious Injury
+Wednesday,65,Male,Primary,Bus,29,100,Clear,Twilight,Snow,Distracted,Serious Injury
+Tuesday,24,Male,Secondary,Automobile,14,30,Fog,Daylight,Wet,Weather,Serious Injury
+Wednesday,38,Male,Primary,Motorcycle,6,50,Rain,Night,Ice,Drunk Driving,Serious Injury
+Monday,59,Female,Illiterate,Taxi,15,70,Fog,Night,Ice,Distracted,Serious Injury
+Wednesday,43,Male,Secondary,Motorcycle,4,80,Fog,Night,Snow,Drunk Driving,Fatal Injury
+Wednesday,61,Male,Tertiary,Taxi,15,80,Clear,Night,Wet,Overspeed,Serious Injury
+Thursday,31,Male,Tertiary,Taxi,0,30,Cloudy,Daylight,Wet,Mechanical Failure,Serious Injury
+Wednesday,54,Female,Primary,Lorry,18,80,Fog,Twilight,Dry,Mechanical Failure,Serious Injury
+Wednesday,38,Male,Illiterate,Motorcycle,4,80,Rain,Night,Ice,Drunk Driving,Fatal Injury
+Saturday,35,Male,Secondary,Motorcycle,6,30,Clear,Daylight,Snow,Distracted,Slight Injury
+Monday,22,Female,Illiterate,Lorry,18,80,Fog,Twilight,Wet,Fatigue,Serious Injury
+Sunday,20,Female,Secondary,Bus,21,50,Fog,Daylight,Dry,Weather,Slight Injury
+Thursday,40,Male,Primary,Motorcycle,4,40,Rain,Daylight,Snow,Drunk Driving,Serious Injury
+Saturday,43,Male,Secondary,Automobile,28,70,Fog,Night,Snow,Drunk Driving,Fatal Injury
+Friday,54,Female,Illiterate,Lorry,16,50,Fog,Night,Ice,Weather,Slight Injury
+Monday,41,Female,Illiterate,Motorcycle,25,50,Fog,Twilight,Wet,Fatigue,Slight Injury
+Monday,66,Female,Primary,Bus,21,40,Fog,Twilight,Snow,Drunk Driving,Serious Injury
+Friday,36,Female,Illiterate,Motorcycle,29,100,Rain,Night,Dry,Overspeed,Serious Injury
+Sunday,68,Female,Secondary,Taxi,7,70,Fog,Daylight,Dry,Fatigue,Serious Injury
+Wednesday,42,Female,Primary,Automobile,28,50,Fog,Night,Snow,Overspeed,Serious Injury
+Saturday,38,Female,Secondary,Lorry,28,80,Fog,Twilight,Dry,Mechanical Failure,Serious Injury
+Tuesday,29,Male,Illiterate,Taxi,0,40,Clear,Daylight,Snow,Weather,Serious Injury
+Thursday,58,Female,Primary,Bus,1,100,Rain,Daylight,Dry,Fatigue,Serious Injury
+Tuesday,50,Female,Secondary,Taxi,29,70,Clear,Daylight,Snow,Fatigue,Serious Injury
+Friday,67,Male,Illiterate,Taxi,14,60,Clear,Night,Snow,Distracted,Slight Injury
+Monday,21,Female,Illiterate,Bus,19,30,Rain,Night,Snow,Distracted,Serious Injury
+Sunday,59,Female,Tertiary,Taxi,27,80,Clear,Twilight,Dry,Weather,Slight Injury
+Monday,24,Male,Illiterate,Lorry,17,40,Clear,Daylight,Snow,Fatigue,Slight Injury
+Thursday,39,Female,Secondary,Motorcycle,10,30,Clear,Daylight,Ice,Mechanical Failure,Slight Injury
+Monday,50,Male,Primary,Taxi,24,100,Rain,Night,Snow,Drunk Driving,Fatal Injury
+Monday,34,Male,Tertiary,Lorry,9,100,Fog,Twilight,Wet,Weather,Serious Injury
+Thursday,41,Male,Illiterate,Motorcycle,23,60,Cloudy,Twilight,Wet,Weather,Slight Injury
+Saturday,51,Male,Illiterate,Motorcycle,23,50,Cloudy,Daylight,Ice,Distracted,Slight Injury
+Saturday,45,Female,Illiterate,Taxi,3,50,Rain,Night,Snow,Mechanical Failure,Slight Injury
+Thursday,60,Male,Secondary,Lorry,4,70,Cloudy,Daylight,Wet,Weather,Serious Injury
+Sunday,58,Male,Tertiary,Taxi,3,40,Rain,Night,Snow,Mechanical Failure,Slight Injury
+Friday,56,Female,Secondary,Bus,12,40,Rain,Twilight,Wet,Weather,Slight Injury
+Monday,39,Male,Tertiary,Motorcycle,24,100,Cloudy,Daylight,Dry,Distracted,Slight Injury
+Sunday,66,Male,Primary,Taxi,12,70,Clear,Daylight,Dry,Drunk Driving,Serious Injury
+Monday,34,Male,Secondary,Motorcycle,17,30,Fog,Daylight,Ice,Distracted,Slight Injury
+Friday,51,Male,Secondary,Lorry,28,50,Cloudy,Twilight,Ice,Weather,Slight Injury
+Saturday,23,Female,Primary,Automobile,26,50,Cloudy,Daylight,Snow,Mechanical Failure,Slight Injury
+Sunday,63,Male,Tertiary,Taxi,23,100,Cloudy,Twilight,Ice,Overspeed,Serious Injury
+Wednesday,23,Female,Illiterate,Taxi,1,40,Cloudy,Night,Snow,Distracted,Serious Injury
+Wednesday,51,Female,Primary,Motorcycle,15,100,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Wednesday,18,Male,Illiterate,Lorry,0,40,Rain,Night,Dry,Distracted,Serious Injury
+Saturday,27,Male,Illiterate,Bus,25,70,Fog,Twilight,Wet,Weather,Serious Injury
+Saturday,38,Male,Primary,Lorry,18,60,Fog,Twilight,Snow,Mechanical Failure,Slight Injury
+Friday,22,Male,Tertiary,Taxi,8,30,Cloudy,Daylight,Dry,Drunk Driving,Serious Injury
+Monday,19,Female,Illiterate,Bus,27,80,Cloudy,Twilight,Dry,Mechanical Failure,Serious Injury
+Friday,39,Female,Primary,Lorry,2,60,Cloudy,Daylight,Snow,Fatigue,Serious Injury
+Friday,65,Female,Secondary,Automobile,24,60,Fog,Night,Wet,Overspeed,Serious Injury
+Saturday,19,Male,Secondary,Motorcycle,6,40,Cloudy,Night,Wet,Weather,Slight Injury
+Wednesday,27,Female,Secondary,Lorry,28,40,Clear,Daylight,Wet,Mechanical Failure,Slight Injury
+Tuesday,51,Male,Primary,Lorry,9,40,Fog,Night,Wet,Weather,Slight Injury
+Monday,33,Male,Secondary,Automobile,0,60,Clear,Twilight,Dry,Distracted,Slight Injury
+Saturday,65,Male,Illiterate,Taxi,9,100,Cloudy,Daylight,Snow,Distracted,Serious Injury
+Wednesday,68,Male,Secondary,Motorcycle,20,30,Rain,Daylight,Snow,Mechanical Failure,Slight Injury
+Sunday,56,Male,Secondary,Lorry,8,100,Clear,Daylight,Dry,Fatigue,Slight Injury
+Tuesday,39,Female,Illiterate,Bus,27,40,Fog,Night,Dry,Mechanical Failure,Slight Injury
+Tuesday,29,Female,Secondary,Lorry,14,50,Clear,Night,Dry,Drunk Driving,Slight Injury
+Saturday,41,Male,Illiterate,Motorcycle,14,100,Fog,Twilight,Ice,Fatigue,Serious Injury
+Thursday,64,Female,Secondary,Lorry,2,30,Cloudy,Twilight,Snow,Weather,Serious Injury
+Monday,57,Male,Illiterate,Automobile,24,50,Clear,Daylight,Snow,Mechanical Failure,Slight Injury
+Tuesday,55,Male,Secondary,Lorry,4,30,Rain,Twilight,Snow,Weather,Slight Injury
+Saturday,27,Male,Illiterate,Lorry,8,40,Clear,Night,Wet,Overspeed,Serious Injury
+Saturday,52,Female,Primary,Bus,25,100,Rain,Twilight,Dry,Fatigue,Serious Injury
+Wednesday,68,Male,Illiterate,Automobile,21,80,Fog,Night,Dry,Mechanical Failure,Serious Injury
+Sunday,66,Male,Secondary,Automobile,8,70,Cloudy,Twilight,Dry,Overspeed,Serious Injury
+Thursday,49,Female,Secondary,Lorry,22,40,Cloudy,Night,Ice,Mechanical Failure,Slight Injury
+Monday,24,Female,Tertiary,Bus,6,60,Rain,Night,Snow,Drunk Driving,Serious Injury
+Friday,38,Female,Illiterate,Lorry,23,80,Fog,Twilight,Dry,Distracted,Serious Injury
+Sunday,37,Male,Primary,Lorry,22,60,Cloudy,Twilight,Ice,Weather,Slight Injury
+Sunday,43,Male,Illiterate,Motorcycle,11,30,Fog,Night,Dry,Mechanical Failure,Slight Injury
+Wednesday,21,Female,Illiterate,Motorcycle,24,60,Rain,Daylight,Wet,Fatigue,Serious Injury
+Tuesday,63,Male,Primary,Bus,26,80,Rain,Twilight,Snow,Mechanical Failure,Serious Injury
+Tuesday,69,Female,Illiterate,Taxi,8,80,Clear,Night,Ice,Mechanical Failure,Serious Injury
+Wednesday,39,Female,Primary,Motorcycle,5,40,Cloudy,Twilight,Dry,Mechanical Failure,Slight Injury
+Saturday,32,Male,Primary,Taxi,22,50,Cloudy,Twilight,Snow,Mechanical Failure,Slight Injury
+Tuesday,57,Male,Illiterate,Automobile,1,40,Clear,Twilight,Ice,Fatigue,Serious Injury
+Thursday,38,Female,Illiterate,Motorcycle,8,30,Rain,Twilight,Snow,Fatigue,Slight Injury
+Monday,32,Female,Secondary,Motorcycle,27,60,Rain,Twilight,Snow,Mechanical Failure,Slight Injury
+Sunday,39,Female,Secondary,Bus,28,50,Rain,Daylight,Wet,Distracted,Slight Injury
+Sunday,69,Female,Tertiary,Taxi,16,100,Rain,Daylight,Snow,Mechanical Failure,Serious Injury
+Thursday,45,Male,Tertiary,Motorcycle,0,70,Fog,Daylight,Ice,Weather,Fatal Injury
+Tuesday,31,Female,Illiterate,Motorcycle,18,80,Cloudy,Night,Snow,Weather,Serious Injury
+Sunday,44,Female,Primary,Bus,27,50,Cloudy,Daylight,Ice,Fatigue,Slight Injury
+Friday,58,Female,Tertiary,Bus,5,100,Rain,Daylight,Snow,Weather,Serious Injury
+Monday,57,Male,Illiterate,Taxi,4,50,Rain,Night,Dry,Weather,Slight Injury
+Monday,45,Male,Tertiary,Automobile,1,40,Rain,Daylight,Wet,Drunk Driving,Fatal Injury
+Sunday,43,Female,Primary,Automobile,8,100,Cloudy,Twilight,Dry,Mechanical Failure,Slight Injury
+Wednesday,66,Male,Illiterate,Lorry,29,70,Cloudy,Daylight,Wet,Mechanical Failure,Serious Injury
+Sunday,19,Male,Primary,Motorcycle,28,80,Rain,Daylight,Ice,Mechanical Failure,Serious Injury
+Wednesday,42,Male,Illiterate,Taxi,25,30,Fog,Daylight,Wet,Mechanical Failure,Slight Injury
+Sunday,20,Female,Tertiary,Motorcycle,13,30,Clear,Twilight,Snow,Overspeed,Serious Injury
+Friday,25,Female,Secondary,Taxi,3,50,Clear,Twilight,Snow,Mechanical Failure,Slight Injury
+Saturday,61,Male,Tertiary,Taxi,3,100,Clear,Twilight,Dry,Fatigue,Slight Injury
+Monday,50,Female,Tertiary,Taxi,20,50,Cloudy,Twilight,Wet,Fatigue,Slight Injury
+Sunday,59,Female,Secondary,Motorcycle,14,60,Cloudy,Night,Ice,Overspeed,Serious Injury
+Friday,69,Male,Secondary,Bus,7,70,Clear,Twilight,Ice,Mechanical Failure,Serious Injury
+Wednesday,52,Male,Illiterate,Motorcycle,25,80,Clear,Twilight,Snow,Distracted,Serious Injury
+Wednesday,23,Female,Illiterate,Taxi,3,50,Fog,Twilight,Ice,Mechanical Failure,Serious Injury
+Monday,56,Male,Primary,Lorry,15,60,Cloudy,Twilight,Snow,Fatigue,Slight Injury
+Thursday,69,Female,Primary,Automobile,20,100,Cloudy,Night,Snow,Drunk Driving,Serious Injury
+Sunday,40,Female,Tertiary,Taxi,27,70,Clear,Daylight,Snow,Weather,Serious Injury
+Tuesday,42,Male,Secondary,Lorry,3,80,Fog,Daylight,Dry,Drunk Driving,Serious Injury
+Wednesday,67,Female,Primary,Bus,29,30,Fog,Twilight,Dry,Distracted,Slight Injury
+Saturday,60,Female,Tertiary,Taxi,15,60,Clear,Twilight,Snow,Mechanical Failure,Slight Injury
+Saturday,36,Male,Secondary,Lorry,21,100,Clear,Twilight,Snow,Overspeed,Serious Injury
+Wednesday,22,Male,Illiterate,Taxi,11,70,Cloudy,Daylight,Snow,Mechanical Failure,Serious Injury
+Thursday,68,Male,Tertiary,Motorcycle,15,60,Clear,Daylight,Ice,Distracted,Slight Injury
+Thursday,28,Female,Illiterate,Lorry,18,50,Rain,Twilight,Snow,Distracted,Slight Injury
+Friday,29,Male,Primary,Motorcycle,7,40,Fog,Daylight,Snow,Weather,Slight Injury
+Saturday,27,Male,Primary,Motorcycle,5,30,Clear,Night,Wet,Distracted,Slight Injury
+Friday,25,Male,Secondary,Lorry,9,50,Rain,Twilight,Wet,Drunk Driving,Serious Injury
+Saturday,41,Male,Tertiary,Automobile,4,50,Fog,Twilight,Wet,Weather,Slight Injury
+Sunday,45,Female,Illiterate,Lorry,28,100,Rain,Night,Wet,Mechanical Failure,Serious Injury
+Sunday,58,Female,Secondary,Automobile,17,100,Rain,Night,Snow,Mechanical Failure,Serious Injury
+Tuesday,53,Male,Primary,Taxi,9,70,Clear,Daylight,Wet,Overspeed,Serious Injury
+Sunday,54,Female,Primary,Taxi,9,100,Fog,Night,Ice,Distracted,Serious Injury
+Tuesday,38,Male,Tertiary,Lorry,6,60,Rain,Twilight,Ice,Distracted,Slight Injury
+Sunday,25,Male,Illiterate,Taxi,17,30,Cloudy,Daylight,Wet,Fatigue,Slight Injury
+Monday,26,Female,Tertiary,Bus,0,50,Fog,Night,Dry,Weather,Serious Injury
+Sunday,64,Female,Illiterate,Motorcycle,6,70,Cloudy,Daylight,Ice,Fatigue,Serious Injury
+Friday,32,Male,Illiterate,Motorcycle,20,30,Clear,Daylight,Ice,Weather,Slight Injury
+Wednesday,65,Male,Tertiary,Automobile,0,100,Cloudy,Daylight,Wet,Drunk Driving,Fatal Injury
+Friday,63,Female,Secondary,Taxi,14,100,Fog,Daylight,Wet,Weather,Serious Injury
+Wednesday,57,Male,Tertiary,Automobile,3,60,Rain,Night,Snow,Mechanical Failure,Slight Injury
+Thursday,35,Female,Tertiary,Motorcycle,27,100,Rain,Twilight,Ice,Overspeed,Fatal Injury
+Friday,59,Male,Primary,Motorcycle,28,50,Fog,Twilight,Wet,Weather,Slight Injury
+Thursday,37,Male,Primary,Taxi,19,80,Rain,Night,Wet,Weather,Serious Injury
+Tuesday,23,Female,Tertiary,Bus,9,50,Cloudy,Twilight,Snow,Weather,Slight Injury
+Tuesday,29,Female,Tertiary,Bus,22,50,Rain,Daylight,Ice,Overspeed,Serious Injury
+Monday,19,Female,Primary,Taxi,8,100,Rain,Daylight,Wet,Distracted,Serious Injury
+Sunday,24,Female,Illiterate,Taxi,1,30,Cloudy,Daylight,Snow,Overspeed,Fatal Injury
+Friday,33,Female,Tertiary,Automobile,27,100,Cloudy,Night,Wet,Distracted,Serious Injury
+Thursday,20,Female,Secondary,Taxi,13,30,Cloudy,Daylight,Dry,Mechanical Failure,Slight Injury
+Wednesday,62,Female,Secondary,Bus,15,30,Clear,Daylight,Dry,Overspeed,Slight Injury
+Tuesday,20,Male,Secondary,Taxi,0,30,Cloudy,Night,Wet,Distracted,Serious Injury
+Sunday,44,Male,Tertiary,Automobile,1,70,Cloudy,Daylight,Ice,Mechanical Failure,Serious Injury
+Tuesday,67,Male,Illiterate,Automobile,6,40,Clear,Daylight,Dry,Mechanical Failure,Slight Injury
+Wednesday,60,Female,Illiterate,Automobile,28,100,Rain,Twilight,Snow,Distracted,Serious Injury
+Sunday,57,Female,Primary,Automobile,9,70,Cloudy,Night,Wet,Distracted,Serious Injury
+Sunday,55,Female,Tertiary,Lorry,21,50,Fog,Daylight,Snow,Drunk Driving,Serious Injury
+Thursday,50,Male,Illiterate,Taxi,19,70,Cloudy,Daylight,Dry,Mechanical Failure,Slight Injury
+Thursday,45,Female,Tertiary,Motorcycle,0,60,Cloudy,Daylight,Ice,Distracted,Serious Injury
+Friday,18,Female,Primary,Taxi,12,80,Clear,Daylight,Snow,Mechanical Failure,Serious Injury
+Friday,25,Male,Primary,Lorry,0,30,Fog,Twilight,Dry,Overspeed,Serious Injury
+Saturday,54,Female,Primary,Automobile,4,100,Rain,Twilight,Dry,Fatigue,Serious Injury
+Saturday,49,Male,Secondary,Lorry,15,60,Rain,Twilight,Dry,Fatigue,Slight Injury
+Monday,65,Male,Tertiary,Bus,14,100,Fog,Twilight,Snow,Weather,Serious Injury
+Tuesday,60,Female,Primary,Bus,16,80,Cloudy,Night,Dry,Distracted,Slight Injury
+Friday,54,Female,Tertiary,Taxi,27,60,Clear,Daylight,Wet,Distracted,Slight Injury
+Thursday,21,Female,Secondary,Taxi,22,100,Fog,Twilight,Dry,Mechanical Failure,Serious Injury
+Wednesday,47,Male,Secondary,Motorcycle,15,50,Fog,Daylight,Wet,Weather,Slight Injury
+Thursday,23,Male,Primary,Motorcycle,12,30,Rain,Night,Ice,Distracted,Serious Injury
+Tuesday,63,Male,Primary,Bus,10,60,Clear,Daylight,Wet,Mechanical Failure,Slight Injury
+Saturday,36,Female,Illiterate,Automobile,16,50,Fog,Daylight,Ice,Distracted,Slight Injury
+Thursday,49,Female,Tertiary,Lorry,16,30,Clear,Twilight,Ice,Mechanical Failure,Slight Injury
+Monday,26,Female,Primary,Motorcycle,1,40,Cloudy,Twilight,Wet,Distracted,Serious Injury
+Tuesday,29,Female,Illiterate,Motorcycle,12,50,Rain,Night,Ice,Drunk Driving,Serious Injury
+Saturday,28,Male,Tertiary,Automobile,13,70,Cloudy,Daylight,Wet,Mechanical Failure,Serious Injury
+Wednesday,63,Male,Primary,Automobile,10,100,Clear,Twilight,Snow,Drunk Driving,Serious Injury
+Saturday,33,Male,Illiterate,Taxi,27,30,Cloudy,Twilight,Ice,Drunk Driving,Serious Injury
+Sunday,18,Male,Illiterate,Lorry,9,60,Rain,Twilight,Wet,Drunk Driving,Serious Injury
+Monday,62,Female,Tertiary,Automobile,2,80,Clear,Night,Ice,Drunk Driving,Fatal Injury
+Tuesday,38,Female,Illiterate,Motorcycle,28,60,Fog,Daylight,Dry,Overspeed,Serious Injury
+Wednesday,47,Female,Tertiary,Motorcycle,26,70,Cloudy,Twilight,Wet,Weather,Serious Injury
+Monday,30,Male,Tertiary,Bus,16,100,Rain,Daylight,Dry,Fatigue,Serious Injury
+Saturday,51,Male,Tertiary,Automobile,14,70,Fog,Night,Ice,Overspeed,Fatal Injury
+Monday,21,Female,Secondary,Taxi,8,60,Rain,Daylight,Ice,Distracted,Serious Injury
+Tuesday,45,Female,Illiterate,Lorry,9,100,Clear,Twilight,Snow,Distracted,Serious Injury
+Friday,55,Male,Tertiary,Taxi,7,80,Clear,Daylight,Wet,Weather,Serious Injury
+Monday,48,Female,Primary,Motorcycle,20,30,Cloudy,Daylight,Dry,Fatigue,Slight Injury
+Sunday,44,Male,Secondary,Taxi,12,100,Rain,Night,Snow,Fatigue,Serious Injury
+Monday,22,Male,Secondary,Motorcycle,26,50,Rain,Night,Ice,Fatigue,Serious Injury
+Saturday,42,Male,Illiterate,Motorcycle,17,100,Rain,Daylight,Ice,Drunk Driving,Fatal Injury
+Saturday,20,Female,Tertiary,Motorcycle,4,70,Clear,Daylight,Snow,Overspeed,Fatal Injury
+Wednesday,50,Female,Illiterate,Motorcycle,5,70,Cloudy,Daylight,Dry,Distracted,Slight Injury
+Saturday,21,Male,Secondary,Motorcycle,29,70,Rain,Night,Ice,Overspeed,Fatal Injury
+Thursday,42,Female,Tertiary,Bus,16,80,Rain,Night,Ice,Overspeed,Fatal Injury
+Tuesday,37,Male,Primary,Taxi,10,100,Fog,Daylight,Wet,Overspeed,Fatal Injury
+Tuesday,51,Male,Tertiary,Bus,19,100,Rain,Night,Snow,Fatigue,Serious Injury
+Friday,43,Male,Secondary,Bus,15,40,Cloudy,Twilight,Ice,Weather,Slight Injury
+Friday,22,Male,Primary,Automobile,8,80,Fog,Night,Dry,Weather,Serious Injury
+Tuesday,52,Female,Tertiary,Automobile,1,30,Fog,Night,Wet,Fatigue,Serious Injury
+Sunday,45,Male,Primary,Automobile,4,30,Fog,Night,Snow,Distracted,Slight Injury
+Friday,46,Male,Primary,Lorry,0,30,Clear,Twilight,Dry,Distracted,Slight Injury
+Wednesday,26,Female,Secondary,Automobile,3,30,Fog,Twilight,Ice,Distracted,Slight Injury
+Saturday,69,Male,Primary,Taxi,3,30,Rain,Twilight,Snow,Weather,Slight Injury
+Tuesday,55,Male,Illiterate,Bus,21,60,Clear,Daylight,Snow,Weather,Slight Injury
+Friday,67,Female,Secondary,Taxi,25,70,Clear,Daylight,Dry,Overspeed,Serious Injury
+Tuesday,23,Female,Illiterate,Automobile,24,80,Clear,Twilight,Snow,Fatigue,Serious Injury
+Thursday,36,Female,Primary,Lorry,2,60,Clear,Daylight,Dry,Drunk Driving,Serious Injury
+Monday,61,Male,Illiterate,Lorry,8,80,Clear,Daylight,Ice,Overspeed,Serious Injury
+Saturday,28,Female,Tertiary,Bus,21,40,Clear,Daylight,Wet,Mechanical Failure,Slight Injury
+Tuesday,19,Female,Primary,Taxi,22,100,Clear,Twilight,Dry,Weather,Serious Injury
+Monday,64,Male,Tertiary,Motorcycle,11,50,Fog,Night,Wet,Overspeed,Serious Injury
+Friday,61,Male,Illiterate,Taxi,9,70,Cloudy,Twilight,Snow,Fatigue,Serious Injury
+Monday,61,Male,Tertiary,Automobile,1,40,Rain,Twilight,Dry,Mechanical Failure,Serious Injury
+Saturday,26,Male,Primary,Motorcycle,10,60,Rain,Daylight,Ice,Overspeed,Serious Injury
+Tuesday,38,Male,Tertiary,Lorry,9,50,Fog,Daylight,Dry,Fatigue,Slight Injury
+Thursday,41,Female,Illiterate,Bus,29,100,Fog,Night,Dry,Fatigue,Serious Injury
+Sunday,51,Female,Illiterate,Bus,21,40,Clear,Night,Dry,Weather,Slight Injury
+Friday,39,Female,Illiterate,Lorry,5,100,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Tuesday,20,Male,Primary,Automobile,17,100,Clear,Night,Wet,Overspeed,Fatal Injury
+Saturday,29,Male,Illiterate,Lorry,1,80,Fog,Twilight,Snow,Fatigue,Fatal Injury
+Friday,45,Male,Primary,Automobile,29,50,Clear,Night,Snow,Distracted,Slight Injury
+Wednesday,47,Female,Tertiary,Motorcycle,1,80,Rain,Twilight,Snow,Fatigue,Fatal Injury
+Monday,43,Female,Illiterate,Lorry,9,100,Rain,Daylight,Snow,Drunk Driving,Fatal Injury
+Sunday,65,Male,Tertiary,Automobile,15,40,Clear,Night,Dry,Fatigue,Slight Injury
+Saturday,38,Female,Secondary,Motorcycle,11,100,Cloudy,Daylight,Wet,Weather,Serious Injury
+Wednesday,45,Male,Tertiary,Lorry,0,60,Clear,Daylight,Wet,Overspeed,Serious Injury
+Tuesday,43,Female,Secondary,Bus,20,100,Clear,Twilight,Wet,Weather,Serious Injury
+Thursday,50,Female,Tertiary,Lorry,7,80,Cloudy,Night,Wet,Overspeed,Serious Injury
+Friday,38,Female,Primary,Taxi,15,50,Cloudy,Twilight,Snow,Mechanical Failure,Slight Injury
+Monday,52,Male,Tertiary,Lorry,17,40,Cloudy,Daylight,Dry,Overspeed,Slight Injury
+Friday,69,Female,Primary,Taxi,12,80,Rain,Night,Wet,Mechanical Failure,Serious Injury
+Sunday,51,Female,Primary,Motorcycle,14,100,Clear,Daylight,Ice,Weather,Serious Injury
+Tuesday,58,Male,Illiterate,Lorry,20,60,Fog,Daylight,Dry,Distracted,Slight Injury
+Friday,68,Female,Primary,Motorcycle,11,70,Cloudy,Night,Ice,Drunk Driving,Serious Injury
+Monday,64,Male,Secondary,Motorcycle,7,60,Cloudy,Night,Dry,Distracted,Slight Injury
+Tuesday,35,Male,Illiterate,Automobile,9,100,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Friday,28,Male,Illiterate,Motorcycle,13,60,Fog,Twilight,Dry,Fatigue,Slight Injury
+Thursday,40,Male,Tertiary,Motorcycle,4,70,Clear,Twilight,Ice,Fatigue,Serious Injury
+Saturday,65,Male,Primary,Lorry,17,60,Clear,Daylight,Wet,Distracted,Slight Injury
+Tuesday,39,Female,Primary,Lorry,18,70,Cloudy,Night,Wet,Fatigue,Serious Injury
+Saturday,34,Male,Secondary,Bus,14,100,Cloudy,Daylight,Ice,Mechanical Failure,Serious Injury
+Tuesday,22,Male,Tertiary,Automobile,5,70,Rain,Daylight,Wet,Weather,Serious Injury
+Thursday,61,Male,Tertiary,Motorcycle,26,80,Fog,Daylight,Snow,Drunk Driving,Fatal Injury
+Saturday,28,Male,Illiterate,Automobile,10,80,Fog,Daylight,Wet,Overspeed,Fatal Injury
+Wednesday,47,Female,Illiterate,Taxi,20,70,Cloudy,Daylight,Snow,Mechanical Failure,Serious Injury
+Monday,32,Male,Illiterate,Motorcycle,10,40,Cloudy,Night,Snow,Mechanical Failure,Slight Injury
+Wednesday,44,Female,Secondary,Automobile,19,50,Cloudy,Twilight,Snow,Overspeed,Serious Injury
+Friday,52,Male,Secondary,Bus,19,40,Fog,Night,Ice,Overspeed,Serious Injury
+Thursday,50,Female,Illiterate,Bus,20,70,Rain,Night,Wet,Drunk Driving,Fatal Injury
+Wednesday,37,Male,Tertiary,Motorcycle,17,50,Fog,Night,Wet,Drunk Driving,Serious Injury
+Tuesday,33,Male,Secondary,Taxi,24,80,Cloudy,Twilight,Ice,Drunk Driving,Serious Injury
+Friday,51,Female,Tertiary,Bus,17,50,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Friday,19,Male,Tertiary,Bus,9,70,Rain,Twilight,Wet,Mechanical Failure,Serious Injury
+Wednesday,52,Female,Primary,Taxi,1,80,Clear,Night,Ice,Weather,Serious Injury
+Wednesday,57,Male,Illiterate,Automobile,25,50,Clear,Twilight,Ice,Overspeed,Serious Injury
+Thursday,45,Female,Primary,Bus,29,50,Fog,Daylight,Snow,Mechanical Failure,Slight Injury
+Monday,64,Male,Illiterate,Lorry,8,40,Clear,Twilight,Ice,Mechanical Failure,Slight Injury
+Wednesday,56,Male,Illiterate,Bus,13,50,Clear,Night,Snow,Drunk Driving,Serious Injury
+Sunday,23,Female,Tertiary,Automobile,18,100,Fog,Night,Dry,Drunk Driving,Fatal Injury
+Wednesday,26,Male,Illiterate,Automobile,9,70,Cloudy,Daylight,Snow,Mechanical Failure,Serious Injury
+Saturday,37,Male,Tertiary,Motorcycle,22,30,Clear,Twilight,Snow,Drunk Driving,Serious Injury
+Tuesday,18,Male,Tertiary,Lorry,3,30,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Sunday,25,Male,Illiterate,Automobile,28,30,Fog,Daylight,Wet,Overspeed,Serious Injury
+Sunday,40,Male,Tertiary,Taxi,28,70,Cloudy,Night,Dry,Mechanical Failure,Slight Injury
+Saturday,20,Male,Tertiary,Lorry,5,30,Cloudy,Night,Dry,Overspeed,Serious Injury
+Saturday,21,Female,Tertiary,Lorry,13,40,Fog,Twilight,Dry,Fatigue,Slight Injury
+Friday,42,Female,Secondary,Taxi,3,70,Cloudy,Twilight,Wet,Drunk Driving,Serious Injury
+Monday,64,Female,Tertiary,Bus,25,100,Clear,Twilight,Dry,Distracted,Slight Injury
+Tuesday,55,Male,Secondary,Taxi,14,80,Clear,Twilight,Dry,Fatigue,Slight Injury
+Thursday,32,Female,Secondary,Taxi,15,100,Clear,Twilight,Wet,Distracted,Serious Injury
+Sunday,38,Male,Tertiary,Bus,6,70,Clear,Night,Dry,Overspeed,Serious Injury
+Thursday,52,Male,Tertiary,Bus,16,70,Cloudy,Night,Ice,Mechanical Failure,Serious Injury
+Wednesday,63,Male,Secondary,Bus,18,50,Clear,Night,Ice,Drunk Driving,Serious Injury
+Wednesday,69,Male,Secondary,Bus,28,50,Cloudy,Night,Snow,Fatigue,Slight Injury
+Thursday,31,Female,Tertiary,Bus,18,50,Rain,Daylight,Snow,Drunk Driving,Serious Injury
+Wednesday,53,Male,Tertiary,Taxi,16,60,Cloudy,Night,Snow,Distracted,Slight Injury
+Monday,29,Female,Illiterate,Motorcycle,5,40,Clear,Daylight,Ice,Distracted,Slight Injury
+Saturday,34,Male,Secondary,Motorcycle,28,70,Rain,Night,Ice,Weather,Serious Injury
+Wednesday,56,Female,Secondary,Automobile,10,100,Fog,Twilight,Ice,Mechanical Failure,Serious Injury
+Friday,26,Female,Illiterate,Motorcycle,15,70,Cloudy,Twilight,Snow,Distracted,Serious Injury
+Wednesday,52,Female,Secondary,Motorcycle,29,50,Clear,Twilight,Snow,Mechanical Failure,Slight Injury
+Tuesday,30,Female,Primary,Taxi,24,70,Clear,Daylight,Snow,Weather,Serious Injury
+Monday,32,Female,Secondary,Bus,7,80,Clear,Night,Snow,Fatigue,Serious Injury
+Tuesday,35,Female,Illiterate,Bus,10,70,Fog,Night,Snow,Weather,Serious Injury
+Tuesday,68,Male,Primary,Taxi,6,100,Rain,Daylight,Snow,Mechanical Failure,Serious Injury
+Friday,50,Female,Tertiary,Motorcycle,25,30,Rain,Daylight,Ice,Distracted,Slight Injury
+Monday,23,Male,Illiterate,Taxi,23,80,Clear,Daylight,Wet,Overspeed,Fatal Injury
+Monday,44,Female,Illiterate,Automobile,21,80,Cloudy,Daylight,Wet,Mechanical Failure,Serious Injury
+Monday,40,Male,Tertiary,Bus,24,70,Clear,Daylight,Snow,Drunk Driving,Serious Injury
+Monday,44,Female,Illiterate,Lorry,18,60,Clear,Twilight,Wet,Overspeed,Serious Injury
+Monday,51,Female,Secondary,Automobile,25,50,Cloudy,Night,Wet,Mechanical Failure,Slight Injury
+Friday,63,Male,Tertiary,Automobile,9,40,Clear,Daylight,Ice,Drunk Driving,Serious Injury
+Wednesday,55,Female,Illiterate,Taxi,8,40,Fog,Twilight,Snow,Weather,Slight Injury
+Tuesday,31,Female,Tertiary,Motorcycle,3,30,Clear,Daylight,Snow,Overspeed,Serious Injury
+Monday,53,Female,Tertiary,Bus,22,40,Fog,Twilight,Wet,Mechanical Failure,Slight Injury
+Sunday,25,Male,Tertiary,Lorry,14,40,Clear,Daylight,Snow,Fatigue,Slight Injury
+Wednesday,52,Female,Primary,Automobile,12,50,Rain,Night,Snow,Weather,Slight Injury
+Wednesday,36,Male,Illiterate,Lorry,24,50,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Tuesday,47,Female,Primary,Motorcycle,1,60,Rain,Daylight,Snow,Fatigue,Serious Injury
+Friday,31,Female,Illiterate,Motorcycle,1,100,Clear,Night,Wet,Distracted,Serious Injury
+Thursday,37,Male,Secondary,Lorry,15,30,Clear,Night,Dry,Weather,Slight Injury
+Thursday,66,Female,Secondary,Bus,8,40,Fog,Daylight,Wet,Weather,Slight Injury
+Wednesday,42,Female,Secondary,Motorcycle,27,60,Clear,Night,Ice,Mechanical Failure,Slight Injury
+Saturday,57,Male,Illiterate,Lorry,12,30,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Saturday,41,Female,Tertiary,Automobile,2,80,Clear,Twilight,Dry,Drunk Driving,Fatal Injury
+Tuesday,31,Male,Tertiary,Lorry,8,40,Rain,Night,Dry,Weather,Slight Injury
+Thursday,43,Male,Primary,Lorry,12,40,Fog,Night,Wet,Mechanical Failure,Slight Injury
+Wednesday,55,Male,Primary,Taxi,20,50,Rain,Daylight,Ice,Distracted,Slight Injury
+Friday,40,Female,Secondary,Motorcycle,21,70,Fog,Daylight,Wet,Mechanical Failure,Serious Injury
+Thursday,39,Male,Primary,Bus,1,30,Rain,Twilight,Ice,Weather,Serious Injury
+Wednesday,65,Male,Illiterate,Bus,7,40,Clear,Daylight,Wet,Overspeed,Serious Injury
+Wednesday,36,Female,Illiterate,Taxi,26,30,Rain,Night,Wet,Fatigue,Slight Injury
+Monday,63,Male,Primary,Bus,8,100,Rain,Night,Wet,Weather,Serious Injury
+Friday,68,Female,Primary,Lorry,15,60,Fog,Night,Dry,Distracted,Slight Injury
+Monday,20,Female,Primary,Taxi,1,60,Fog,Daylight,Wet,Weather,Serious Injury
+Tuesday,59,Female,Primary,Automobile,5,70,Rain,Night,Ice,Distracted,Serious Injury
+Monday,36,Female,Secondary,Motorcycle,21,40,Fog,Night,Ice,Weather,Slight Injury
+Sunday,26,Male,Secondary,Motorcycle,7,100,Fog,Twilight,Ice,Fatigue,Serious Injury
+Monday,45,Male,Primary,Motorcycle,25,50,Fog,Twilight,Dry,Fatigue,Slight Injury
+Sunday,37,Male,Illiterate,Lorry,27,40,Cloudy,Twilight,Wet,Distracted,Slight Injury
+Thursday,62,Male,Secondary,Automobile,4,30,Fog,Daylight,Wet,Weather,Slight Injury
+Saturday,24,Male,Illiterate,Taxi,8,80,Cloudy,Night,Snow,Fatigue,Serious Injury
+Wednesday,31,Female,Tertiary,Taxi,0,60,Cloudy,Night,Dry,Drunk Driving,Serious Injury
+Sunday,26,Male,Illiterate,Motorcycle,8,30,Fog,Night,Ice,Weather,Slight Injury
+Friday,36,Male,Primary,Automobile,9,70,Rain,Twilight,Ice,Fatigue,Serious Injury
+Monday,64,Male,Tertiary,Automobile,22,60,Fog,Night,Wet,Overspeed,Serious Injury
+Sunday,69,Female,Secondary,Automobile,3,50,Clear,Night,Ice,Overspeed,Serious Injury
+Friday,31,Female,Secondary,Bus,2,60,Rain,Night,Wet,Drunk Driving,Fatal Injury
+Saturday,55,Male,Tertiary,Bus,29,80,Cloudy,Night,Wet,Fatigue,Serious Injury
+Saturday,53,Female,Illiterate,Motorcycle,9,100,Cloudy,Night,Snow,Overspeed,Serious Injury
+Monday,57,Male,Secondary,Automobile,14,40,Rain,Daylight,Dry,Weather,Slight Injury
+Tuesday,34,Male,Primary,Automobile,10,80,Rain,Night,Wet,Mechanical Failure,Serious Injury
+Monday,47,Female,Tertiary,Taxi,13,100,Fog,Daylight,Wet,Fatigue,Serious Injury
+Thursday,26,Female,Primary,Taxi,5,80,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Sunday,50,Male,Tertiary,Motorcycle,11,40,Clear,Daylight,Snow,Fatigue,Slight Injury
+Wednesday,69,Male,Secondary,Automobile,12,60,Fog,Night,Wet,Distracted,Slight Injury
+Tuesday,42,Female,Illiterate,Motorcycle,16,70,Rain,Night,Dry,Distracted,Serious Injury
+Monday,31,Male,Tertiary,Taxi,15,40,Cloudy,Night,Dry,Overspeed,Slight Injury
+Friday,28,Female,Tertiary,Taxi,2,40,Rain,Night,Ice,Distracted,Serious Injury
+Tuesday,52,Male,Primary,Bus,1,100,Rain,Twilight,Dry,Drunk Driving,Fatal Injury
+Sunday,58,Female,Secondary,Motorcycle,10,50,Rain,Night,Ice,Overspeed,Serious Injury
+Tuesday,31,Male,Primary,Motorcycle,28,60,Fog,Daylight,Dry,Drunk Driving,Serious Injury
+Sunday,47,Male,Secondary,Automobile,8,40,Clear,Twilight,Ice,Weather,Slight Injury
+Monday,58,Female,Primary,Automobile,2,70,Clear,Twilight,Wet,Drunk Driving,Fatal Injury
+Sunday,21,Male,Tertiary,Bus,28,30,Cloudy,Night,Snow,Distracted,Slight Injury
+Tuesday,21,Male,Primary,Lorry,17,60,Rain,Daylight,Snow,Weather,Serious Injury
+Friday,45,Female,Illiterate,Lorry,19,50,Clear,Daylight,Snow,Distracted,Slight Injury
+Saturday,25,Male,Secondary,Lorry,14,80,Rain,Twilight,Wet,Drunk Driving,Fatal Injury
+Tuesday,19,Male,Secondary,Motorcycle,13,40,Cloudy,Daylight,Snow,Distracted,Slight Injury
+Sunday,58,Male,Tertiary,Motorcycle,1,70,Rain,Night,Dry,Distracted,Serious Injury
+Saturday,63,Female,Secondary,Taxi,16,60,Clear,Night,Ice,Distracted,Slight Injury
+Sunday,39,Female,Illiterate,Motorcycle,21,70,Rain,Night,Wet,Fatigue,Serious Injury
+Friday,58,Female,Primary,Motorcycle,25,70,Clear,Night,Snow,Weather,Serious Injury
+Sunday,33,Male,Tertiary,Motorcycle,7,100,Cloudy,Night,Dry,Weather,Slight Injury
+Monday,46,Male,Illiterate,Bus,9,80,Rain,Twilight,Dry,Weather,Serious Injury
+Wednesday,66,Male,Secondary,Motorcycle,25,50,Clear,Night,Wet,Drunk Driving,Serious Injury
+Tuesday,65,Male,Secondary,Automobile,17,60,Cloudy,Night,Wet,Mechanical Failure,Slight Injury
+Wednesday,47,Female,Illiterate,Automobile,29,40,Rain,Twilight,Snow,Drunk Driving,Serious Injury
+Sunday,29,Male,Primary,Taxi,24,50,Cloudy,Twilight,Ice,Weather,Slight Injury
+Friday,52,Male,Primary,Bus,28,40,Clear,Twilight,Snow,Overspeed,Serious Injury
+Tuesday,28,Male,Tertiary,Automobile,18,30,Rain,Daylight,Snow,Distracted,Slight Injury
+Sunday,63,Female,Secondary,Bus,7,70,Rain,Daylight,Wet,Distracted,Serious Injury
+Saturday,67,Male,Illiterate,Bus,27,30,Rain,Night,Snow,Mechanical Failure,Slight Injury
+Thursday,38,Male,Primary,Taxi,7,100,Cloudy,Night,Snow,Overspeed,Serious Injury
+Sunday,38,Male,Tertiary,Bus,2,70,Cloudy,Night,Ice,Fatigue,Serious Injury
+Wednesday,22,Male,Secondary,Motorcycle,2,80,Clear,Daylight,Dry,Drunk Driving,Fatal Injury
+Tuesday,65,Male,Secondary,Bus,11,50,Fog,Night,Dry,Fatigue,Slight Injury
+Wednesday,37,Female,Tertiary,Taxi,21,40,Rain,Night,Ice,Overspeed,Serious Injury
+Tuesday,54,Male,Tertiary,Taxi,16,100,Rain,Daylight,Dry,Mechanical Failure,Serious Injury
+Sunday,20,Male,Primary,Taxi,3,80,Clear,Twilight,Snow,Overspeed,Fatal Injury
+Monday,61,Male,Illiterate,Automobile,16,40,Rain,Daylight,Ice,Mechanical Failure,Slight Injury
+Saturday,50,Male,Secondary,Motorcycle,13,50,Cloudy,Night,Ice,Fatigue,Slight Injury
+Sunday,26,Male,Illiterate,Automobile,18,60,Cloudy,Daylight,Wet,Fatigue,Slight Injury
+Wednesday,26,Male,Secondary,Lorry,8,100,Rain,Twilight,Dry,Overspeed,Serious Injury
+Thursday,21,Male,Secondary,Motorcycle,29,30,Rain,Twilight,Wet,Overspeed,Serious Injury
+Thursday,52,Male,Illiterate,Bus,29,30,Cloudy,Twilight,Snow,Distracted,Slight Injury
+Friday,34,Male,Tertiary,Taxi,20,40,Rain,Twilight,Ice,Mechanical Failure,Slight Injury
+Tuesday,51,Male,Primary,Lorry,11,40,Cloudy,Twilight,Snow,Distracted,Slight Injury
+Wednesday,41,Female,Secondary,Motorcycle,4,40,Fog,Twilight,Dry,Drunk Driving,Serious Injury
+Friday,49,Female,Tertiary,Automobile,10,100,Fog,Night,Wet,Drunk Driving,Fatal Injury
+Wednesday,18,Female,Secondary,Taxi,19,50,Rain,Night,Dry,Overspeed,Serious Injury
+Tuesday,25,Female,Primary,Automobile,2,60,Rain,Daylight,Snow,Fatigue,Serious Injury
+Sunday,62,Male,Secondary,Motorcycle,20,30,Rain,Night,Wet,Drunk Driving,Serious Injury
+Sunday,40,Female,Primary,Motorcycle,14,80,Cloudy,Twilight,Dry,Drunk Driving,Serious Injury
+Thursday,64,Female,Primary,Lorry,13,70,Fog,Night,Snow,Distracted,Serious Injury
+Sunday,57,Male,Secondary,Bus,10,100,Fog,Daylight,Dry,Distracted,Serious Injury
+Sunday,29,Female,Secondary,Automobile,19,100,Clear,Twilight,Ice,Drunk Driving,Serious Injury
+Monday,29,Female,Primary,Lorry,7,50,Clear,Night,Wet,Overspeed,Serious Injury
+Thursday,63,Male,Tertiary,Taxi,3,30,Rain,Night,Wet,Distracted,Slight Injury
+Friday,64,Male,Illiterate,Bus,26,60,Cloudy,Daylight,Wet,Drunk Driving,Serious Injury
+Saturday,32,Male,Primary,Lorry,11,50,Rain,Twilight,Ice,Fatigue,Slight Injury
+Monday,58,Female,Secondary,Automobile,7,80,Fog,Daylight,Wet,Distracted,Serious Injury
+Friday,36,Female,Secondary,Motorcycle,5,30,Rain,Twilight,Ice,Drunk Driving,Serious Injury
+Tuesday,43,Male,Tertiary,Taxi,14,50,Rain,Twilight,Wet,Mechanical Failure,Slight Injury
+Monday,69,Male,Illiterate,Automobile,29,30,Fog,Night,Dry,Distracted,Slight Injury
+Friday,46,Female,Primary,Bus,11,30,Fog,Daylight,Dry,Mechanical Failure,Slight Injury
+Tuesday,39,Male,Primary,Bus,15,100,Fog,Daylight,Dry,Distracted,Serious Injury
+Thursday,57,Female,Illiterate,Motorcycle,15,60,Fog,Daylight,Dry,Distracted,Slight Injury
+Saturday,38,Male,Primary,Motorcycle,26,100,Clear,Twilight,Ice,Weather,Serious Injury
+Tuesday,68,Male,Illiterate,Taxi,20,70,Cloudy,Daylight,Snow,Weather,Serious Injury
+Sunday,55,Female,Secondary,Taxi,19,60,Cloudy,Twilight,Snow,Mechanical Failure,Slight Injury
+Wednesday,37,Male,Illiterate,Motorcycle,19,30,Fog,Daylight,Dry,Overspeed,Serious Injury
+Tuesday,46,Male,Primary,Motorcycle,27,50,Cloudy,Daylight,Snow,Drunk Driving,Serious Injury
+Tuesday,68,Male,Illiterate,Bus,3,80,Cloudy,Night,Snow,Overspeed,Serious Injury
+Saturday,21,Female,Tertiary,Motorcycle,10,60,Cloudy,Daylight,Wet,Overspeed,Serious Injury
+Wednesday,24,Male,Secondary,Lorry,12,70,Cloudy,Night,Ice,Weather,Serious Injury
+Sunday,45,Male,Secondary,Automobile,28,30,Fog,Night,Dry,Drunk Driving,Serious Injury
+Friday,45,Male,Illiterate,Motorcycle,8,80,Rain,Twilight,Snow,Weather,Serious Injury
+Friday,21,Male,Primary,Taxi,3,60,Rain,Daylight,Snow,Weather,Serious Injury
+Tuesday,39,Male,Tertiary,Lorry,11,100,Rain,Daylight,Dry,Weather,Serious Injury
+Wednesday,29,Male,Secondary,Taxi,8,100,Clear,Daylight,Wet,Fatigue,Serious Injury
+Wednesday,62,Female,Secondary,Lorry,12,60,Cloudy,Night,Dry,Overspeed,Slight Injury
+Sunday,20,Female,Primary,Motorcycle,15,60,Fog,Daylight,Wet,Overspeed,Serious Injury
+Saturday,39,Male,Primary,Automobile,25,60,Fog,Twilight,Snow,Overspeed,Serious Injury
+Thursday,61,Female,Tertiary,Taxi,5,80,Clear,Twilight,Ice,Fatigue,Serious Injury
+Friday,19,Female,Illiterate,Lorry,9,100,Fog,Daylight,Wet,Distracted,Serious Injury
+Saturday,41,Male,Primary,Bus,12,50,Rain,Night,Wet,Mechanical Failure,Slight Injury
+Monday,51,Female,Illiterate,Motorcycle,6,70,Clear,Twilight,Dry,Mechanical Failure,Slight Injury
+Friday,44,Female,Tertiary,Automobile,27,70,Fog,Twilight,Snow,Fatigue,Serious Injury
+Saturday,58,Female,Illiterate,Motorcycle,25,30,Clear,Night,Ice,Overspeed,Serious Injury
+Friday,18,Female,Secondary,Bus,18,40,Clear,Twilight,Dry,Mechanical Failure,Slight Injury
+Thursday,25,Female,Illiterate,Automobile,23,50,Fog,Night,Dry,Fatigue,Slight Injury
+Monday,40,Female,Tertiary,Bus,18,100,Rain,Twilight,Ice,Weather,Serious Injury
+Thursday,55,Female,Tertiary,Motorcycle,16,30,Fog,Night,Snow,Drunk Driving,Serious Injury
+Sunday,23,Female,Tertiary,Lorry,12,30,Cloudy,Twilight,Ice,Mechanical Failure,Slight Injury
+Monday,39,Male,Illiterate,Motorcycle,12,60,Cloudy,Daylight,Dry,Drunk Driving,Slight Injury
+Tuesday,42,Male,Secondary,Motorcycle,25,40,Fog,Twilight,Dry,Overspeed,Serious Injury
+Saturday,35,Female,Primary,Motorcycle,27,100,Rain,Twilight,Wet,Mechanical Failure,Serious Injury
+Monday,34,Female,Secondary,Taxi,20,40,Cloudy,Daylight,Ice,Fatigue,Slight Injury
+Sunday,29,Male,Illiterate,Bus,1,50,Cloudy,Daylight,Ice,Distracted,Serious Injury
+Sunday,23,Female,Illiterate,Bus,9,40,Fog,Daylight,Ice,Mechanical Failure,Serious Injury
+Thursday,43,Female,Primary,Bus,29,30,Fog,Daylight,Dry,Mechanical Failure,Slight Injury
+Friday,44,Male,Illiterate,Taxi,21,40,Fog,Night,Snow,Mechanical Failure,Slight Injury
+Monday,25,Male,Tertiary,Lorry,12,40,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Saturday,36,Male,Tertiary,Motorcycle,25,70,Clear,Twilight,Wet,Fatigue,Serious Injury
+Monday,59,Female,Tertiary,Lorry,8,100,Clear,Twilight,Dry,Fatigue,Slight Injury
+Wednesday,18,Female,Tertiary,Taxi,0,100,Fog,Twilight,Dry,Distracted,Fatal Injury
+Friday,46,Male,Tertiary,Bus,13,30,Rain,Night,Dry,Fatigue,Slight Injury
+Saturday,62,Male,Illiterate,Motorcycle,28,80,Cloudy,Twilight,Wet,Fatigue,Serious Injury
+Saturday,66,Female,Primary,Automobile,15,40,Clear,Twilight,Ice,Overspeed,Serious Injury
+Tuesday,52,Male,Primary,Automobile,19,40,Rain,Night,Snow,Overspeed,Serious Injury
+Thursday,57,Female,Tertiary,Lorry,14,60,Fog,Twilight,Snow,Drunk Driving,Serious Injury
+Tuesday,31,Female,Illiterate,Bus,0,100,Clear,Night,Wet,Distracted,Serious Injury
+Saturday,52,Male,Secondary,Automobile,16,40,Fog,Night,Ice,Overspeed,Serious Injury
+Friday,65,Male,Secondary,Lorry,23,100,Rain,Daylight,Ice,Distracted,Serious Injury
+Monday,62,Female,Illiterate,Taxi,29,40,Clear,Daylight,Wet,Distracted,Slight Injury
+Monday,37,Male,Tertiary,Lorry,29,70,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Friday,66,Male,Primary,Lorry,12,30,Clear,Night,Ice,Weather,Slight Injury
+Saturday,30,Male,Illiterate,Lorry,29,100,Clear,Daylight,Snow,Weather,Serious Injury
+Sunday,55,Male,Secondary,Motorcycle,26,50,Rain,Twilight,Wet,Weather,Slight Injury
+Monday,66,Female,Secondary,Lorry,14,30,Clear,Twilight,Snow,Distracted,Slight Injury
+Sunday,63,Female,Secondary,Lorry,15,60,Cloudy,Twilight,Dry,Mechanical Failure,Slight Injury
+Monday,66,Female,Tertiary,Motorcycle,15,30,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Monday,25,Female,Secondary,Motorcycle,1,40,Fog,Daylight,Snow,Drunk Driving,Fatal Injury
+Thursday,60,Male,Illiterate,Taxi,16,60,Clear,Twilight,Snow,Weather,Slight Injury
+Thursday,37,Male,Illiterate,Bus,10,30,Cloudy,Daylight,Dry,Drunk Driving,Slight Injury
+Wednesday,50,Female,Secondary,Automobile,7,60,Cloudy,Daylight,Wet,Mechanical Failure,Slight Injury
+Tuesday,43,Female,Illiterate,Automobile,19,50,Cloudy,Night,Ice,Weather,Slight Injury
+Friday,56,Male,Secondary,Lorry,2,30,Rain,Twilight,Ice,Mechanical Failure,Serious Injury
+Friday,38,Female,Secondary,Taxi,28,100,Clear,Daylight,Snow,Drunk Driving,Serious Injury
+Friday,66,Female,Primary,Lorry,11,100,Rain,Night,Dry,Weather,Serious Injury
+Wednesday,59,Male,Tertiary,Automobile,19,80,Rain,Night,Snow,Mechanical Failure,Serious Injury
+Thursday,60,Female,Tertiary,Motorcycle,15,40,Cloudy,Night,Dry,Fatigue,Slight Injury
+Saturday,58,Male,Primary,Bus,13,60,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Sunday,26,Male,Primary,Taxi,15,80,Fog,Twilight,Snow,Mechanical Failure,Serious Injury
+Sunday,41,Female,Tertiary,Motorcycle,26,80,Clear,Night,Snow,Mechanical Failure,Serious Injury
+Saturday,54,Male,Secondary,Bus,20,70,Clear,Twilight,Dry,Overspeed,Serious Injury
+Wednesday,66,Female,Secondary,Taxi,16,60,Cloudy,Twilight,Wet,Overspeed,Serious Injury
+Saturday,58,Male,Tertiary,Taxi,29,80,Cloudy,Daylight,Dry,Distracted,Slight Injury
+Friday,34,Female,Secondary,Automobile,10,70,Clear,Night,Wet,Weather,Serious Injury
+Tuesday,41,Female,Primary,Motorcycle,16,80,Fog,Night,Ice,Distracted,Serious Injury
+Monday,38,Female,Secondary,Taxi,18,40,Cloudy,Twilight,Snow,Distracted,Slight Injury
+Sunday,68,Male,Secondary,Taxi,21,50,Fog,Night,Snow,Drunk Driving,Serious Injury
+Thursday,56,Male,Illiterate,Bus,0,70,Rain,Night,Dry,Fatigue,Serious Injury
+Thursday,58,Female,Illiterate,Automobile,29,50,Cloudy,Night,Dry,Drunk Driving,Slight Injury
+Wednesday,56,Male,Illiterate,Lorry,26,60,Rain,Twilight,Ice,Weather,Slight Injury
+Thursday,30,Female,Secondary,Automobile,11,40,Cloudy,Twilight,Ice,Mechanical Failure,Slight Injury
+Friday,28,Female,Tertiary,Lorry,14,70,Rain,Twilight,Wet,Overspeed,Fatal Injury
+Sunday,63,Male,Primary,Motorcycle,17,60,Cloudy,Daylight,Ice,Weather,Slight Injury
+Saturday,36,Female,Secondary,Motorcycle,27,80,Fog,Night,Ice,Mechanical Failure,Serious Injury
+Friday,28,Male,Tertiary,Taxi,29,100,Fog,Daylight,Ice,Weather,Serious Injury
+Wednesday,30,Female,Secondary,Motorcycle,22,30,Fog,Twilight,Ice,Mechanical Failure,Slight Injury
+Friday,63,Male,Primary,Taxi,13,60,Rain,Daylight,Wet,Overspeed,Serious Injury
+Saturday,62,Female,Secondary,Automobile,29,50,Fog,Night,Ice,Mechanical Failure,Slight Injury
+Tuesday,18,Female,Primary,Motorcycle,0,40,Rain,Night,Wet,Distracted,Serious Injury
+Wednesday,57,Male,Secondary,Automobile,12,40,Cloudy,Twilight,Dry,Weather,Slight Injury
+Tuesday,61,Female,Primary,Automobile,29,60,Rain,Twilight,Snow,Overspeed,Serious Injury
+Monday,36,Female,Secondary,Motorcycle,14,80,Cloudy,Daylight,Dry,Mechanical Failure,Slight Injury
+Tuesday,29,Male,Primary,Automobile,6,30,Clear,Twilight,Ice,Distracted,Slight Injury
+Monday,25,Female,Illiterate,Motorcycle,14,50,Clear,Daylight,Snow,Distracted,Slight Injury
+Monday,25,Male,Secondary,Motorcycle,19,60,Clear,Night,Ice,Fatigue,Slight Injury
+Tuesday,62,Female,Secondary,Motorcycle,9,60,Rain,Night,Ice,Distracted,Slight Injury
+Wednesday,29,Male,Tertiary,Lorry,13,100,Clear,Night,Dry,Drunk Driving,Serious Injury
+Saturday,65,Female,Tertiary,Automobile,5,40,Clear,Night,Ice,Overspeed,Serious Injury
+Friday,50,Female,Primary,Bus,13,50,Clear,Night,Dry,Overspeed,Slight Injury
+Friday,62,Female,Secondary,Motorcycle,23,30,Cloudy,Daylight,Ice,Overspeed,Serious Injury
+Saturday,43,Male,Primary,Automobile,24,40,Fog,Night,Wet,Mechanical Failure,Slight Injury
+Sunday,56,Male,Illiterate,Taxi,21,60,Rain,Daylight,Snow,Weather,Slight Injury
+Sunday,45,Male,Tertiary,Motorcycle,11,40,Clear,Night,Dry,Mechanical Failure,Slight Injury
+Monday,22,Male,Primary,Motorcycle,10,40,Cloudy,Daylight,Dry,Drunk Driving,Serious Injury
+Monday,25,Female,Primary,Bus,28,70,Fog,Daylight,Snow,Weather,Serious Injury
+Wednesday,42,Female,Tertiary,Lorry,29,40,Fog,Daylight,Dry,Distracted,Slight Injury
+Thursday,44,Male,Secondary,Lorry,24,80,Fog,Twilight,Snow,Mechanical Failure,Serious Injury
+Tuesday,63,Male,Primary,Motorcycle,19,40,Cloudy,Daylight,Wet,Weather,Slight Injury
+Monday,40,Male,Tertiary,Automobile,21,80,Clear,Daylight,Ice,Distracted,Serious Injury
+Friday,47,Female,Secondary,Taxi,23,50,Fog,Night,Wet,Weather,Slight Injury
+Wednesday,62,Male,Illiterate,Taxi,24,40,Cloudy,Daylight,Ice,Distracted,Slight Injury
+Tuesday,64,Male,Tertiary,Automobile,18,30,Cloudy,Daylight,Snow,Weather,Slight Injury
+Wednesday,40,Female,Primary,Motorcycle,1,80,Rain,Twilight,Wet,Mechanical Failure,Fatal Injury
+Tuesday,66,Female,Illiterate,Taxi,21,80,Cloudy,Night,Ice,Mechanical Failure,Serious Injury
+Tuesday,64,Male,Secondary,Lorry,19,60,Fog,Twilight,Snow,Drunk Driving,Serious Injury
+Saturday,37,Female,Secondary,Automobile,0,50,Fog,Twilight,Ice,Fatigue,Serious Injury
+Monday,35,Male,Tertiary,Bus,7,40,Cloudy,Twilight,Dry,Overspeed,Slight Injury
+Wednesday,35,Female,Tertiary,Motorcycle,24,100,Fog,Daylight,Dry,Mechanical Failure,Serious Injury
+Wednesday,19,Male,Tertiary,Automobile,13,30,Cloudy,Twilight,Snow,Mechanical Failure,Slight Injury
+Saturday,21,Male,Secondary,Taxi,8,60,Fog,Twilight,Ice,Distracted,Serious Injury
+Friday,47,Male,Illiterate,Motorcycle,1,50,Rain,Night,Dry,Fatigue,Serious Injury
+Friday,50,Male,Secondary,Lorry,24,80,Clear,Night,Wet,Mechanical Failure,Serious Injury
+Sunday,53,Female,Primary,Motorcycle,22,30,Rain,Night,Ice,Weather,Slight Injury
+Monday,35,Female,Secondary,Motorcycle,4,40,Rain,Night,Ice,Fatigue,Slight Injury
+Monday,54,Female,Primary,Lorry,22,100,Clear,Twilight,Dry,Overspeed,Serious Injury
+Thursday,36,Female,Illiterate,Lorry,28,70,Fog,Night,Dry,Weather,Serious Injury
+Saturday,64,Male,Tertiary,Motorcycle,24,70,Clear,Daylight,Snow,Distracted,Serious Injury
+Friday,45,Male,Tertiary,Lorry,7,50,Cloudy,Twilight,Ice,Drunk Driving,Serious Injury
+Tuesday,57,Female,Secondary,Automobile,15,100,Clear,Night,Wet,Weather,Serious Injury
+Wednesday,37,Female,Tertiary,Lorry,21,30,Rain,Twilight,Dry,Overspeed,Serious Injury
+Monday,66,Female,Illiterate,Lorry,15,60,Clear,Night,Ice,Weather,Slight Injury
+Wednesday,50,Female,Tertiary,Motorcycle,12,30,Fog,Twilight,Dry,Fatigue,Slight Injury
+Wednesday,29,Female,Secondary,Automobile,19,100,Rain,Night,Snow,Fatigue,Serious Injury
+Thursday,68,Male,Illiterate,Bus,28,80,Cloudy,Daylight,Ice,Overspeed,Serious Injury
+Friday,32,Male,Primary,Bus,14,70,Fog,Night,Ice,Fatigue,Serious Injury
+Monday,58,Male,Secondary,Taxi,0,50,Rain,Twilight,Snow,Weather,Serious Injury
+Wednesday,56,Female,Primary,Lorry,21,40,Cloudy,Twilight,Wet,Drunk Driving,Serious Injury
+Monday,19,Female,Illiterate,Lorry,2,30,Fog,Daylight,Dry,Weather,Serious Injury
+Tuesday,46,Female,Secondary,Automobile,5,70,Cloudy,Twilight,Snow,Drunk Driving,Serious Injury
+Thursday,58,Female,Secondary,Bus,21,60,Clear,Daylight,Ice,Fatigue,Slight Injury
+Tuesday,27,Male,Illiterate,Taxi,13,50,Clear,Twilight,Snow,Weather,Slight Injury
+Monday,19,Male,Tertiary,Automobile,3,40,Cloudy,Twilight,Ice,Fatigue,Slight Injury
+Sunday,68,Female,Secondary,Lorry,17,30,Clear,Daylight,Snow,Drunk Driving,Serious Injury
+Monday,28,Male,Secondary,Bus,14,60,Cloudy,Twilight,Wet,Fatigue,Slight Injury
+Friday,30,Male,Primary,Taxi,8,40,Fog,Twilight,Ice,Mechanical Failure,Slight Injury
+Wednesday,27,Female,Tertiary,Motorcycle,17,80,Rain,Daylight,Snow,Distracted,Serious Injury
+Wednesday,31,Female,Primary,Bus,2,70,Cloudy,Night,Wet,Weather,Serious Injury
+Tuesday,35,Female,Primary,Taxi,9,80,Rain,Daylight,Wet,Mechanical Failure,Serious Injury
+Thursday,68,Female,Tertiary,Automobile,16,70,Rain,Twilight,Dry,Fatigue,Serious Injury
+Sunday,26,Female,Tertiary,Motorcycle,6,60,Cloudy,Night,Ice,Fatigue,Slight Injury
+Saturday,56,Female,Illiterate,Taxi,14,80,Clear,Night,Dry,Distracted,Slight Injury
+Wednesday,45,Male,Tertiary,Taxi,0,70,Fog,Night,Wet,Fatigue,Fatal Injury
+Friday,20,Male,Secondary,Lorry,26,50,Rain,Daylight,Dry,Distracted,Slight Injury
+Tuesday,37,Female,Tertiary,Bus,24,60,Fog,Night,Dry,Weather,Slight Injury
+Tuesday,23,Male,Illiterate,Lorry,26,70,Rain,Night,Snow,Drunk Driving,Fatal Injury
+Saturday,44,Female,Illiterate,Motorcycle,10,30,Cloudy,Night,Dry,Distracted,Slight Injury
+Friday,19,Female,Illiterate,Taxi,16,70,Clear,Twilight,Wet,Distracted,Serious Injury
+Thursday,46,Female,Tertiary,Lorry,4,80,Fog,Daylight,Dry,Mechanical Failure,Serious Injury
+Friday,55,Female,Tertiary,Bus,6,50,Rain,Daylight,Ice,Fatigue,Slight Injury
+Thursday,20,Male,Primary,Motorcycle,18,40,Cloudy,Twilight,Snow,Weather,Slight Injury
+Friday,33,Female,Primary,Automobile,24,40,Cloudy,Night,Wet,Drunk Driving,Serious Injury
+Friday,47,Male,Secondary,Lorry,23,70,Rain,Twilight,Dry,Overspeed,Serious Injury
+Monday,57,Female,Primary,Motorcycle,28,40,Rain,Twilight,Ice,Distracted,Slight Injury
+Tuesday,19,Female,Secondary,Automobile,14,70,Rain,Night,Wet,Overspeed,Fatal Injury
