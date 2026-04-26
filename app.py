@@ -176,40 +176,128 @@ def severity_advice(prediction):
 
 
 def main():
-    """Main application"""
-    # Hero section
+    """Main application: Dashboard, Input, Prediction"""
     st.markdown("""
     <div class="main-hero">
         <div class="main-title">🚦 Road Accident Severity Prediction Dashboard</div>
         <div class="main-subtitle">
-            A machine learning project that predicts road accident severity using driver, vehicle,
-            road, weather, casualty, and accident-condition features. Compare multiple ML models to find the best approach.
+            Enter accident conditions below to predict severity and get safety precautions.
         </div>
     </div>
     """, unsafe_allow_html=True)
-    
+
     # Load data
     df = load_data()
-    
     if df is None:
         st.error("Dataset not found! Please run train_model.py first to generate the dataset.")
         st.info("Run: `python train_model.py`")
         return
-    
-    # Sidebar navigation
-    st.sidebar.title("Navigation")
-    page = st.sidebar.radio("Go to", ["Home", "Data Overview", "Model Comparison", "Prediction", "About"])
-    
-    if page == "Home":
-        home_page(df)
-    elif page == "Data Overview":
-        data_overview_page(df)
-    elif page == "Model Comparison":
-        model_comparison_page(df)
-    elif page == "Prediction":
-        prediction_page(df)
-    elif page == "About":
-        about_page()
+
+    # Dashboard section
+    st.subheader("📊 Accident Data Dashboard")
+    col1, col2, col3, col4 = st.columns(4)
+    with col1:
+        st.metric("Total Records", f"{len(df):,}")
+    with col2:
+        st.metric("Total Features", df.shape[1])
+    with col3:
+        target_col = 'Accident_Severity'
+        if target_col in df.columns:
+            st.metric("Severity Classes", df[target_col].nunique())
+        else:
+            st.metric("Features", df.shape[1])
+    with col4:
+        st.metric("Target Column", "Accident_Severity")
+    st.markdown("### Dataset Preview")
+    st.dataframe(df.head(10), use_container_width=True)
+    if 'Accident_Severity' in df.columns:
+        st.markdown("### Accident Severity Distribution")
+        severity_counts = df["Accident_Severity"].value_counts().reset_index()
+        severity_counts.columns = ["Severity", "Count"]
+        fig = px.pie(
+            severity_counts,
+            names="Severity",
+            values="Count",
+            hole=0.45,
+            title="Accident Severity Distribution",
+            color_discrete_sequence=px.colors.qualitative.Set2
+        )
+        st.plotly_chart(fig, use_container_width=True)
+
+    st.markdown("---")
+    st.header("📝 Enter Accident Conditions for Prediction")
+    # Input form
+    models = load_models()
+    encoders = load_encoders()
+    label_encoders = encoders.get('label_encoders', {})
+    target_encoder = encoders.get('target_encoder', LabelEncoder())
+    scaler = encoders.get('scaler', StandardScaler())
+
+    col1, col2 = st.columns(2)
+    with col1:
+        day_of_week = st.selectbox("Day of Week", ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'])
+        age = st.number_input("Age of Driver", min_value=18, max_value=70, value=30)
+        sex = st.selectbox("Sex", ['Male', 'Female'])
+        education = st.selectbox("Educational Level", ['Illiterate', 'Primary', 'Secondary', 'Tertiary'])
+        vehicle = st.selectbox("Vehicle Type", ['Automobile', 'Motorcycle', 'Lorry', 'Bus', 'Taxi'])
+    with col2:
+        experience = st.number_input("Driving Experience (years)", min_value=0, max_value=30, value=5)
+        speed_limit = st.selectbox("Speed Limit", [30, 40, 50, 60, 70, 80, 100])
+        weather = st.selectbox("Weather", ['Clear', 'Cloudy', 'Rain', 'Fog'])
+        light = st.selectbox("Road Light Conditions", ['Daylight', 'Night', 'Twilight'])
+        surface = st.selectbox("Road Surface Conditions", ['Dry', 'Wet', 'Snow', 'Ice'])
+    cause = st.selectbox("Cause of Accident", ['Overspeed', 'Drunk Driving', 'Distracted', 'Fatigue', 'Mechanical Failure', 'Weather'])
+
+    input_data = pd.DataFrame({
+        'Day_of_Week': [day_of_week],
+        'Age_of_Driver': [age],
+        'Sex': [sex],
+        'Educational_Level': [education],
+        'Vehicle_Driver': [vehicle],
+        'Driving_Experience': [experience],
+        'Speed_Limit': [speed_limit],
+        'Weather': [weather],
+        'Road_Light_Conditions': [light],
+        'Road_Surface_Conditions': [surface],
+        'Cause_of_Accident': [cause]
+    })
+    for column in input_data.select_dtypes(include=['object']).columns:
+        if column in label_encoders:
+            input_data[column] = label_encoders[column].transform(input_data[column])
+    input_scaled = scaler.transform(input_data)
+
+    if st.button("Predict Severity", type="primary"):
+        st.markdown("### Prediction Result")
+        if not models:
+            st.error("No trained models found. Please train models first.")
+            return
+        rf_model = models.get('random_forest', list(models.values())[0])
+        pred = rf_model.predict(input_scaled)[0]
+        pred_label = target_encoder.inverse_transform([pred])[0]
+        severity, title, advice = severity_advice(pred_label)
+        st.markdown(f"""
+        <div class="prediction-card {severity}">
+            <h3>{title}</h3>
+            <p><b>Predicted Severity:</b> {pred_label}</p>
+            <p><b>Precaution:</b> {advice}</p>
+        </div>
+        """, unsafe_allow_html=True)
+        st.markdown("---")
+        st.markdown("#### Probability Distribution (Random Forest)")
+        prob = rf_model.predict_proba(input_scaled)[0]
+        prob_df = pd.DataFrame({
+            'Class': target_encoder.classes_,
+            'Probability': prob
+        })
+        fig = px.bar(
+            prob_df,
+            x='Class',
+            y='Probability',
+            color='Probability',
+            color_continuous_scale="Teal",
+            title="Prediction Probabilities"
+        )
+        st.plotly_chart(fig, use_container_width=True)
 
 
 def home_page(df):
@@ -512,56 +600,6 @@ def prediction_page(df):
         st.plotly_chart(fig, use_container_width=True)
 
 
-def about_page():
-    """About page"""
-    st.header("ℹ️ About")
-    
-    st.markdown("""
-    ### Road Accident Severity Prediction
-    
-    This is a machine learning web application that predicts road accident severity 
-    based on various factors including:
-    
-    - **Driver Information**: Age, Sex, Education Level, Driving Experience
-    - **Vehicle Information**: Vehicle Type
-    - **Road Conditions**: Speed Limit, Road Surface, Light Conditions
-    - **Environmental Factors**: Weather Conditions
-    - **Accident Details**: Cause of Accident, Day of Week
-    
-    ### Models Used
-    
-    1. **Random Forest** - Ensemble learning method
-    2. **Gradient Boosting** - Boosting method
-    3. **Logistic Regression** - Linear classification
-    4. **Decision Tree** - Tree-based classification
-    5. **K-Nearest Neighbors** - Instance-based learning
-    6. **Support Vector Machine** - Kernel-based classification
-    7. **AdaBoost** - Adaptive boosting
-    
-    ### Target Classes
-    
-    - 🚗 **Slight Injury**
-    - ⚠️ **Serious Injury**
-    - 🔴 **Fatal Injury**
-    
-    ### How to Run
-    
-    1. Install dependencies: `pip install -r requirements.txt`
-    2. Train models: `python train_model.py`
-    3. Run app: `streamlit run app.py`
-    
-    ### GitHub Clone
-    
-    To clone this project to GitHub:
-    
-    ```bash
-    git init
-    git add .
-    git commit -m "Initial commit"
-    git remote add origin https://github.com/yourusername/road-accident-severity-prediction.git
-    git push -u origin main
-    ```
-    """)
 
 
 if __name__ == "__main__":
