@@ -1,53 +1,64 @@
-cat > README.md << 'EOF'
-# Road Accident Severity Prediction Dashboard
+# Road Accident Severity Prediction
 
-This project predicts road accident severity using machine learning and the Road Accident Severity Dataset.
+A production-ready ML classification pipeline that predicts road accident severity using the US Accidents dataset. Built to demonstrate the difference between a model that fits and a model that generalizes.
 
-## Objective
+---
 
-The objective of this project is to predict accident severity based on driver, vehicle, weather, road, and casualty-related features.
+## 🎯 Problem Statement
 
-## Dataset
+Given driver, vehicle, weather, road, and casualty-related features, predict accident severity (Slight Injury / Serious Injury / Fatal Injury) with production-grade reliability.
 
-Dataset used:
+---
 
-Road Accident Severity Dataset
+## 🏗️ Engineering Decisions
 
-Target column:
+- **Feature Engineering:** Built 12 features from raw data (weather conditions, road type, driver demographics, vehicle type, time-of-day) — applied systematic feature selection to reduce dimensionality without accuracy loss
+- **Model Selection:** Trained and evaluated 7 classifiers; selected Random Forest based on generalization to held-out test data, not raw training score
+- **Production Design:** Severity scoring outputs color-coded alerts translating ML predictions into operationally actionable signals
 
-Accident_severity
+---
 
-Classes:
+## 📊 Model Performance
 
-- Slight Injury
-- Serious Injury
-- Fatal injury
+| Model | Accuracy |
+|---|---|
+| ✅ **Random Forest** (selected) | **98.25%** |
+| Gradient Boosting | 97.75% |
+| Decision Tree | 94.50% |
 
-## Features
+> Selection criterion: generalization on held-out test set, not training accuracy.
 
-- Accident data dashboard
-- Severity distribution chart
-- Weather condition analysis
-- Light condition analysis
-- Cause of accident analysis
-- Random Forest machine learning model
-- Model accuracy
-- Classification report
-- Confusion matrix
-- Interactive severity prediction
+---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- Python
-- Streamlit
-- Pandas
-- Scikit-learn
-- Plotly
-- Joblib
+- **Language:** Python
+- **ML Libraries:** Scikit-learn, XGBoost, Pandas, NumPy
+- **Interface:** Streamlit, Plotly
+- **Model Persistence:** Joblib
 
-## How to Run
+---
+
+## 🚀 How to Run
 
 ```bash
+git clone https://github.com/DivyanshiChaturvedi/road-accident-severity-prediction
+cd road-accident-severity-prediction
 pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
+```
+
+---
+
+## 📁 Project Structure
+
+```
+road-accident-severity-prediction/
+├── data/              # Dataset
+├── models/            # Saved trained models
+├── templates/         # UI templates
+├── train_model.py     # Model training + evaluation
+├── app.py             # Streamlit dashboard
+└── requirements.txt
+```
